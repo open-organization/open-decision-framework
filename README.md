@@ -10,5 +10,6 @@ The community version is available under a Creative Commons CC-BY-SA 4.0 license
 
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
 
+Links:
 [1] https://opensource.com/open-source-way
 [2] http://creativecommons.org/licenses/by-sa/4.0/
