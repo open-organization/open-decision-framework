@@ -8,15 +8,27 @@ Released under Creative Commons Attribution-ShareAlike 4.0 International License
 
 CONTENTS
 --------
-[Overview](#overview)
+* [Overview](#overview)
+* [What is an open decision?](#what-is-an-open-decision)
+* [Open decisions are made using open principles](#open-decisions-open-principles)
+* [How open source principles lead to better decisions](#how-open-source-principles)
+* [You can't please everyone. But when you make open decisions, people feel...](#cant-please-everyone)
+* [Phase: Ideation](#ideation)
+* [Phase: Plan + Research](#plan-research)
+* [Phase: Design, Develop, Test](#design-develop-test)
+* [Phase: Launch](#launch)
+* [Resources](#resources)
+* [Appendix](#appendix)
+* [Why the framework exists](#why-framework)
 
-OVERVIEW <a name="overview"></a>
+Overview <a name="overview"></a>
 --------
 
 **What it is**
   - A flexible, open approach to making business decisions and leading projects
 
 **When to use it**
+
 For decisions and projects that are likely to:
   - impact our culture or
   - affect associates beyond your immediate team
@@ -24,26 +36,23 @@ For decisions and projects that are likely to:
 **How to use it**
   - Build steps from the Open Decision Framework into your project plan or decision-making process
 
-What is an open decision?
+What is an open decision? <a name="what-is-an-open-decision"></a>
 -------------------------
 
-**Transparent**
+<table>
+<tr>
+<td>Transparent</td>
+<td>Inclusive</td>
+<td>Customer-Centric</td>
+</tr>
+<tr>
+<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
+<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
+<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
+</tr>
+</table>
 
-Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.
-
-**Inclusive**
-
-Engage others for feedback and collaborate throughout the decision-making process.
-
-Seek out diverse perspectives, including potential detractors.
-
-**Customer-centric**
-
-Think of people as customers with competing needs and priorities.
-
-When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.
-
-Open decisions are made using open source principles
+Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
 ====================================================
 
 **Open exchange**
@@ -68,39 +77,33 @@ Communities are formed around a common purpose. They bring together diverse idea
 
 Adapted from: https://opensource.com/open-source-way
 
-How open source principles lead to better decisions 
+How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
 ===================================================
 
-**Principles**
+<table>
+<tr>
+<td>Principles</td>
+<td>→</td>
+<td>Practices</td>
+<td>→</td>
+<td>Outcomes</td>
+</tr>
+<tr>
+<td>
+• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
+</td>
+<td>→<br/>→<br/>→</td>
+<td>
+• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
+</td>
+<td>→<br/>→<br/>→</td>
+<td>
+• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
+</td>
+</tr>
+</table>
 
-  - Open exchange
-  - Participation
-  - Release early + often
-  - Meritocracy
-  - Community
-
-Lead to:
-
-**Practices**
-
-  - Transparency with internal customers and other stakeholders
-  - Customer involvement
-  - Gain feedback and adapt iterative changes
-  - Ideation with customers
-  - Build trust and respect via collaboration 
-
-Lead to:
-
-**Outcomes**
-
-  - Customer buy-in
-  - Stronger and faster adoption
-  - Best ideas win
-  - Fewer bugs, issues, and unanticipated impacts
-  - Higher associate engagement
-  - Decisions aligned to strategy and culture
-
-You can't please everyone. But when you make open decisions, people feel... 
+You can't please everyone. But when you make open decisions, people feel... <a name="cant-please-everyone"></a>
 ===========================================================================
 
   - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
@@ -111,7 +114,7 @@ You can't please everyone. But when you make open decisions, people feel...
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
-Phase: Ideation
+Phase: Ideation <a name="ideation"></a>
 ---------------
 
 **Steps you can take to be open**
@@ -158,7 +161,7 @@ There are a handful of issues that often generate controversy and upset within R
   - Use of proprietary formats
   - Data privacy and sharing
 
-Phase: Plan + Research
+Phase: Plan + Research <a name="plan-research"></a>
 ----------------------
 
 **Steps you can take to be open**
@@ -205,7 +208,7 @@ Phase: Plan + Research
   - Where and how to collaborate
   - Roles + responsibilities
 
-Phase: Design, Develop, Test
+Phase: Design, Develop, Test <a name="design-develop-test"></a>
 ----------------------------
 
 **Steps you can take to be open**
@@ -255,7 +258,7 @@ Phase: Design, Develop, Test
   - Unexpected impacts and use cases
   - Unspoken risks and concerns
 
-Phase: Launch
+Phase: Launch <a name="launch"></a>
 -------------
 
 **Steps you can take to be open**
@@ -294,7 +297,7 @@ Phase: Launch
   - Did open decision-making lead to the desired outcomes?
   - How can we share our lessons learned and encourage open decision-making at Red Hat?
 
-RESOURCES 
+RESOURCES <a name="resources"></a>
 =========
 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
@@ -303,7 +306,7 @@ RESOURCES
   - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-APPENDIX 
+APPENDIX <a name="appendix"></a>
 ========
 
 History: Where the Open Decision Framework came from
@@ -321,7 +324,7 @@ History: Where the Open Decision Framework came from
 
   - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
 
-Why the framework exists
+Why the framework exists <a name="why-framework"></a>
 ------------------------
 
 **A collection of proven practices that:**
