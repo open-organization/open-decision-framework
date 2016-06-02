@@ -12,6 +12,8 @@ The community version is available under a [Creative Commons CC-BY-SA 4.0 licens
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
 
+If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
+
 ## Credits
 **Maintainer**: Rebecca Fernandez @berecka <rfernand@redhat.com>
 
