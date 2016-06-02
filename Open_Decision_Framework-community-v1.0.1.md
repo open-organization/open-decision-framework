@@ -6,6 +6,12 @@ Updated June 2, 2016
 
 Released under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
+Notes
+=========
+
+* This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
+* Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
+
 Contents
 ===========================================================================
 * [Overview](#overview)
@@ -23,9 +29,10 @@ Contents
   * [History: Where the framework came from](#history)
   * [Why the framework exists](#why-framework)
 
-
-Overview <a name="overview"></a>
+<br/>
+Overview<a name="overview"></a>
 ===========================================================================
+{page 2 of 15} 
 
 **What it is**
   - A flexible, open approach to making business decisions and leading projects
@@ -39,9 +46,10 @@ For decisions and projects that are likely to:
 **How to use it**
   - Build steps from the Open Decision Framework into your project plan or decision-making process
 
-
+<br/>
 What is an open decision? <a name="what-is-an-open-decision"></a>
 -------------------------
+{page 3 of 15} 
 
 <table>
 <tr>
@@ -56,9 +64,10 @@ What is an open decision? <a name="what-is-an-open-decision"></a>
 </tr>
 </table>
 
-
+<br/>
 Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
 -----------------------------------------------------
+{page 4 of 15} 
 
 **Open exchange**
 
@@ -82,9 +91,10 @@ Communities are formed around a common purpose. They bring together diverse idea
 
 Adapted from: https://opensource.com/open-source-way
 
-
+<br/>
 How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
+{page 5 of 15} 
 
 <table>
 <tr>
@@ -109,10 +119,10 @@ How open source principles lead to better decisions <a name="how-open-source-pri
 </tr>
 </table>
 
-
+<br/>
 You can't please everyone. <a name="cant-please-everyone"></a>
 ----------------------------------------------------
-**But when you make open decisions, people feel...**
+**But when you make open decisions, people feel...**  {page 6 of 15} 
 
   - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
   - There was visibility to the business requirements, research, and evaluation criteria.
@@ -122,9 +132,10 @@ You can't please everyone. <a name="cant-please-everyone"></a>
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
-
+<br/>
 Open Decision Framework <a name="framework"></a>
 ===========================================================================
+{page 7 of 15} 
 
 Phase: Ideation <a name="ideation"></a>
 ---------------
@@ -182,9 +193,11 @@ If your project or decision involves any of these themes, take extra steps to ma
 </tr>
 </table>
 
-
+<br/>
 Phase: Plan + Research <a name="plan-research"></a>
 ----------------------
+{page 8 of 15} 
+
 <table>
 <tr>
 <td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
@@ -233,9 +246,11 @@ Phase: Plan + Research <a name="plan-research"></a>
 </tr>
 </table>
 
-
+<br/>
 Phase: Design, Develop, Test <a name="design-develop-test"></a>
 ----------------------------
+{page 9 of 15} 
+
 <table>
 <tr>
 <td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
@@ -289,9 +304,11 @@ Phase: Design, Develop, Test <a name="design-develop-test"></a>
 </tr>
 </table>
 
-
+<br/>
 Phase: Launch <a name="launch"></a>
 --------------
+{page 10 of 15} 
+
 <table>
 <tr>
 <td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
@@ -332,9 +349,10 @@ Phase: Launch <a name="launch"></a>
 </tr>
 </table>
 
-
+<br/>
 Resources <a name="resources"></a>
 ===========================================================================
+{page 12 of 15} 
 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
@@ -342,12 +360,13 @@ Resources <a name="resources"></a>
   - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-
+<br/>
 Appendix <a name="appendix"></a>
 ===========================================================================
 
 History: Where the Open Decision Framework came from <a name="history"></a>
 ----------------------------------------------------
+{page 14 of 15} 
 
   - Based on principles practiced by open source communities
 
@@ -361,9 +380,10 @@ History: Where the Open Decision Framework came from <a name="history"></a>
 
   - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
 
-
+<br/>
 Why the framework exists <a name="why-framework"></a>
 ------------------------
+{page 15 of 15} 
 
 **A collection of proven practices that:**
 
