@@ -32,7 +32,7 @@ Contents
 <br/>
 Overview<a name="overview"></a>
 ===========================================================================
-{page 2 of 15} 
+_page 2 of 15_
 
 **What it is**
   - A flexible, open approach to making business decisions and leading projects
@@ -49,7 +49,7 @@ For decisions and projects that are likely to:
 <br/>
 What is an open decision? <a name="what-is-an-open-decision"></a>
 -------------------------
-{page 3 of 15} 
+_page 3 of 15_
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ What is an open decision? <a name="what-is-an-open-decision"></a>
 <br/>
 Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
 -----------------------------------------------------
-{page 4 of 15} 
+_page 4 of 15_ 
 
 **Open exchange**
 
@@ -94,7 +94,7 @@ Adapted from: https://opensource.com/open-source-way
 <br/>
 How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
-{page 5 of 15} 
+_page 5 of 15_ 
 
 <table>
 <tr>
@@ -122,7 +122,7 @@ How open source principles lead to better decisions <a name="how-open-source-pri
 <br/>
 You can't please everyone. <a name="cant-please-everyone"></a>
 ----------------------------------------------------
-**But when you make open decisions, people feel...**  {page 6 of 15} 
+**But when you make open decisions, people feel...**  _page 6 of 15_ 
 
   - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
   - There was visibility to the business requirements, research, and evaluation criteria.
@@ -135,10 +135,11 @@ You can't please everyone. <a name="cant-please-everyone"></a>
 <br/>
 Open Decision Framework <a name="framework"></a>
 ===========================================================================
-{page 7 of 15} 
 
 Phase: Ideation <a name="ideation"></a>
 ---------------
+_page 7 of 15_ 
+
 <table>
 <tr>
 <td width=34%><strong>Steps you can take to be open</strong></td>
@@ -196,7 +197,7 @@ If your project or decision involves any of these themes, take extra steps to ma
 <br/>
 Phase: Plan + Research <a name="plan-research"></a>
 ----------------------
-{page 8 of 15} 
+_page 8 of 15_
 
 <table>
 <tr>
@@ -249,7 +250,7 @@ Phase: Plan + Research <a name="plan-research"></a>
 <br/>
 Phase: Design, Develop, Test <a name="design-develop-test"></a>
 ----------------------------
-{page 9 of 15} 
+_page 9 of 15_ 
 
 <table>
 <tr>
@@ -307,7 +308,7 @@ Phase: Design, Develop, Test <a name="design-develop-test"></a>
 <br/>
 Phase: Launch <a name="launch"></a>
 --------------
-{page 10 of 15} 
+_page 10 of 15_ 
 
 <table>
 <tr>
@@ -352,7 +353,7 @@ Phase: Launch <a name="launch"></a>
 <br/>
 Resources <a name="resources"></a>
 ===========================================================================
-{page 12 of 15} 
+_page 12 of 15_ 
 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
@@ -366,7 +367,7 @@ Appendix <a name="appendix"></a>
 
 History: Where the Open Decision Framework came from <a name="history"></a>
 ----------------------------------------------------
-{page 14 of 15} 
+_page 14 of 15_ 
 
   - Based on principles practiced by open source communities
 
@@ -383,7 +384,7 @@ History: Where the Open Decision Framework came from <a name="history"></a>
 <br/>
 Why the framework exists <a name="why-framework"></a>
 ------------------------
-{page 15 of 15} 
+_page 15 of 15_ 
 
 **A collection of proven practices that:**
 
