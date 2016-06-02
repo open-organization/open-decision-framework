@@ -1,25 +1,28 @@
 Open Decision Framework
 =======================
-Community Version 1.0
+Community Version 1.0.1
 
-Updated May 19, 2016
+Updated June 2, 2016
 
 Released under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
 
 CONTENTS
 --------
 * [Overview](#overview)
-* [What is an open decision?](#what-is-an-open-decision)
-* [Open decisions are made using open principles](#open-decisions-open-principles)
-* [How open source principles lead to better decisions](#how-open-source-principles)
-* [You can't please everyone. But when you make open decisions, people feel...](#cant-please-everyone)
-* [Phase: Ideation](#ideation)
-* [Phase: Plan + Research](#plan-research)
-* [Phase: Design, Develop, Test](#design-develop-test)
-* [Phase: Launch](#launch)
+  * [What is an open decision?](#what-is-an-open-decision)
+  * [Open decisions are made using open principles](#open-decisions-open-principles)
+  * [How open source principles lead to better decisions](#how-open-source-principles)
+  * [You can't please everyone](#cant-please-everyone)
+* [Open Decision Framework](#framework)
+  * [Phase: Ideation](#ideation)
+  * [Phase: Plan + Research](#plan-research)
+  * [Phase: Design, Develop, Test](#design-develop-test)
+  * [Phase: Launch](#launch)
 * [Resources](#resources)
 * [Appendix](#appendix)
-* [Why the framework exists](#why-framework)
+  * [History: Where the framework came from](#history)
+  * [Why the framework exists](#why-framework)
+
 
 Overview <a name="overview"></a>
 --------
@@ -36,8 +39,9 @@ For decisions and projects that are likely to:
 **How to use it**
   - Build steps from the Open Decision Framework into your project plan or decision-making process
 
+
 What is an open decision? <a name="what-is-an-open-decision"></a>
--------------------------
+===========================================================================
 
 <table>
 <tr>
@@ -52,8 +56,9 @@ What is an open decision? <a name="what-is-an-open-decision"></a>
 </tr>
 </table>
 
+
 Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
-====================================================
+===========================================================================
 
 **Open exchange**
 
@@ -76,6 +81,7 @@ In a meritocracy, good ideas can come from anywhere, and the best ideas win. Eve
 Communities are formed around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
 
 Adapted from: https://opensource.com/open-source-way
+
 
 How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
 ===================================================
@@ -103,8 +109,10 @@ How open source principles lead to better decisions <a name="how-open-source-pri
 </tr>
 </table>
 
-You can't please everyone. But when you make open decisions, people feel... <a name="cant-please-everyone"></a>
+
+You can't please everyone. <a name="cant-please-everyone"></a>
 ===========================================================================
+**But when you make open decisions, people feel...**
 
   - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
   - There was visibility to the business requirements, research, and evaluation criteria.
@@ -114,8 +122,12 @@ You can't please everyone. But when you make open decisions, people feel... <a n
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
+
+Open Decision Framework <a name="framework"></a>
+-----------------------
+
 Phase: Ideation <a name="ideation"></a>
----------------
+===========================================================================
 
 **Steps you can take to be open**
 
@@ -161,8 +173,9 @@ There are a handful of issues that often generate controversy and upset within R
   - Use of proprietary formats
   - Data privacy and sharing
 
+
 Phase: Plan + Research <a name="plan-research"></a>
-----------------------
+===========================================================================
 
 **Steps you can take to be open**
 
@@ -208,8 +221,9 @@ Phase: Plan + Research <a name="plan-research"></a>
   - Where and how to collaborate
   - Roles + responsibilities
 
+
 Phase: Design, Develop, Test <a name="design-develop-test"></a>
-----------------------------
+===========================================================================
 
 **Steps you can take to be open**
 
@@ -258,8 +272,9 @@ Phase: Design, Develop, Test <a name="design-develop-test"></a>
   - Unexpected impacts and use cases
   - Unspoken risks and concerns
 
+
 Phase: Launch <a name="launch"></a>
--------------
+===========================================================================
 
 **Steps you can take to be open**
 
@@ -297,8 +312,9 @@ Phase: Launch <a name="launch"></a>
   - Did open decision-making lead to the desired outcomes?
   - How can we share our lessons learned and encourage open decision-making at Red Hat?
 
-RESOURCES <a name="resources"></a>
-=========
+
+Resources <a name="resources"></a>
+---------
 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
@@ -306,11 +322,12 @@ RESOURCES <a name="resources"></a>
   - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-APPENDIX <a name="appendix"></a>
-========
 
-History: Where the Open Decision Framework came from
-----------------------------------------------------
+Appendix <a name="appendix"></a>
+--------
+
+History: Where the Open Decision Framework came from <a name="history"></a>
+===========================================================================
 
   - Based on principles practiced by open source communities
 
@@ -324,8 +341,9 @@ History: Where the Open Decision Framework came from
 
   - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
 
+
 Why the framework exists <a name="why-framework"></a>
-------------------------
+===========================================================================
 
 **A collection of proven practices that:**
 
