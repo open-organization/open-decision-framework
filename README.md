@@ -15,7 +15,7 @@ Take a look, and let us know what you think. Feel free to remix it, and share it
 If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
 
 ## Credits
-**Maintainer**: Rebecca Fernandez @berecka <rfernand@redhat.com>
+**Maintainer**: Rebecca Fernandez @ruhbehka <rfernand@redhat.com>
 
 ### Red Hat contributors (2014 - 2016)
 * DeLisa Alexander
@@ -24,7 +24,7 @@ If you'd like to submit an idea, please use the markdown version (.md) for easy 
 * Denise Dumas 
 * Jiri Eischmann
 * Pedro Zapata Fernandez
-* Rebecca Fernandez @berecka
+* Rebecca Fernandez @ruhbehka
 * Michal Fojtik @mfojtik
 * Werner Gold
 * Catherine Grable
