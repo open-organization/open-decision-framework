@@ -7,7 +7,7 @@ For the past few years at Red Hat, we’ve been grappling with the challenges of
 The Open Decision Framework contains the collective wisdom of Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geos, to make better decisions. 
 
 ## Licensing
-The community version is available under a [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
+The Open Decision Framework is available under a [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
 
 ## Available formats
 The Open Decision Framework is available in three different formats:
