@@ -9,6 +9,15 @@ The Open Decision Framework contains the collective wisdom of Red Hatters, compi
 ## Licensing
 The community version is available under a [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
 
+## Available formats
+The Open Decision Framework is available in three different formats:
+
+1. Markdown (ODF-community.md) - best for tracking and submitting proposed changes, translations, etc.
+
+2. LibreOffice Impress (ODF-community.odp) - best for editing and remixing into your own presentation
+
+3. Portable Document Format "PDF" (ODF-community.pdf) - best for viewing, sharing, presenting as-is, and printing
+
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
 
