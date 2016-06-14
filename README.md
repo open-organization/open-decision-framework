@@ -12,11 +12,9 @@ The community version is available under a [Creative Commons CC-BY-SA 4.0 licens
 ## Available formats
 The Open Decision Framework is available in three different formats:
 
-1. [Markdown] (ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
-
+1. [Portable Document Format] (ODF-community.pdf) (.pdf) - best for viewing, sharing, presenting as-is, and printing
 2. [LibreOffice Impress] (ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
-
-3. [Portable Document Format] (ODF-community.pdf) (.pdf) - best for viewing, sharing, presenting as-is, and printing
+3. [Markdown] (ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
