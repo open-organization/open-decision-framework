@@ -16,16 +16,16 @@ The Open Decision Framework is available in three different formats:
 2. [LibreOffice Impress] (ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
 3. [Markdown] (ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
 
+## Feedback
+Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
+
+If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
+
 ## Related resources
 
 **Maturity model assessment**: 
 What does the Open Decision Framework look like, in action? What does it look like as you begin to adopt the practices... and later on, as you mature in your capabilities?
  * Download the [maturity model](maturity-model) and find out.
-
-## Feedback
-Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
-
-If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
 
 ## Credits
 **Maintainer**: Rebecca Fernandez @ruhbehka
