@@ -28,7 +28,7 @@ Take a look, and let us know what you think. Feel free to remix it, and share it
 If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
 
 ## Credits
-**Maintainer**: Rebecca Fernandez @ruhbehka <rfernand@redhat.com>
+**Maintainer**: Rebecca Fernandez @ruhbehka
 
 ### Red Hat contributors (2014 - 2016)
 * DeLisa Alexander
