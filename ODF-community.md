@@ -1,10 +1,10 @@
 Open Decision Framework
 =======================
-Community Version 1.0.1
+Community Version 1.0.2
 
-Updated June 2, 2016
+Updated Oct 13, 2016
 
-Released under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
+(c) 2014 Red Hat | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries.
 
 Notes
 =========
@@ -136,7 +136,7 @@ You can't please everyone. <a name="cant-please-everyone"></a>
 Open Decision Framework <a name="framework"></a>
 ===========================================================================
 
-Phase: Ideation <a name="ideation"></a>
+Phase or activity: Concept, Define, Ideate <a name="ideation"></a>
 ---------------
 _page 7 of 15_ 
 
@@ -155,11 +155,9 @@ _page 7 of 15_
 
 <strong>Build diversity of thought + an inclusive environment</strong><br/>
  • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse perspectives (geographies, departments, levels)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/></br>
+ • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
+ • Champion collaboration and provide channels for feedback<br/><br/>
  • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
-
-<strong>Begin to define roles + responsibilities</strong>
 </td>
 <td>
  • What is the potential impact on the organization? On the culture?<br/><br/>
@@ -189,13 +187,14 @@ If your project or decision involves any of these themes, take extra steps to ma
  • Confidentiality, privacy, and regulatory requirements<br/><br/>
  • Potential to generate controversy<br/><br/>
  • Impact on Red Hat's culture and future decisions<br/><br/>
+ • Roles + responsibilities<br/><br/>
  • Where to publish
 </td>
 </tr>
 </table>
 
 <br/>
-Phase: Plan + Research <a name="plan-research"></a>
+Phase or activity: Plan, Research <a name="plan-research"></a>
 ----------------------
 _page 8 of 15_
 
@@ -248,7 +247,7 @@ _page 8 of 15_
 </table>
 
 <br/>
-Phase: Design, Develop, Test <a name="design-develop-test"></a>
+Phase or activity: Design, Develop, Test <a name="design-develop-test"></a>
 ----------------------------
 _page 9 of 15_ 
 
@@ -306,14 +305,14 @@ _page 9 of 15_
 </table>
 
 <br/>
-Phase: Launch <a name="launch"></a>
+Phase or activity: Launch, Deploy, Close <a name="launch"></a>
 --------------
 _page 10 of 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
-<td><Strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
+<td><strong>Questions to ask</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
