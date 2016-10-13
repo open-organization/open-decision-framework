@@ -1,6 +1,6 @@
 Open Decision Framework
 =======================
-Community Version 1.0.2
+Community Version 1.0.3
 
 Updated Oct 13, 2016
 
@@ -20,10 +20,10 @@ Contents
   * [How open source principles lead to better decisions](#how-open-source-principles)
   * [You can't please everyone](#cant-please-everyone)
 * [Open Decision Framework](#framework)
-  * [Phase: Ideation](#ideation)
-  * [Phase: Plan + Research](#plan-research)
-  * [Phase: Design, Develop, Test](#design-develop-test)
-  * [Phase: Launch](#launch)
+  * [Phase or activity: Concept, Define, Ideate](#ideation)
+  * [Phase or activity: Plan, Research](#plan-research)
+  * [Phase or activity: Design, Develop, Test](#design-develop-test)
+  * [Phase or activity: Launch, Deploy, Close](#launch)
 * [Resources](#resources)
 * [Appendix](#appendix)
   * [History: Where the framework came from](#history)
@@ -144,7 +144,7 @@ _page 7 of 15_
 <tr>
 <td width=34%><strong>Steps you can take to be open</strong></td>
 <td width=36%><strong>Questions to ask</strong></td>
-<Td width=30%><Strong>Common flamewar triggers</strong></td>
+<td width=30%><strong>Common flamewar triggers</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
@@ -156,7 +156,7 @@ _page 7 of 15_
 <strong>Build diversity of thought + an inclusive environment</strong><br/>
  • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
  • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/></br>
+ • Champion collaboration and provide channels for feedback<br/><br/>
  • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
 </td>
 <td>
@@ -187,7 +187,7 @@ If your project or decision involves any of these themes, take extra steps to ma
  • Confidentiality, privacy, and regulatory requirements<br/><br/>
  • Potential to generate controversy<br/><br/>
  • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities
+ • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
  • Where to publish
 </td>
 </tr>
@@ -200,8 +200,8 @@ _page 8 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
-<td><Strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
+<td><strong>Questions to ask</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
@@ -210,7 +210,7 @@ _page 8 of 15_
  • Remain open to new information and perspectives<Br/><br/>
  • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
 
-<Strong>Set expectations upfront</strong><Br/>
+<strong>Set expectations upfront</strong><Br/>
  • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
  • Publish decision process and project plan, with roles, dates, constraints
 </td>
@@ -235,13 +235,13 @@ _page 8 of 15_
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</td>
+<td><strong>Key considerations</strong></td>
 </tr>
 <tr>
 <td>
  • Impact – who, how often, and unexpected<br/>
  • Where and how to collaborate<Br/>
- • Roles + responsibilities
+ • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
 </td>
 </tr>
 </table>
@@ -253,8 +253,8 @@ _page 9 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
-<td><Strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
+<td><strong>Questions to ask</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Build your community</strong><br/>
@@ -311,8 +311,8 @@ _page 10 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
-<td><Strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
+<td><strong>Questions to ask</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
@@ -354,6 +354,7 @@ Resources <a name="resources"></a>
 ===========================================================================
 _page 12 of 15_ 
 
+  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
