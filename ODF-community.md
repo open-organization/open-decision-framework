@@ -156,7 +156,7 @@ _page 7 of 15_
 <strong>Build diversity of thought + an inclusive environment</strong><br/>
  • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
  • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/></br>
+ • Champion collaboration and provide channels for feedback<br/><br/>
  • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
 </td>
 <td>
@@ -187,7 +187,7 @@ If your project or decision involves any of these themes, take extra steps to ma
  • Confidentiality, privacy, and regulatory requirements<br/><br/>
  • Potential to generate controversy<br/><br/>
  • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities
+ • Roles + responsibilities<br/><br/>
  • Where to publish
 </td>
 </tr>
@@ -311,8 +311,8 @@ _page 10 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><Strong>Steps you can take to be open</strong></td>
-<td><Strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
+<td><strong>Questions to ask</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
