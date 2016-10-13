@@ -21,8 +21,14 @@ Take a look, and let us know what you think. Feel free to remix it, and share it
 
 If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
 
+## Related resources
+
+**Maturity model assessment**: 
+What does the Open Decision Framework look like, in action? What does it look like as you begin to adopt the practices... and later on, as you mature in your capabilities?
+ * Download the [maturity model](maturity-model) and find out.
+
 ## Credits
-**Maintainer**: Rebecca Fernandez @ruhbehka <rfernand@redhat.com>
+**Maintainer**: Rebecca Fernandez @ruhbehka
 
 ### Red Hat contributors (2014 - 2016)
 * DeLisa Alexander
