@@ -11,7 +11,8 @@ The Open Decision Framework is available under a [Creative Commons CC-BY-SA 4.0 
 
 ### Contributing
 
-All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/).
+All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). 
+* [Learn more](CONTRIBUTING.md)
 
 ### Modifying and forking
 
