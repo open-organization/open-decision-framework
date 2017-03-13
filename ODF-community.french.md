@@ -31,7 +31,7 @@ Contenu
   * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
   * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
 * [Cadre de Décision Ouverte](#framework)
-  * [Phase ou activité: Concevoir, Définir, FIXME:Ideate](#ideation)
+  * [Phase ou activité: Concevoir, Définir, Imaginer](#ideation)
   * [Phase ou activité: Planifier, Rechercher](#plan-research)
   * [Phase ou activité: FIXEM Design, Developper, Tester](#design-develop-test)
   * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
@@ -77,8 +77,8 @@ pré-requis et les contraintes en jeu et le processus que vous aller suivre.</td
 <td>Solliciter le feedback d'autres personnes et collaborer tout au long du
 processus de décision. Rechercher des points de vue variés, notamment ceux des
 détracteurs potentiels. </td>
-<td>Considérer les personnes comme des usagers ayant dans des besoins (FIXME
-competing needs) et des priorités. Quand une décision aide certains usagers
+<td>Considérer les personnes comme des usagers ayant dans des besoins
+contradictoires et des priorités. Quand une décision aide certains usagers
 mais en déçoit d'autres, gérer les relations et les attentes tout en avançant
 sur le projet. </td>
 </tr>
@@ -147,8 +147,9 @@ Méritocracie<br/> • Communauté
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparence avec les usagers internes et les autres parties prenantes
-(FIXME:stakeholders)<br/> • Implication des usagers<br/> • Récolter du feedback et s'adapter de manière itérative<br/> • (FIXME:Ideation with customers)<br/> • Construire de la confiance et du respect via la collaboration 
+• Transparence avec les usagers internes et les autres parties prenantes <br/> •
+Implication des usagers<br/> • Récolter du feedback et s'adapter de manière
+itérative<br/> • Imaginer avec les usagers<br/> • Construire de la confiance et du respect via la collaboration 
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
@@ -181,7 +182,7 @@ On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 Cadre de Décision Ouverte <a name="framework"></a>
 ===========================================================================
 
-Phase ou activité: Concevoir, Définir, (FIXME:Ideate) <a name="ideation"></a>
+Phase ou activité: Concevoir, Définir, Imagination <a name="ideation"></a>
 ---------------
 _page 7 sur 15_ 
 
@@ -197,10 +198,10 @@ _page 7 sur 15_
  • Publier un énoncé du problème et des approches possibles<br/><br/>
  • Identifer les aspects du projet ou de la décision qui ne peuvent pas être
 ouvert<br/><br/>
- • Publier votre processus (FIXME:your ideation process<br/><br/>
+ • Publier votre processus de conception<br/><br/>
 
 <strong>Batir une diversité de points de vue + un environement inclusif<strong><br/>
- • Solliciter les usagers internes et les parties prenantes (FIXME:stakeholders)
+ • Solliciter les usagers internes et les parties prenantes 
 très tôt, en particilier ceux qui pourraient ne pas être d'accord.<br/><br/>
  • Chercher des perspectives variées et sous-représentées (emplacement
 géographique, ethnie, départements, niveau hiérarchique, genre, age, etc. ) out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
@@ -223,7 +224,7 @@ désengager ?  Qui d'autre devons-nous prendre en compte?
 <td rowspan=3>
 Il y a un poignée de problèmes qui provoquent en général de la controverse ou de
 l'énervement chez Red Hat, notamment :<br/><br/>
- • Les décisions, (FIXME:policies) ou changement qui impactent les
+ • Les décisions, les politiques ou changement qui impactent les
 (FIXME:associates), par exemple les rémunérations et le programme de bien-être.<<br/><br/>
  • Les changements dans l'environement de travail des (FIXME:associates)<Br/><br/>
  • L'implementation d'une technologie propriétaire<br/><br/>
@@ -291,8 +292,7 @@ FIXME:memo-list ou un autre canal)
 </td>
 <td>
  • Comment allons-nous prendre les décisions?<Br/><Br/>
- • Quel usagers internes, parties prenantes (FIXME: stakeholders) et
-collaborateurs allons-nous impliquer ?<br/><br/>
+ • Quel usagers internes, parties prenantes et collaborateurs allons-nous impliquer ?<br/><br/>
  • Comment allons-nous les solliciter et communiquer avec eux ?<br/><br/>
  • Quels sont les options open source ?<br/><br/>
  • Comment le choix d'une technologie ou d'un format propriétaire va limiter
@@ -337,7 +337,7 @@ impactés négativement. <Br/><Br/>
  • Si une suggestion n'est pas possible, expliquer pourquoi<br/><br/>
  • Publier la progression du projet dans un endroit ouvert <br/><br/>
  • Fournir des infos régulières aux sponsors, aux usagers et aux parties
-prenantes (FIXME:stakeholders)
+prenantes 
 </td>
 <td rowspan=3 width=33%>
 <strong>Rassurer les personnes qui expriment des doutes</strong><br/>
@@ -414,7 +414,7 @@ vous savez que d'autres ne le seront pas. <br/><br/>
 questions de confidentialité<br/><br/>
  • Communiquer les critères de  succès et publier les métriques (FIXME:relevant)<br/><br/>
 
-<strong>Contribuer (FIXME:upstream)</strong><br/>
+<strong>Contribuer upstream</strong><br/>
  • Publier vos méthodes, les leçons apprises, les communiqués et les critères
 de décision dans les archives, pour que d'autres puissent étudier les anciennes
 décisions, comprendre pourquoi une décision a été prise et voir comment les
@@ -431,7 +431,7 @@ des améliorations incrémentales basées sur le feedback ?<br/><br/>
  • Quelle est la fenêtre temporelle raisonable pour l'afinage et les retours
 utilisateurs ?<br/><br/>
  • Avons-nous sous-estimé un point important ? Comment le prendre en compte ?<br/><br/>
- • Est-ce que la décision doit être revisée FIXME ?<br/><br/>
+ • Est-ce que la décision doit être revisée ?<br/><br/>
  • Est-ce cette décision ouverte nous a mené au résultat désiré ?<br/><br/>
  • Comment pouvons-nous partager les leçons apprises et encourager la prise de
 décision ouverte chez Red Hat ?
