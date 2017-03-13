@@ -314,67 +314,77 @@ nosc choix dans le futur ?<br/><br/>
 </table>
 
 <br/>
-Phase or activity: Design, Develop, Test <a name="design-develop-test"></a>
+Phase ou activité: FIXME:Design, Developper, Tester <a name="design-develop-test"></a>
 ----------------------------
-_page 9 of 15_ 
+_page 9 sur 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Étapes pour devenir ouvert</strong></td>
+<td><strong>Questions à poser</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Build your community</strong><br/>
- • Ask departments who from their team can provide feedback<Br/><Br/>
- • Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts<br/><br/>
- • Investigate options and accommodations for negatively impacted customers<Br/><Br/>
+<td rowspan=3 width=33%><strong>Batir votre communité</strong><br/>
+ • Demander aux départments qui parmi leur équipe peut fournir du feedback<Br/><Br/>
+ • (FIXME:Socialize) la décision avec les usagers et les parties prenantes, en
+particulier veux qui parlent le plus des impacts. <br/><br/>
+ • Rechercher des options ou des aménagements pour les usagers qui seront
+impactés négativement. <Br/><Br/>
 
-<strong>Promote open exchange</strong><br/>
- • Evaluate, acknowledge, and incorporate feedback<br/><br/>
- • Highlight changes made in response to feedback<br/><br/>
- • If a suggestion isn't feasible, explain why<br/><br/>
- • Publish progress in an open place<br/><br/>
- • Provide regular updates to sponsors, customers, and stakeholders
+<strong>Promouvoir des échanges ouverts</strong><br/>
+ • Evaluer, (FIXME:acknowledge) et incorporer le feedback<br/><br/>
+ • Mettre en valeur les changements effectués suite au feedback<br/><br/>
+ • Si une suggestion n'est pas possible, expliquer pourquoi<br/><br/>
+ • Publier la progression du projet dans un endroit ouvert <br/><br/>
+ • Fournir des infos régulières aux sponsors, aux usagers et aux parties
+prenantes (FIXME:stakeholders)
 </td>
 <td rowspan=3 width=33%>
-<strong>Make it safe to voice concerns</strong><br/>
- • Invite project team and collaborators to raise risks and concerns you've overlooked.<br/><br/>
- • Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?<br/><br/>
- • Publish risk and limitations uncovered along the way<br/><br/>
+<strong>Rassurer les personnes qui expriment des doutes</strong><br/>
+ • Inviter l'équipe du projet et les collaborateurs à remonter des risques ou
+des doutes que vous avez sous-estimés.<br/><br/>
+ • Question: Qu'est-ce qui pourrait empêcher la réussite du projet ? Quels
+doutes l'équipe aura ? Que sommes-nous en train d'oublier ?<br/><br/>
+ • Publier les risques et les limitations découvertes en chemin <br/><br/>
 
-<strong>Conduct a premortem</strong><br/>
- • Pretend it's launch day, and people are surprised or upset. What triggered it?<br/><br/>
- • Identify changes you would make or points you might clarify in response, and make them proactively instead<br/><br/>
+<strong>Faire une simulation (FIXEM:premortem)</strong><br/>
+ • Imaginez que c'est le jour de l'annonce et que des personnes sont surprises
+ou ennervées. Qu'est-ce qui a déclenché cela ?<br/><br/>
+ • Identifier les  changement que vous feriez ou les points que vous pourriez
+clarifier et faites-les de manière pro-active.<br/><br/>
 
-<strong>Activate your ambassadors</strong><Br/>
- • Equip the community to help you clear up misinformation and misunderstandings
+<strong>Activer vos ambassadeurs</strong><Br/>
+ • Equiper la communauté pour qu'elle vous aide à clarifier les désinformations
+et les incompréhensions. 
 </td>
 <td>
- • Can we pilot or release early to gather input?<br/><br/>
- • How will we test?<br/><Br/>
- • Which internal customers can help test?<br/><br/>
- • Does a cross-functional working group make sense?<br/><br/>
- • Can we build a community of passion around this project or decision?<br/><br/>
- • Have we engaged the people who will have to do the work?<br/><br/>
- • Who do we need more buy-in or support from?
+ • Est-il possible de faire un pilote (FIXME:Can we pilot) ou publier très tôt
+afin de récolter des réactions ?<br/><br/>
+ • Comment allons-nous tester ?<br/><Br/>
+ • Quel usagers internes peuvent nous aider à tester ?<br/><br/>
+ • Est-ce groupe de travail inter-fonctionnel (FIXME:cross-functional) a du sens ?<br/><br/>
+ • Peut-on batir un communauté de passionnés autour de ce projet ou cette décision ?<br/><br/>
+ • Avons-nous impliqué les personnes qui vont devoir faire le travail ?<br/><br/>
+ • Auprès de qui devons nous chercher plus d'adhésion (FIXME:buy-in) ou de
+soutien. 
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Points clés</strong></td>
 </tr>
 <tr>
 <td>
- • Representation of different types of customers<br/>
- • Unexpected impacts and use cases<br/>
- • Unspoken risks and concerns
+ • Representation de  différent types d'usagers<br/>
+ • Impacts et cas d'utilisation imprévus<br/>
+ • Risques et doutes non exprimés 
 </td>
 </tr>
 </table>
 
 <br/>
-Phase or activity: Launch, Deploy, Close <a name="launch"></a>
+Phase or activity: Launcer, Deployer, Fermer <a name="launch"></a>
 --------------
-_page 10 of 15_ 
+_page 10 sur 15_ 
 
 <table>
 <tr>
