@@ -27,7 +27,7 @@ Contenu
   * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
   * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
   * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
-  * [You can't please everyone](#cant-please-everyone)
+  * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
 * [Open Decision Framework](#framework)
   * [Phase or activity: Concept, Define, Ideate](#ideation)
   * [Phase or activity: Plan, Research](#plan-research)
@@ -159,17 +159,21 @@ alignées sur le stratégie et la culture
 </table>
 
 <br/>
-You can't please everyone. <a name="cant-please-everyone"></a>
+On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 ----------------------------------------------------
-**But when you make open decisions, people feel...**  _page 6 of 15_ 
+**Mais qu'on prend une décision ouverte, les gens se disent...**  _page 6 sur 15_ 
 
-  - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
-  - There was visibility to the business requirements, research, and evaluation criteria.
-  - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's obvious that the decision makers understand Red Hat's values and culture.
-  - I might be disappointed, but I wasn't surprised.
-  - My voice was heard and valued.
+  - Je comprend pouquoi la décision a été prise et comment elle s'aligne avec la
+    stratégie, les buts et la mission de Red Hat (FIXME).
+  - Les pré-requis de l'entreprise, les critères de recherche et d'évaluation
+    étaient visibles.
+  - Le processus de décision était inclusif et transparent.
+  - Même si je n'ai pas pris la décision, je peux contribuer au processus.
+  - Je ne suis peut-être pas d'accord avec la décision mais il est évident que
+    les personnes qui l'ont prise comprennent les valeurs et la culture de Red
+    Hat.
+  - Je suis peut-être déçu mais je ne suis pas surpris.
+  - Ma voix a été entendue et valorisée.
 
 <br/>
 Open Decision Framework <a name="framework"></a>
