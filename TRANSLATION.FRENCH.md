@@ -9,15 +9,29 @@ Ci-dessous quelques remarques pour traduire ce projet en français.
 
 * Les hashtags ne doivent pas être traduit. Par exemple `[Overview](#overview)` devient `[Vue d'ensemble](#overview)` 
 
+* Ne pas traduire les balises HTML
+
 ## Glossary
 
-**Associate** : (Faux Ami)
+Ci-dessous quelques termes importants dont la traduction est soumise à
+interprétation. Il est important de maintenir une traduction cohérente de ces
+termes à travers l'ensemble du projet.
 
-**Customer-Centric** :
+**Associate** : (Faux Ami) FIXME
+
+**Competing needs** : FIXME
+
+**Customer-Centric** : Centré(e) sur l'usage
+
+**Ideate** : FIXME
 
 **Open Decision** : Décision Ouverte
 
 **Open Decision Framework** : Cadre de Décision Ouverte
+
+**Policy**: FIXME
+
+**Stakeholders** : FIXME
 
 
 
