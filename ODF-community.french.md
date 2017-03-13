@@ -25,7 +25,7 @@ Contenu
 ===========================================================================
 * [Vue d'ensemble](#overview)
   * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-open-principles)
+  * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
   * [How open source principles lead to better decisions](#how-open-source-principles)
   * [You can't please everyone](#cant-please-everyone)
 * [Open Decision Framework](#framework)
@@ -83,31 +83,47 @@ sur le projet. </td>
 </table>
 
 <br/>
-Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
+Les décisions ouvertes sont issues des principes open source <a name="open-decisions-open-principles"></a>
 -----------------------------------------------------
 _page 4 sur 15_ 
 
-**Open exchange**
+**Echanges ouverts**
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people are allowed to learn and use existing information toward creating new ideas.
+Que vous developpiez un logiciel ou que vous essayiez de résoudre un problème
+dans l'entreprise, l'échange ouvert commence en partageant le "code source" avec
+d'autres personnes. Un échange libre des idées est essentiel pour créer un
+environement où chacun a les moyens d'apprendre et d'utiliser l'information
+existante pour imaginer de nouvelles idées. 
 
 **Participation**
 
-When we are free to collaborate, we create. We can solve problems that no one person may be able to solve on their own. And when we can implement open standards, we enable others to participate in the future.
+Quand nous sommes libres de collaborer, nous créons. Nous pouvons résoudre des
+problèmes qu'un individu ne pourrait pas résoudre tout seul. Et quand nous
+pouvons implémenter des standards ouverts, nous permettons aux autres de
+participer dans le futur. 
 
-**Release early + often**
+**Publier tôt et fréquemment**
 
-Rapid prototypes can lead to rapid failures, and that leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and look for answers in new places. You can learn by doing.
+Le prototypage rapide peut mener à des échecs rapides, et cela conduit à de
+meilleures solutions. Quand on est libre d'expérimenter, on peut regarder les
+problèmes de manières différentes and chercher des réponses dans des endroits
+différents. On peut apprendre en faisant. 
 
-**Meritocracy**
+**Méritocracie**
 
-In a meritocracy, good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
+Dans un méritocracie, les bonnes idées peuvent venir de n'importe où et la
+meilleure idée gagne. Tout le monde a accès à la même information. C'est la
+qualité du travail qui détermine quel projets prennent de l'ampleur et attire
+le support et les efforts de la communauté. 
 
-**Community**
+**Communauté**
 
-Communities are formed around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
+Les communautés sont formées autour d'un objectif commun. Elles rassemblent des
+idées diverses et partage le travail. Une fois réunie, une communauté globale
+peut créer au delà des capacités de n'importe quel individu. Elle multiplie les
+efforts et réparti le travail. Ensemble nous pouvons faire plus. 
 
-Adapted from: https://opensource.com/open-source-way
+Adapté de : https://opensource.com/open-source-way
 
 <br/>
 How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
