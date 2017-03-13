@@ -488,13 +488,19 @@ et inviter à la participation (2014)
   - Mis à jour et maintenu par Rebecca Fernandez (rfernand@redhat.com)
 
 <br/>
-Why the framework exists <a name="why-framework"></a>
+Pourquoi ce cadre existe <a name="why-framework"></a>
 ------------------------
-_page 15 of 15_ 
+_page 15 sur 15_ 
 
-**A collection of proven practices that:**
+**Un ensemble de partiques éprouvées qui :**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate “what good looks like” in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+  - Conduit à un meilleur alignement entre les décisions d'entreprise et la
+    stratégie, les buts, la culture, les valeurs et la mission de notre société
+  - Démontre “A quoi ressemble les bonnes pratiques" en terme de prise de
+    décision et de communication
+  - Offre un guide cohérent pour les équipes et les leaders à propos des
+    attentes culturelles de Red Hat, équilibrant la transparence et la confidentialité
+  - Améliorer l'implication des (FIXME:associate), le ratio signal-bruit sur les
+    listes-memo
+
+
