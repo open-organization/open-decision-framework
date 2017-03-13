@@ -1,21 +1,30 @@
-Open Decision Framework
-=======================
-Community Version 1.0.3
+Cadre de Décicion Ouverte
+=========================================
 
-Updated Oct 13, 2016
+Version Communitaire 1.0.3
 
-© 2014-2016 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+Dernière mise à jour : 13 Oct. 2016
+
+© 2014-2016 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
+Decision Framework" en anglais) a été créé par l'équipe Red Hat People et est
+disponible sous licence Creative Commons Attribution-ShareAlike 4.0
+International License ([CC BY-SA
+4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat et le logo
+Shadowman sont des marques déposées de Red Hat, Inc. et enregistrée dans
+d'autres pays. La marque Red Hat doit être retirée de toute version modifiée.
 
 Notes
 =========
 
-* This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
-* Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
+* Cette version markdown des slides est publiée pour faciliter la collaboration
+  et le suivi des changements.
+* La numérotation des pages correspond aux fichiers LibreOffice (.odp) et PDF
+  dans le dépot.
 
-Contents
+Contenu
 ===========================================================================
-* [Overview](#overview)
-  * [What is an open decision?](#what-is-an-open-decision)
+* [Vue d'ensemble](#overview)
+  * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
   * [Open decisions are made using open principles](#open-decisions-open-principles)
   * [How open source principles lead to better decisions](#how-open-source-principles)
   * [You can't please everyone](#cant-please-everyone)
@@ -30,44 +39,53 @@ Contents
   * [Why the framework exists](#why-framework)
 
 <br/>
-Overview<a name="overview"></a>
+Vue d'ensemble<a name="overview"></a>
 ===========================================================================
-_page 2 of 15_
+_page 2 sur 15_
 
-**What it is**
-  - A flexible, open approach to making business decisions and leading projects
+**Qu'est-ce c'est ?**
+  - Une approche flexible et ouvert pour prendre des decisions en entreprise et
+    mener des projets 
 
-**When to use it**
+**Quand l'utiliser ?**
 
-For decisions and projects that are likely to:
-  - impact our culture or
-  - affect associates beyond your immediate team
+Pour des décisions et des projets qui :
+  - impactent notre culture ou
+  - affectent des collaborateurs(FIXME associates) au-delà de votre équipe
+    immédiate
 
-**How to use it**
-  - Build steps from the Open Decision Framework into your project plan or decision-making process
+**Comment l'utiliser ?**
+  - Intégrer par étapes le Cadre de Décision Ouverte dans votre projet ou dans
+    votre processus de prise de décisions.
 
 <br/>
-What is an open decision? <a name="what-is-an-open-decision"></a>
+Qu'est-ce qu'une décision ouverte ? <a name="what-is-an-open-decision"></a>
 -------------------------
-_page 3 of 15_
+_page 3 sur 15_
 
 <table>
 <tr>
-<td>Transparent</td>
+<td>Transparente</td>
 <td>Inclusive</td>
-<td>Customer-Centric</td>
+<td>Centrée sur l'usager</td>
 </tr>
 <tr>
-<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
-<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
-<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
+<td>Expliquer qui prend la décision, quels problèmes vous essayez de régler, les
+pré-requis et les contraintes en jeu et le processus que vous aller suivre.</td>
+<td>Solliciter le feedback d'autres personnes et collaborer tout au long du
+processus de décision. Rechercher des points de vue variés, notamment ceux des
+détracteurs potentiels. </td>
+<td>Considérer les personnes comme des usagers ayant dans des besoins (FIXME
+competing needs) et des priorités. Quand une décision aide certains usagers
+mais en déçoit d'autres, gérer les relations et les attentes tout en avançant
+sur le projet. </td>
 </tr>
 </table>
 
 <br/>
 Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
 -----------------------------------------------------
-_page 4 of 15_ 
+_page 4 sur 15_ 
 
 **Open exchange**
 
