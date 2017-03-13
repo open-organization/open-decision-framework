@@ -19,11 +19,11 @@ termes à travers l'ensemble du projet.
 
 **Associate** : (Faux Ami) FIXME
 
-**Competing needs** : FIXME
+**Competing needs** : besoins contradictoires
 
 **Customer-Centric** : Centré(e) sur l'usage
 
-**Ideate** : FIXME
+**Ideate** : Imaginer, Concevoir
 
 **Open Decision** : Décision Ouverte
 
@@ -31,7 +31,7 @@ termes à travers l'ensemble du projet.
 
 **Policy**: FIXME
 
-**Stakeholders** : FIXME
+**Stakeholders** : Parties prenantes
 
 
 
