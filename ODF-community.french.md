@@ -442,34 +442,50 @@ décision ouverte chez Red Hat ?
 <br/>
 Resources <a name="resources"></a>
 ===========================================================================
-_page 12 of 15_ 
+_page 13 of 15_ 
 
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
-  - [The Open Organization](http://opensource.com/open-organization) (book + online community)
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
+  - [Red Hat
+    Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) –
+Pense-bête sur la collaboration, la transparence, la confiance, la méritocracy
+et la connection 
+  - [The Open Source Way
+    handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
+créer et entretenir une communauté de crontributeurs
+  - [The Open Organization](http://opensource.com/open-organization) (livre +
+    communauté en ligne)
+  - [Prioritizing by
+    impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
+voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
+  - [Opensource.com](http://www.opensource.com/) – Un publication soutenue par
+    Red Hat focalisée sur comment les principes open source peuvent être
+appliqués aux entrerpises, à l'éducation, aux gouvernements et ailleurs
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 <br/>
-Appendix <a name="appendix"></a>
+Annexes <a name="appendix"></a>
 ===========================================================================
 
-History: Where the Open Decision Framework came from <a name="history"></a>
+Histoire: D'où vient le Cadre de Décision Ouverte <a name="history"></a>
 ----------------------------------------------------
-_page 14 of 15_ 
+_page 15 sur 15_ 
 
-  - Based on principles practiced by open source communities
+  - Basé sur des principes practiqués par des communautés open source
 
-    - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
+    - Recheches par la Fuqua School of Business à l'université de Duke et Diana
+      Martin (2009 – 2010); ressources communautaire supplémentaires
 
-  - Developed by the People team, with contributions from cross-functional focus group
+  - Developpé par l'équipe Red Hat People avec des contributions de groupes
+    témoins inter-fonctionnels (FIXME: cross-functional) 
 
-    - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+    - Issu de l'effort "Project Management Office" pour créer un méthodologie de
+      gestion de projet ouvert. (2012 – 2013)
+    - Une conversation via une liste mémo d'un calendrier Google utilisée comme
+      catalysateur pour partager des brouillons avec tous les (FIXME:associates)
+et inviter à la participation (2014)
+    - Testé par les équipes IT et Engineering, dans le groupe de travail basé
+      sur Google Calendar (2014 – 2015)
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - Mis à jour et maintenu par Rebecca Fernandez (rfernand@redhat.com)
 
 <br/>
 Why the framework exists <a name="why-framework"></a>
