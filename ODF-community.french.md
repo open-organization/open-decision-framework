@@ -28,7 +28,7 @@ Contenu
   * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
   * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
   * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
-* [Open Decision Framework](#framework)
+* [Cadre de Décision Ouverte](#framework)
   * [Phase or activity: Concept, Define, Ideate](#ideation)
   * [Phase or activity: Plan, Research](#plan-research)
   * [Phase or activity: Design, Develop, Test](#design-develop-test)
@@ -176,62 +176,72 @@ On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
   - Ma voix a été entendue et valorisée.
 
 <br/>
-Open Decision Framework <a name="framework"></a>
+Cadre de Décision Ouverte <a name="framework"></a>
 ===========================================================================
 
-Phase or activity: Concept, Define, Ideate <a name="ideation"></a>
+Phase ou activité: Concevoir, Définir, (FIXME:Ideate) <a name="ideation"></a>
 ---------------
-_page 7 of 15_ 
+_page 7 sur 15_ 
 
 <table>
 <tr>
-<td width=34%><strong>Steps you can take to be open</strong></td>
-<td width=36%><strong>Questions to ask</strong></td>
-<td width=30%><strong>Common flamewar triggers</strong></td>
+<td width=34%><strong>Étapes pour devenir ouvert </strong></td>
+<td width=36%><strong>Questions à poser</strong></td>
+<td width=30%><strong>Déclencheurs de flamewar</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
-<strong>Lead with transparency</strong><br/>
- • Publish a problem statement and possible approaches<br/><br/>
- • Identify any aspects of the project or decision that cannot be open<br/><br/>
- • Publish your ideation process<br/><br/>
+<strong>Diriger avec transparence</strong><br/>
+ • Publier un énoncé du problème et des approches possibles<br/><br/>
+ • Identifer les aspects du projet ou de la décision qui ne peuvent pas être
+ouvert<br/><br/>
+ • Publier votre processus (FIXME:your ideation process<br/><br/>
 
-<strong>Build diversity of thought + an inclusive environment</strong><br/>
- • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/><br/>
- • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
+<strong>Batir une diversité de points de vue + un environement inclusif<strong><br/>
+ • Solliciter les usagers internes et les parties prenantes (FIXME:stakeholders)
+très tôt, en particilier ceux qui pourraient ne pas être d'accord.<br/><br/>
+ • Chercher des perspectives variées et sous-représentées (emplacement
+géographique, ethnie, départements, niveau hiérarchique, genre, age, etc. ) out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
+ • Devenez un champion de la collaboration (FIXME:Champion collaboration) et
+ouvrez des canaux de feedback<br/><br/>
+ • Prenez en compte les risques, les limites et les impacts culturels
+potentiels, en particulier pour les problèmes qui sont des controverses
+historiques<br/><br/>
 </td>
 <td>
- • What is the potential impact on the organization? On the culture?<br/><br/>
- • Who do we need to include in planning?<br/><br/>
- • Whose problem are we trying to solve?<br/><Br/>
- • Who will we need or want help from?<br/><br/>
- • Who else could be impacted?<br/><br/>
- • Who has solved a similar problem?<br/><br/>
- • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
+ • Quel est l'impact potentiel sur l'organisation ? Sur la culture ?<br/><br/>
+ • Que faut-il inclure dans le planning ?<br/><br/>
+ • Qui est concerné par le problème que nous essayons de régler?<br/><Br/>
+ • A qui devons ou voulons demander de l'aide ?<br/><br/>
+ • Qui d'autres pourrait être impacté ?<br/><br/>
+ • Qui a résolu un problème similaire ?<br/><br/>
+ • Qui va probablement être en désaccord, s'opposer, rejeter ou de se
+désengager ?  Qui d'autre devons-nous prendre en compte?
 </td>
 <td rowspan=3>
-There are a handful of issues that often generate controversy and upset within Red Hat, including:<br/><br/>
- • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
- • Changes to associates' work environment<Br/><br/>
- • Implementation of proprietary technology<br/><br/>
- • Use of proprietary formats<Br/><br/>
- • Data privacy and sharing<br/><br/>
+Il y a un poignée de problèmes qui provoquent en général de la controverse ou de
+l'énervement chez Red Hat, notamment :<br/><br/>
+ • Les décisions, (FIXME:policies) ou changement qui impactent les
+(FIXME:associates), par exemple les rémunérations et le programme de bien-être.<<br/><br/>
+ • Les changements dans l'environement de travail des (FIXME:associates)<Br/><br/>
+ • L'implementation d'une technologie propriétaire<br/><br/>
+ • L'utilisation de formats proprietaires<Br/><br/>
+ • Le partage de données et la vie privée<br/><br/>
 
-If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
+Si votre projet touche à l'un de ces thèmes, ajoutez des étapes supplémentaires
+pour garantir que votre processus est ouvert, inclusif et transparent.
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Points clés</strong></td>
 </tr>
 <tr>
 <td>
- • Confidentiality, privacy, and regulatory requirements<br/><br/>
- • Potential to generate controversy<br/><br/>
- • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
- • Where to publish
+ • Confidentialité, vie privée, et (FIXME:regulatory requirements)<br/><br/>
+ • Controverses potentielles<br/><br/>
+ • Impact sur la culture Red Hat et les futures décisions<br/><br/>
+ • Roles + responsibilités (modèle OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Où publier ?
 </td>
 </tr>
 </table>
