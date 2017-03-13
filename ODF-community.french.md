@@ -26,7 +26,7 @@ Contenu
 * [Vue d'ensemble](#overview)
   * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
   * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles)
+  * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
   * [You can't please everyone](#cant-please-everyone)
 * [Open Decision Framework](#framework)
   * [Phase or activity: Concept, Define, Ideate](#ideation)
@@ -102,7 +102,7 @@ problèmes qu'un individu ne pourrait pas résoudre tout seul. Et quand nous
 pouvons implémenter des standards ouverts, nous permettons aux autres de
 participer dans le futur. 
 
-**Publier tôt et fréquemment**
+**Publier tôt + souvent**
 
 Le prototypage rapide peut mener à des échecs rapides, et cela conduit à de
 meilleures solutions. Quand on est libre d'expérimenter, on peut regarder les
@@ -126,29 +126,34 @@ efforts et réparti le travail. Ensemble nous pouvons faire plus.
 Adapté de : https://opensource.com/open-source-way
 
 <br/>
-How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
+Comment les principes open source conduisent à de meilleur décisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
-_page 5 of 15_ 
+_page 5 sur 15_ 
 
 <table>
 <tr>
-<td>Principles</td>
+<td>Principes</td>
 <td>→</td>
-<td>Practices</td>
+<td>Practique</td>
 <td>→</td>
-<td>Outcomes</td>
+<td>Résultats</td>
 </tr>
 <tr>
 <td>
-• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
+• Exchanges ouverts<br/> • Participation<br/> • Publier tôt + souvent<br/> •
+Méritocracie<br/> • Communauté
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
+• Transparence avec les usagers internes et les autres parties prenantes
+(FIXME:stakeholders)<br/> • Implication des usagers<br/> • Récolter du feedback et s'adapter de manière itérative<br/> • (FIXME:Ideation with customers)<br/> • Construire de la confiance et du respect via la collaboration 
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
+• (FIXME: Customer buy-in)<br/> • Adoption plus rapide et plus forte<br/> • Les
+meilleures idées gagnent<br/> • Moins de bugs, de problèmes et de impacts
+imprévus <br/> • Plus grand engagement des (FIXME:associate) <br/> • Décisions
+alignées sur le stratégie et la culture
 </td>
 </tr>
 </table>
