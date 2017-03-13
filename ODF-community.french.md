@@ -32,9 +32,9 @@ Contenu
   * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
 * [Cadre de Décision Ouverte](#framework)
   * [Phase ou activité: Concevoir, Définir, FIXME:Ideate](#ideation)
-  * [Phase or activité: Planifier, Rechercher](#plan-research)
-  * [Phase or activity: Design, Develop, Test](#design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#launch)
+  * [Phase ou activité: Planifier, Rechercher](#plan-research)
+  * [Phase ou activité: FIXEM Design, Developper, Tester](#design-develop-test)
+  * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
 * [Resources](#resources)
 * [Appendix](#appendix)
   * [History: Where the framework came from](#history)
@@ -382,46 +382,59 @@ soutien.
 </table>
 
 <br/>
-Phase or activity: Launcer, Deployer, Fermer <a name="launch"></a>
+Phase or activity: Launcer, Deployer, Cloturer <a name="launch"></a>
 --------------
 _page 10 sur 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Étapes pour devenir ouvert</strong></td>
+<td><strong>Questions à poser</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with Red Hat's strategy, mission, culture, and values<br/><br/>
- • Outline the steps you've taken to make this decision openly<br/><br/>
- • Highlight use of this framework<br/><br/>
- • Tell associates where to find detailed information<br/><br/>
- • Show how feedback shaped the decision or project<br/><br/>
- • Explain how to provide input after launch<br/><br/>
- • Acknowledge when you're not fully satisfied with the decision or know that others will not be<br/><br/>
- • Share your timeline or criteria for revisiting the decision<br/><br/>
- • Stay engaged with those who reject the decision
+<td rowspan=3 width=33%><strong>Commencer par envisager la fin</strong><br/>
+ • Demontrer l'alignment avec la stratégie, la mission, la culture et les
+veleurs de Red Hat<br/><br/>
+ • Souligner les étapes que vous avez suivie pour prendre votre décision de
+manière ouverte<br/><br/>
+ • Mettre en avant l'utilisation de ce cadre de décision ouverte <br/><br/>
+ • Dire aux (FIXME:associates) ou trouver des informations détaillées<br/><br/>
+ • Monter comment le feedback a modelé la décision ou le projet<br/><br/>
+ • Expliquer comment fournir du feedback après le lancement<br/><br/>
+ • Signaler quand vous n'êtes pas complètement satisfait de la décision ou que
+vous savez que d'autres ne le seront pas. <br/><br/>
+ • Parteger votre feuille de route et vos critères pour revenir sur la décision<br/><br/>
+ • Rester en contact avec les personnes qui rejettent la décision
 </td>
 <td rowspan=3 width=33%>
-<strong>Default to open</strong><br/>
- • Reiterate relevant business requirements and constraints<br/><br/>
- • Share relevant legal, reporting, or confidentiality issues<br/><br/>
- • Communicate success criteria and publish relevant metrics<br/><br/>
+<strong>Ouvert par défaut</strong><br/>
+ • Rappeler (FIXME:Reiterate) les pré-requis et les contraintes appropriées
+(FIXME:relevant)<br/><br/>
+ • Partager (FIXME:relevant) les problèmes legaux, les rapports, et les
+questions de confidentialité<br/><br/>
+ • Communiquer les critères de  succès et publier les métriques (FIXME:relevant)<br/><br/>
 
-<strong>Contribute upstream</strong><br/>
- • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
- • Offer guidance to others on open decision making and choosing collaboration tools
+<strong>Contribuer (FIXME:upstream)</strong><br/>
+ • Publier vos méthodes, les leçons apprises, les communiqués et les critères
+de décision dans les archives, pour que d'autres puissent étudier les anciennes
+décisions, comprendre pourquoi une décision a été prise et voir comment les
+leaders ont répondu à des problèmes similaires par le passé.<br/><br/>
+ • Proposer votre aide à d'autres personnes pour prendre des décisions ou
+choisir un outil de collaboration 
 </td>
 <td>
- • How will we monitor mailing lists and other feedback channels after the launch?<br/><br/>
- • If we have done early releases, will we continue to make incremental improvements based on feedback?<br/><br/>
- • How willing are we to make revisions based on feedback?<br/><br/>
- • What's a reasonable window of time for additional input and refinement?<br/><br/>
- • Did we overlook something important? How do we address it?<br/><br/>
- • Does the decision need to be revisited?<br/><br/>
- • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making at Red Hat?
+ • Comment allons-nous suivre les listes de discussions et les autres canaux de
+feedback après le lancement ?<br/><br/>
+ • Si nous avons fait des (FIXME:early releases), allons-nous continuer à faire
+des améliorations incrémentales basées sur le feedback ?<br/><br/>
+ • A quel point souhaitons nous faire des révisions sur la base du feedback ?<br/><br/>
+ • Quelle est la fenêtre temporelle raisonable pour l'afinage et les retours
+utilisateurs ?<br/><br/>
+ • Avons-nous sous-estimé un point important ? Comment le prendre en compte ?<br/><br/>
+ • Est-ce que la décision doit être revisée FIXME ?<br/><br/>
+ • Est-ce cette décision ouverte nous a mené au résultat désiré ?<br/><br/>
+ • Comment pouvons-nous partager les leçons apprises et encourager la prise de
+décision ouverte chez Red Hat ?
 </td>
 </tr>
 </table>
