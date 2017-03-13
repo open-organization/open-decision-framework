@@ -5,6 +5,8 @@ Version Communitaire 1.0.3
 
 Dernière mise à jour : 13 Oct. 2016
 
+Traduction : FIXME
+
 © 2014-2016 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
 Decision Framework" en anglais) a été créé par l'équipe Red Hat People et est
 disponible sous licence Creative Commons Attribution-ShareAlike 4.0
@@ -29,8 +31,8 @@ Contenu
   * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
   * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
 * [Cadre de Décision Ouverte](#framework)
-  * [Phase or activity: Concept, Define, Ideate](#ideation)
-  * [Phase or activity: Plan, Research](#plan-research)
+  * [Phase ou activité: Concevoir, Définir, FIXME:Ideate](#ideation)
+  * [Phase or activité: Planifier, Rechercher](#plan-research)
   * [Phase or activity: Design, Develop, Test](#design-develop-test)
   * [Phase or activity: Launch, Deploy, Close](#launch)
 * [Resources](#resources)
@@ -247,54 +249,66 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
 </table>
 
 <br/>
-Phase or activity: Plan, Research <a name="plan-research"></a>
+Phase or activity: Planifier, Rechercher <a name="plan-research"></a>
 ----------------------
-_page 8 of 15_
+_page 8 sur 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Étapes pour devenir ouverts</strong></td>
+<td><strong>Questions à poser</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
- • Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)<br/><br/>
- • Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.<br/><br/>
- • Remain open to new information and perspectives<Br/><br/>
- • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
+<td rowspan=3 width=33%><strong>Solliciter usagers + collaborateurs</strong><br/>
+ • Rassembler des retours auprès d'usagers internes et de personnes qui vont
+vous aider (questionnaires, entretiens, groupes témoins, etc.)<br/><br/>
+ • Faciliter la participation + les gestion de projet. Demander aux usagers
+quels outils de collaboration ils préfèrent utiliser. Prévoir la consolidation
+et le publication du feedback.<br/><br/>
+ • Rester ouvert à de nouvelles informations et perspectives<Br/><br/>
+ • Envisager le feedback et la commununication pair-à-pair, en plus des canaux
+formels. <br/><br/>
 
-<strong>Set expectations upfront</strong><Br/>
- • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
- • Publish decision process and project plan, with roles, dates, constraints
+<strong>Définir les attentes dès le départ</strong><Br/>
+ • Etre spécifique à propos des types de feedback que vous recherchez et à
+propos de qui pris les décisions. <Br/><Br/>
+ • Publier le processus de décision et la planification du projet plan avec des
+roles, des dates et des contraintes
 </td>
-<td rowspan=3 width=33%><strong>Explain the obvious</strong><Br/>
- • Publish the scope of the project or decision, and reiterate often<br/><br/>
- • Publish decision factors and their relative importance<Br/><Br/>
- • Publish your research, including difficult trade-offs, business requirements<br/><br/>
- • To the extent possible, publish any relevant legal, reporting, or confidentiality concerns<br/><br/>
+<td rowspan=3 width=33%><strong>Expliquer les évidences</strong><Br/>
+ • Publier le périmètre du projet ou de la décision et itérer régulièrement<br/><br/>
+ • Publier les facteurs de décisions et leur importance relative<Br/><Br/>
+ • Publier vos recherches, notamment les compromis difficiles, les pré-requis de
+l'entreprise<br/><br/>
+ • Dans le mesure du possible, publier tous les éléments légaux, les rapports et
+les enjeux de confidentialité<br/><br/>
 
-<strong>Plan the transition</strong><br/><br/>
- • Develop and gather feedback on communication, change management, and adoption plans<br/><Br/>
- • Think through how you could respond to upset individuals (on memo-list and other channels)
+<strong>Planifier la transition</strong><br/><br/>
+ • Developper et rassembler le feedback sur la communication, la gestion du
+changement et les plans d'adoption<br/><Br/>
+ • Imaginez comment des personnes ennervées pourraient répondre ( via un memo
+FIXME:memo-list ou un autre canal)
 </td>
 <td>
- • How will we make decisions?<Br/><Br/>
- • What internal customers, stakeholders, and collaborators will we involve?<br/><br/>
- • How will we engage and communicate with them?<br/><br/>
- • What are the open source options?<br/><br/>
- • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
- • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with Red Hat's values and culture?
+ • Comment allons-nous prendre les décisions?<Br/><Br/>
+ • Quel usagers internes, parties prenantes (FIXME: stakeholders) et
+collaborateurs allons-nous impliquer ?<br/><br/>
+ • Comment allons-nous les solliciter et communiquer avec eux ?<br/><br/>
+ • Quels sont les options open source ?<br/><br/>
+ • Comment le choix d'une technologie ou d'un format propriétaire va limiter
+nosc choix dans le futur ?<br/><br/>
+ • Comment cela s'aligne avec la stratégie et la mission de la société ?<br/><br/>
+ • Où est-ce que cela peut coincer avec les valeurs et la culture de Red Hat ?
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Points Clés</strong></td>
 </tr>
 <tr>
 <td>
- • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<Br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
+ • Impact – qui, quelle fréquence et les imprévus<br/>
+ • Où et comment collaborer<Br/>
+ • Roles + responsibilités (modèle OPT : https://github.com/red-hat-people-team/opt-model/) 
 </td>
 </tr>
 </table>
