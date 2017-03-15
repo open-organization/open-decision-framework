@@ -46,8 +46,8 @@ Vue d'ensemble<a name="overview"></a>
 _page 2 sur 15_
 
 **Qu'est-ce c'est ?**
-  - Une approche flexible et ouvert pour prendre des decisions en entreprise et
-    mener des projets 
+  - Une approche flexible et ouverte pour prendre des décisions en entreprise et
+    mener des projets.
 
 **Quand l'utiliser ?**
 
@@ -108,27 +108,27 @@ participer dans le futur.
 
 Le prototypage rapide peut mener à des échecs rapides, et cela conduit à de
 meilleures solutions. Quand on est libre d'expérimenter, on peut regarder les
-problèmes de manières différentes and chercher des réponses dans des endroits
-différents. On peut apprendre en faisant. 
+problèmes de manières différentes et chercher des réponses dans des endroits
+différents. On peut apprendre en faisant.
 
 **Méritocracie**
 
 Dans un méritocracie, les bonnes idées peuvent venir de n'importe où et la
 meilleure idée gagne. Tout le monde a accès à la même information. C'est la
-qualité du travail qui détermine quel projets prennent de l'ampleur et attire
-le support et les efforts de la communauté. 
+qualité du travail qui détermine quels projets prennent de l'ampleur et attire
+le support et les efforts de la communauté.
 
 **Communauté**
 
 Les communautés sont formées autour d'un objectif commun. Elles rassemblent des
-idées diverses et partage le travail. Une fois réunie, une communauté globale
+idées diverses et partagent le travail. Une fois réunie, une communauté globale
 peut créer au delà des capacités de n'importe quel individu. Elle multiplie les
 efforts et réparti le travail. Ensemble nous pouvons faire plus. 
 
 Adapté de : https://opensource.com/open-source-way
 
 <br/>
-Comment les principes open source conduisent à de meilleur décisions <a name="how-open-source-principles"></a> 
+Comment les principes open source conduisent à de meilleures décisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
 _page 5 sur 15_ 
 
@@ -136,13 +136,13 @@ _page 5 sur 15_
 <tr>
 <td>Principes</td>
 <td>→</td>
-<td>Practique</td>
+<td>Pratique</td>
 <td>→</td>
 <td>Résultats</td>
 </tr>
 <tr>
 <td>
-• Exchanges ouverts<br/> • Participation<br/> • Publier tôt + souvent<br/> •
+• Échanges ouverts<br/> • Participation<br/> • Publier tôt + souvent<br/> •
 Méritocracie<br/> • Communauté
 </td>
 <td>→<br/>→<br/>→</td>
@@ -327,7 +327,7 @@ _page 9 sur 15_
 <td rowspan=3 width=33%><strong>Batir votre communité</strong><br/>
  • Demander aux départments qui parmi leur équipe peut fournir du feedback<Br/><Br/>
  • (FIXME:Socialize) la décision avec les usagers et les parties prenantes, en
-particulier veux qui parlent le plus des impacts. <br/><br/>
+particulier ceux qui parlent le plus des impacts. <br/><br/>
  • Rechercher des options ou des aménagements pour les usagers qui seront
 impactés négativement. <Br/><Br/>
 
