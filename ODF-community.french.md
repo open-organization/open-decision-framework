@@ -33,7 +33,7 @@ Contenu
 * [Cadre de Décision Ouverte](#framework)
   * [Phase ou activité: Concevoir, Définir, Imaginer](#ideation)
   * [Phase ou activité: Planifier, Rechercher](#plan-research)
-  * [Phase ou activité: FIXEM Design, Developper, Tester](#design-develop-test)
+  * [Phase ou activité: FIXME Design, Developper, Tester](#design-develop-test)
   * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
 * [Resources](#resources)
 * [Appendix](#appendix)
