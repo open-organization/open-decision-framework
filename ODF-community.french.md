@@ -18,8 +18,8 @@ d'autres pays. La marque Red Hat doit être retirée de toute version modifiée.
 Notes
 =========
 
-* Cette version markdown des slides est publiée pour faciliter la collaboration
-  et le suivi des changements.
+* Cette version markdown des diapositives est publiée pour faciliter la
+  collaboration et le suivi des changements.
 * La numérotation des pages correspond aux fichiers LibreOffice (.odp) et PDF
   dans le dépot.
 
@@ -33,7 +33,7 @@ Contenu
 * [Cadre de Décision Ouverte](#framework)
   * [Phase ou activité: Concevoir, Définir, Imaginer](#ideation)
   * [Phase ou activité: Planifier, Rechercher](#plan-research)
-  * [Phase ou activité: FIXEM Design, Developper, Tester](#design-develop-test)
+  * [Phase ou activité: FIXME Design, Developper, Tester](#design-develop-test)
   * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
 * [Resources](#resources)
 * [Appendix](#appendix)
@@ -46,8 +46,8 @@ Vue d'ensemble<a name="overview"></a>
 _page 2 sur 15_
 
 **Qu'est-ce c'est ?**
-  - Une approche flexible et ouvert pour prendre des decisions en entreprise et
-    mener des projets 
+  - Une approche flexible et ouverte pour prendre des décisions en entreprise et
+    mener des projets.
 
 **Quand l'utiliser ?**
 
@@ -74,13 +74,13 @@ _page 3 sur 15_
 <tr>
 <td>Expliquer qui prend la décision, quels problèmes vous essayez de régler, les
 pré-requis et les contraintes en jeu et le processus que vous aller suivre.</td>
-<td>Solliciter le feedback d'autres personnes et collaborer tout au long du
+<td>Solliciter le retour d'autres personnes et collaborer tout au long du
 processus de décision. Rechercher des points de vue variés, notamment ceux des
-détracteurs potentiels. </td>
+détracteurs potentiels.</td>
 <td>Considérer les personnes comme des usagers ayant dans des besoins
 contradictoires et des priorités. Quand une décision aide certains usagers
 mais en déçoit d'autres, gérer les relations et les attentes tout en avançant
-sur le projet. </td>
+sur le projet.</td>
 </tr>
 </table>
 
@@ -108,27 +108,27 @@ participer dans le futur.
 
 Le prototypage rapide peut mener à des échecs rapides, et cela conduit à de
 meilleures solutions. Quand on est libre d'expérimenter, on peut regarder les
-problèmes de manières différentes and chercher des réponses dans des endroits
-différents. On peut apprendre en faisant. 
+problèmes de manières différentes et chercher des réponses dans des endroits
+différents. On peut apprendre en faisant.
 
 **Méritocracie**
 
 Dans un méritocracie, les bonnes idées peuvent venir de n'importe où et la
 meilleure idée gagne. Tout le monde a accès à la même information. C'est la
-qualité du travail qui détermine quel projets prennent de l'ampleur et attire
-le support et les efforts de la communauté. 
+qualité du travail qui détermine quels projets prennent de l'ampleur et attire
+le support et les efforts de la communauté.
 
 **Communauté**
 
 Les communautés sont formées autour d'un objectif commun. Elles rassemblent des
-idées diverses et partage le travail. Une fois réunie, une communauté globale
+idées diverses et partagent le travail. Une fois réunie, une communauté globale
 peut créer au delà des capacités de n'importe quel individu. Elle multiplie les
-efforts et réparti le travail. Ensemble nous pouvons faire plus. 
+efforts et réparti le travail. Ensemble nous pouvons faire plus.
 
 Adapté de : https://opensource.com/open-source-way
 
 <br/>
-Comment les principes open source conduisent à de meilleur décisions <a name="how-open-source-principles"></a> 
+Comment les principes open source conduisent à de meilleures décisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
 _page 5 sur 15_ 
 
@@ -136,13 +136,13 @@ _page 5 sur 15_
 <tr>
 <td>Principes</td>
 <td>→</td>
-<td>Practique</td>
+<td>Pratique</td>
 <td>→</td>
 <td>Résultats</td>
 </tr>
 <tr>
 <td>
-• Exchanges ouverts<br/> • Participation<br/> • Publier tôt + souvent<br/> •
+• Échanges ouverts<br/> • Participation<br/> • Publier tôt + souvent<br/> •
 Méritocracie<br/> • Communauté
 </td>
 <td>→<br/>→<br/>→</td>
@@ -153,7 +153,7 @@ itérative<br/> • Imaginer avec les usagers<br/> • Construire de la confianc
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• (FIXME: Customer buy-in)<br/> • Adoption plus rapide et plus forte<br/> • Les
+• Adhésion des usagers<br/> • Adoption plus rapide et plus forte<br/> • Les
 meilleures idées gagnent<br/> • Moins de bugs, de problèmes et de impacts
 imprévus <br/> • Plus grand engagement des (FIXME:associate) <br/> • Décisions
 alignées sur le stratégie et la culture
@@ -240,7 +240,7 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
 </tr>
 <tr>
 <td>
- • Confidentialité, vie privée, et (FIXME:regulatory requirements)<br/><br/>
+ • Confidentialité, vie privée, et contraintes légales<br/><br/>
  • Controverses potentielles<br/><br/>
  • Impact sur la culture Red Hat et les futures décisions<br/><br/>
  • Roles + responsibilités (modèle OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
@@ -314,7 +314,7 @@ nosc choix dans le futur ?<br/><br/>
 </table>
 
 <br/>
-Phase ou activité: FIXME:Design, Developper, Tester <a name="design-develop-test"></a>
+Phase ou activité: Concevoir, Developper, Tester <a name="design-develop-test"></a>
 ----------------------------
 _page 9 sur 15_ 
 
@@ -327,12 +327,12 @@ _page 9 sur 15_
 <td rowspan=3 width=33%><strong>Batir votre communité</strong><br/>
  • Demander aux départments qui parmi leur équipe peut fournir du feedback<Br/><Br/>
  • (FIXME:Socialize) la décision avec les usagers et les parties prenantes, en
-particulier veux qui parlent le plus des impacts. <br/><br/>
+particulier ceux qui parlent le plus des impacts. <br/><br/>
  • Rechercher des options ou des aménagements pour les usagers qui seront
 impactés négativement. <Br/><Br/>
 
 <strong>Promouvoir des échanges ouverts</strong><br/>
- • Evaluer, (FIXME:acknowledge) et incorporer le feedback<br/><br/>
+ • Evaluer, valider et incorporer le feedback<br/><br/>
  • Mettre en valeur les changements effectués suite au feedback<br/><br/>
  • Si une suggestion n'est pas possible, expliquer pourquoi<br/><br/>
  • Publier la progression du projet dans un endroit ouvert <br/><br/>
@@ -358,15 +358,14 @@ clarifier et faites-les de manière pro-active.<br/><br/>
 et les incompréhensions. 
 </td>
 <td>
- • Est-il possible de faire un pilote (FIXME:Can we pilot) ou publier très tôt
+ • Est-il possible de faire un prototype ou publier très tôt
 afin de récolter des réactions ?<br/><br/>
  • Comment allons-nous tester ?<br/><Br/>
  • Quel usagers internes peuvent nous aider à tester ?<br/><br/>
- • Est-ce groupe de travail inter-fonctionnel (FIXME:cross-functional) a du sens ?<br/><br/>
- • Peut-on batir un communauté de passionnés autour de ce projet ou cette décision ?<br/><br/>
+ • Est-ce qu'un groupe de travail transversal a du sens ?<br/><br/>
+ • Peut-on batir une communauté de passionnés autour de ce projet ou cette décision ?<br/><br/>
  • Avons-nous impliqué les personnes qui vont devoir faire le travail ?<br/><br/>
- • Auprès de qui devons nous chercher plus d'adhésion (FIXME:buy-in) ou de
-soutien. 
+ • Auprès de qui devons nous chercher plus d'adhésion ou de soutien. 
 </td>
 </tr>
 <tr>
@@ -410,11 +409,11 @@ vous savez que d'autres ne le seront pas. <br/><br/>
 <strong>Ouvert par défaut</strong><br/>
  • Rappeler (FIXME:Reiterate) les pré-requis et les contraintes appropriées
 (FIXME:relevant)<br/><br/>
- • Partager (FIXME:relevant) les problèmes legaux, les rapports, et les
-questions de confidentialité<br/><br/>
+ • Partager les problèmes légaux, les rapports, et les
+questions de confidentialité concernés<br/><br/>
  • Communiquer les critères de  succès et publier les métriques (FIXME:relevant)<br/><br/>
 
-<strong>Contribuer upstream</strong><br/>
+<strong>Contribuer en amont</strong><br/>
  • Publier vos méthodes, les leçons apprises, les communiqués et les critères
 de décision dans les archives, pour que d'autres puissent étudier les anciennes
 décisions, comprendre pourquoi une décision a été prise et voir comment les
