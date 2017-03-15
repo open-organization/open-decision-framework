@@ -76,11 +76,11 @@ _page 3 sur 15_
 pré-requis et les contraintes en jeu et le processus que vous aller suivre.</td>
 <td>Solliciter le feedback d'autres personnes et collaborer tout au long du
 processus de décision. Rechercher des points de vue variés, notamment ceux des
-détracteurs potentiels. </td>
+détracteurs potentiels.</td>
 <td>Considérer les personnes comme des usagers ayant dans des besoins
 contradictoires et des priorités. Quand une décision aide certains usagers
 mais en déçoit d'autres, gérer les relations et les attentes tout en avançant
-sur le projet. </td>
+sur le projet.</td>
 </tr>
 </table>
 
@@ -123,7 +123,7 @@ le support et les efforts de la communauté.
 Les communautés sont formées autour d'un objectif commun. Elles rassemblent des
 idées diverses et partagent le travail. Une fois réunie, une communauté globale
 peut créer au delà des capacités de n'importe quel individu. Elle multiplie les
-efforts et réparti le travail. Ensemble nous pouvons faire plus. 
+efforts et réparti le travail. Ensemble nous pouvons faire plus.
 
 Adapté de : https://opensource.com/open-source-way
 
