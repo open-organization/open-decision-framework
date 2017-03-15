@@ -18,8 +18,8 @@ d'autres pays. La marque Red Hat doit être retirée de toute version modifiée.
 Notes
 =========
 
-* Cette version markdown des slides est publiée pour faciliter la collaboration
-  et le suivi des changements.
+* Cette version markdown des diapositives est publiée pour faciliter la
+  collaboration et le suivi des changements.
 * La numérotation des pages correspond aux fichiers LibreOffice (.odp) et PDF
   dans le dépot.
 
