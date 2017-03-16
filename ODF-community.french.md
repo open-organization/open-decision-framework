@@ -31,14 +31,14 @@ Contenu
   * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
   * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
 * [Cadre de Décision Ouverte](#framework)
-  * [Phase ou activité: Concevoir, Définir, Imaginer](#ideation)
+  * [Phase ou activité: Conceptualiser, Définir, Imaginer](#ideation)
   * [Phase ou activité: Planifier, Rechercher](#plan-research)
-  * [Phase ou activité: FIXME Design, Developper, Tester](#design-develop-test)
+  * [Phase ou activité: Concevoir, Developper, Tester](#design-develop-test)
   * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
 * [Resources](#resources)
-* [Appendix](#appendix)
-  * [History: Where the framework came from](#history)
-  * [Why the framework exists](#why-framework)
+* [Annexes](#appendix)
+  * [Histoire: D'où vient le Cadre de Décision Ouvert](#history)
+  * [Pourquoi ce cadre existe](#why-framework)
 
 <br/>
 Vue d'ensemble<a name="overview"></a>
@@ -182,7 +182,7 @@ On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 Cadre de Décision Ouverte <a name="framework"></a>
 ===========================================================================
 
-Phase ou activité: Concevoir, Définir, Imagination <a name="ideation"></a>
+Phase ou activité: Conceptualiser, Définir, Imaginer <a name="ideation"></a>
 ---------------
 _page 7 sur 15_ 
 
