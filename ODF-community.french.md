@@ -53,7 +53,7 @@ _page 2 sur 15_
 
 Pour des décisions et des projets qui :
   - impactent notre culture ou
-  - affectent des collaborateurs(FIXME associates) au-delà de votre équipe
+  - affectent des collaborateurs (FIXME associates) au-delà de votre équipe
     immédiate
 
 **Comment l'utiliser ?**
@@ -155,7 +155,7 @@ itérative<br/> • Imaginer avec les usagers<br/> • Construire de la confianc
 <td>
 • Adhésion des usagers<br/> • Adoption plus rapide et plus forte<br/> • Les
 meilleures idées gagnent<br/> • Moins de bugs, de problèmes et de impacts
-imprévus <br/> • Plus grand engagement des (FIXME:associate) <br/> • Décisions
+imprévus <br/> • Plus grand engagement des collaborateurs (FIXME:associate) <br/> • Décisions
 alignées sur le stratégie et la culture
 </td>
 </tr>
@@ -202,12 +202,11 @@ ouvert<br/><br/>
 
 <strong>Batir une diversité de points de vue + un environement inclusif<strong><br/>
  • Solliciter les usagers internes et les parties prenantes 
-très tôt, en particilier ceux qui pourraient ne pas être d'accord.<br/><br/>
+très tôt, en particulier ceux qui pourraient ne pas être d'accord.<br/><br/>
  • Chercher des perspectives variées et sous-représentées (emplacement
-géographique, ethnie, départements, niveau hiérarchique, genre, age, etc. ) out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Devenez un champion de la collaboration (FIXME:Champion collaboration) et
-ouvrez des canaux de feedback<br/><br/>
- • Prenez en compte les risques, les limites et les impacts culturels
+géographique, ethnie, départements, niveau hiérarchique, genre, age, etc. )<br/><br/>
+ • Promouvoir la collaboration et fournir des canaux de feedback<br/><br/>
+ • Prendre en compte les risques, les limites et les impacts culturels
 potentiels, en particulier pour les problèmes qui sont des controverses
 historiques<br/><br/>
 </td>
@@ -224,9 +223,9 @@ désengager ?  Qui d'autre devons-nous prendre en compte?
 <td rowspan=3>
 Il y a un poignée de problèmes qui provoquent en général de la controverse ou de
 l'énervement chez Red Hat, notamment :<br/><br/>
- • Les décisions, les politiques ou changement qui impactent les
-(FIXME:associates), par exemple les rémunérations et le programme de bien-être.<<br/><br/>
- • Les changements dans l'environement de travail des (FIXME:associates)<Br/><br/>
+ • Les décisions, les politiques ou changement qui impactent les collaborateurs
+(FIXME:associates), par exemple les rémunérations et le programme de bien-être.<br/><br/>
+ • Les changements dans l'environement de travail des collaborateurs (FIXME:associates)<Br/><br/>
  • L'implementation d'une technologie propriétaire<br/><br/>
  • L'utilisation de formats proprietaires<Br/><br/>
  • Le partage de données et la vie privée<br/><br/>
@@ -288,7 +287,7 @@ les enjeux de confidentialité<br/><br/>
  • Developper et rassembler le feedback sur la communication, la gestion du
 changement et les plans d'adoption<br/><Br/>
  • Imaginez comment des personnes ennervées pourraient répondre ( via un memo
-FIXME:memo-list ou un autre canal)
+ ou un autre canal)
 </td>
 <td>
  • Comment allons-nous prendre les décisions?<Br/><Br/>
@@ -324,9 +323,9 @@ _page 9 sur 15_
 <td><strong>Questions à poser</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Batir votre communité</strong><br/>
+<td rowspan=3 width=33%><strong>Batir votre communauté</strong><br/>
  • Demander aux départments qui parmi leur équipe peut fournir du feedback<Br/><Br/>
- • (FIXME:Socialize) la décision avec les usagers et les parties prenantes, en
+ • Discuter de la décision avec les usagers et les parties prenantes, en
 particulier ceux qui parlent le plus des impacts. <br/><br/>
  • Rechercher des options ou des aménagements pour les usagers qui seront
 impactés négativement. <Br/><Br/>
@@ -397,7 +396,7 @@ veleurs de Red Hat<br/><br/>
  • Souligner les étapes que vous avez suivie pour prendre votre décision de
 manière ouverte<br/><br/>
  • Mettre en avant l'utilisation de ce cadre de décision ouverte <br/><br/>
- • Dire aux (FIXME:associates) ou trouver des informations détaillées<br/><br/>
+ • Dire aux collaborateurs (FIXME:associates) ou trouver des informations détaillées<br/><br/>
  • Monter comment le feedback a modelé la décision ou le projet<br/><br/>
  • Expliquer comment fournir du feedback après le lancement<br/><br/>
  • Signaler quand vous n'êtes pas complètement satisfait de la décision ou que
@@ -407,11 +406,10 @@ vous savez que d'autres ne le seront pas. <br/><br/>
 </td>
 <td rowspan=3 width=33%>
 <strong>Ouvert par défaut</strong><br/>
- • Rappeler (FIXME:Reiterate) les pré-requis et les contraintes appropriées
-(FIXME:relevant)<br/><br/>
+ • Réaffirmer les contraintes et les pré-requis pertinents <br/><br/>
  • Partager les problèmes légaux, les rapports, et les
 questions de confidentialité concernés<br/><br/>
- • Communiquer les critères de  succès et publier les métriques (FIXME:relevant)<br/><br/>
+ • Communiquer les critères de  succès et publier les métriques pertinentes<br/><br/>
 
 <strong>Contribuer en amont</strong><br/>
  • Publier vos méthodes, les leçons apprises, les communiqués et les critères
@@ -424,7 +422,7 @@ choisir un outil de collaboration
 <td>
  • Comment allons-nous suivre les listes de discussions et les autres canaux de
 feedback après le lancement ?<br/><br/>
- • Si nous avons fait des (FIXME:early releases), allons-nous continuer à faire
+ • Si nous avons fait des version préliminaires, allons-nous continuer à faire
 des améliorations incrémentales basées sur le feedback ?<br/><br/>
  • A quel point souhaitons nous faire des révisions sur la base du feedback ?<br/><br/>
  • Quelle est la fenêtre temporelle raisonable pour l'afinage et les retours
@@ -474,13 +472,13 @@ _page 15 sur 15_
       Martin (2009 – 2010); ressources communautaire supplémentaires
 
   - Developpé par l'équipe Red Hat People avec des contributions de groupes
-    témoins inter-fonctionnels (FIXME: cross-functional) 
+    témoins inter-fonctionnels  
 
     - Issu de l'effort "Project Management Office" pour créer un méthodologie de
       gestion de projet ouvert. (2012 – 2013)
     - Une conversation via une liste mémo d'un calendrier Google utilisée comme
-      catalysateur pour partager des brouillons avec tous les (FIXME:associates)
-et inviter à la participation (2014)
+      catalysateur pour partager des brouillons avec tous les collaborateurs 
+      (FIXME:associates) et inviter à la participation (2014)
     - Testé par les équipes IT et Engineering, dans le groupe de travail basé
       sur Google Calendar (2014 – 2015)
 
@@ -499,7 +497,7 @@ _page 15 sur 15_
     décision et de communication
   - Offre un guide cohérent pour les équipes et les leaders à propos des
     attentes culturelles de Red Hat, équilibrant la transparence et la confidentialité
-  - Améliorer l'implication des (FIXME:associate), le ratio signal-bruit sur les
+  - Améliorer l'implication des collaborateurs (FIXME:associate), le ratio signal-bruit sur les
     listes-memo
 
 
