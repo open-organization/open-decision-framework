@@ -3,9 +3,9 @@ Cadre de Décicion Ouverte
 
 Version Communitaire 1.0.3
 
-Dernière mise à jour : 13 Oct. 2016
+Dernière mise à jour de la version originale : 13 Oct. 2016
 
-Traduction : FIXME
+Dernière mise à jour de la traduction : 21 Mars 2017 
 
 © 2014-2016 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
 Decision Framework" en anglais) a été créé par l'équipe Red Hat People et est
@@ -53,8 +53,7 @@ _page 2 sur 15_
 
 Pour des décisions et des projets qui :
   - impactent notre culture ou
-  - affectent des collaborateurs (FIXME associates) au-delà de votre équipe
-    immédiate
+  - affectent des collaborateurs au-delà de votre équipe immédiate
 
 **Comment l'utiliser ?**
   - Intégrer par étapes le Cadre de Décision Ouverte dans votre projet ou dans
@@ -155,7 +154,7 @@ itérative<br/> • Imaginer avec les usagers<br/> • Construire de la confianc
 <td>
 • Adhésion des usagers<br/> • Adoption plus rapide et plus forte<br/> • Les
 meilleures idées gagnent<br/> • Moins de bugs, de problèmes et de impacts
-imprévus <br/> • Plus grand engagement des collaborateurs (FIXME:associate) <br/> • Décisions
+imprévus <br/> • Plus grand engagement des collaborateurs <br/> • Décisions
 alignées sur le stratégie et la culture
 </td>
 </tr>
@@ -167,7 +166,7 @@ On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 **Mais qu'on prend une décision ouverte, les gens se disent...**  _page 6 sur 15_ 
 
   - Je comprend pouquoi la décision a été prise et comment elle s'aligne avec la
-    stratégie, les buts et la mission de Red Hat (FIXME).
+    stratégie, les buts et la mission de Red Hat.
   - Les pré-requis de l'entreprise, les critères de recherche et d'évaluation
     étaient visibles.
   - Le processus de décision était inclusif et transparent.
@@ -224,8 +223,8 @@ désengager ?  Qui d'autre devons-nous prendre en compte?
 Il y a un poignée de problèmes qui provoquent en général de la controverse ou de
 l'énervement chez Red Hat, notamment :<br/><br/>
  • Les décisions, les politiques ou changement qui impactent les collaborateurs
-(FIXME:associates), par exemple les rémunérations et le programme de bien-être.<br/><br/>
- • Les changements dans l'environement de travail des collaborateurs (FIXME:associates)<Br/><br/>
+, par exemple les rémunérations et le programme de bien-être.<br/><br/>
+ • Les changements dans l'environement de travail des collaborateurs<br/><br/>
  • L'implementation d'une technologie propriétaire<br/><br/>
  • L'utilisation de formats proprietaires<Br/><br/>
  • Le partage de données et la vie privée<br/><br/>
@@ -396,7 +395,7 @@ veleurs de Red Hat<br/><br/>
  • Souligner les étapes que vous avez suivie pour prendre votre décision de
 manière ouverte<br/><br/>
  • Mettre en avant l'utilisation de ce cadre de décision ouverte <br/><br/>
- • Dire aux collaborateurs (FIXME:associates) ou trouver des informations détaillées<br/><br/>
+ • Dire aux collaborateurs ou trouver des informations détaillées<br/><br/>
  • Monter comment le feedback a modelé la décision ou le projet<br/><br/>
  • Expliquer comment fournir du feedback après le lancement<br/><br/>
  • Signaler quand vous n'êtes pas complètement satisfait de la décision ou que
@@ -478,7 +477,7 @@ _page 15 sur 15_
       gestion de projet ouvert. (2012 – 2013)
     - Une conversation via une liste mémo d'un calendrier Google utilisée comme
       catalysateur pour partager des brouillons avec tous les collaborateurs 
-      (FIXME:associates) et inviter à la participation (2014)
+      et inviter à la participation (2014)
     - Testé par les équipes IT et Engineering, dans le groupe de travail basé
       sur Google Calendar (2014 – 2015)
 
@@ -497,7 +496,7 @@ _page 15 sur 15_
     décision et de communication
   - Offre un guide cohérent pour les équipes et les leaders à propos des
     attentes culturelles de Red Hat, équilibrant la transparence et la confidentialité
-  - Améliorer l'implication des collaborateurs (FIXME:associate), le ratio signal-bruit sur les
+  - Améliorer l'implication des collaborateurs, le ratio signal-bruit sur les
     listes-memo
 
 
