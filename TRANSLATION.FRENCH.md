@@ -5,6 +5,13 @@ Here's a few comments on how to translate this project in French.
 Ci-dessous quelques remarques pour traduire ce projet en français.
 
 
+## Traducteurs
+
+Ci-dessous la liste des personnes qui ont participé à cet effort :
+
+* Etienne Bersac <etienne.bersac@dalibo.com>
+* Damien Clochard <damien.clochard@dalibo.com>
+
 ## Notes
 
 * Les hashtags ne doivent pas être traduit. Par exemple `[Overview](#overview)` devient `[Vue d'ensemble](#overview)` 
