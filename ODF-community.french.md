@@ -25,6 +25,7 @@ Notes
 
 Contenu
 ===========================================================================
+
 * [Vue d'ensemble](#overview)
   * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
   * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
@@ -41,8 +42,10 @@ Contenu
   * [Pourquoi ce cadre existe](#why-framework)
 
 <br/>
+
 Vue d'ensemble<a name="overview"></a>
 ===========================================================================
+
 _page 2 sur 15_
 
 **Qu'est-ce c'est ?**
@@ -60,8 +63,10 @@ Pour des décisions et des projets qui :
     votre processus de prise de décisions.
 
 <br/>
+
 Qu'est-ce qu'une décision ouverte ? <a name="what-is-an-open-decision"></a>
 -------------------------
+
 _page 3 sur 15_
 
 <table>
@@ -84,8 +89,10 @@ sur le projet.</td>
 </table>
 
 <br/>
+
 Les décisions ouvertes sont issues des principes open source <a name="open-decisions-open-principles"></a>
 -----------------------------------------------------
+
 _page 4 sur 15_ 
 
 **Echanges ouverts**
@@ -127,8 +134,10 @@ efforts et réparti le travail. Ensemble nous pouvons faire plus.
 Adapté de : https://opensource.com/open-source-way
 
 <br/>
+
 Comment les principes open source conduisent à de meilleures décisions <a name="how-open-source-principles"></a> 
 ---------------------------------------------------
+
 _page 5 sur 15_ 
 
 <table>
@@ -161,9 +170,13 @@ alignées sur le stratégie et la culture
 </table>
 
 <br/>
+
 On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 ----------------------------------------------------
-**Mais qu'on prend une décision ouverte, les gens se disent...**  _page 6 sur 15_ 
+
+**Mais qu'on prend une décision ouverte, les gens se disent...**  
+
+_page 6 sur 15_ 
 
   - Je comprend pouquoi la décision a été prise et comment elle s'aligne avec la
     stratégie, les buts et la mission de Red Hat.
@@ -178,11 +191,13 @@ On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
   - Ma voix a été entendue et valorisée.
 
 <br/>
+
 Cadre de Décision Ouverte <a name="framework"></a>
 ===========================================================================
 
 Phase ou activité: Conceptualiser, Définir, Imaginer <a name="ideation"></a>
 ---------------
+
 _page 7 sur 15_ 
 
 <table>
@@ -226,7 +241,7 @@ l'énervement chez Red Hat, notamment :<br/><br/>
 , par exemple les rémunérations et le programme de bien-être.<br/><br/>
  • Les changements dans l'environement de travail des collaborateurs<br/><br/>
  • L'implementation d'une technologie propriétaire<br/><br/>
- • L'utilisation de formats proprietaires<Br/><br/>
+ • L'utilisation de formats proprietaires<br/><br/>
  • Le partage de données et la vie privée<br/><br/>
 
 Si votre projet touche à l'un de ces thèmes, ajoutez des étapes supplémentaires
@@ -248,8 +263,10 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
 </table>
 
 <br/>
+
 Phase or activity: Planifier, Rechercher <a name="plan-research"></a>
 ----------------------
+
 _page 8 sur 15_
 
 <table>
@@ -312,8 +329,10 @@ nosc choix dans le futur ?<br/><br/>
 </table>
 
 <br/>
+
 Phase ou activité: Concevoir, Developper, Tester <a name="design-develop-test"></a>
 ----------------------------
+
 _page 9 sur 15_ 
 
 <table>
@@ -379,8 +398,10 @@ afin de récolter des réactions ?<br/><br/>
 </table>
 
 <br/>
+
 Phase or activity: Launcer, Deployer, Cloturer <a name="launch"></a>
 --------------
+
 _page 10 sur 15_ 
 
 <table>
@@ -436,8 +457,10 @@ décision ouverte chez Red Hat ?
 </table>
 
 <br/>
+
 Resources <a name="resources"></a>
 ===========================================================================
+
 _page 13 of 15_ 
 
   - [Red Hat
@@ -458,12 +481,14 @@ appliqués aux entrerpises, à l'éducation, aux gouvernements et ailleurs
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 <br/>
+
 Annexes <a name="appendix"></a>
 ===========================================================================
 
 Histoire: D'où vient le Cadre de Décision Ouverte <a name="history"></a>
 ----------------------------------------------------
-_page 15 sur 15_ 
+
+_page 14 sur 15_ 
 
   - Basé sur des principes practiqués par des communautés open source
 
@@ -484,8 +509,10 @@ _page 15 sur 15_
   - Mis à jour et maintenu par Rebecca Fernandez (rfernand@redhat.com)
 
 <br/>
+
 Pourquoi ce cadre existe <a name="why-framework"></a>
 ------------------------
+
 _page 15 sur 15_ 
 
 **Un ensemble de partiques éprouvées qui :**
