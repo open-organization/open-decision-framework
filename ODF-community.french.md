@@ -364,7 +364,7 @@ des doutes que vous avez sous-estimés.<br/><br/>
 doutes l'équipe aura ? Que sommes-nous en train d'oublier ?<br/><br/>
  • Publier les risques et les limitations découvertes en chemin <br/><br/>
 
-<strong>Faire une simulation (FIXEM:premortem)</strong><br/>
+<strong>Imaginer l'échec</strong><br/>
  • Imaginez que c'est le jour de l'annonce et que des personnes sont surprises
 ou ennervées. Qu'est-ce qui a déclenché cela ?<br/><br/>
  • Identifier les  changement que vous feriez ou les points que vous pourriez
@@ -463,17 +463,14 @@ Resources <a name="resources"></a>
 
 _page 13 of 15_ 
 
-  - [Red Hat
-    Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) –
+  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) –
 Pense-bête sur la collaboration, la transparence, la confiance, la méritocracy
 et la connection 
-  - [The Open Source Way
-    handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
+  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
 créer et entretenir une communauté de crontributeurs
   - [The Open Organization](http://opensource.com/open-organization) (livre +
     communauté en ligne)
-  - [Prioritizing by
-    impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
+  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
 voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
   - [Opensource.com](http://www.opensource.com/) – Un publication soutenue par
     Red Hat focalisée sur comment les principes open source peuvent être
