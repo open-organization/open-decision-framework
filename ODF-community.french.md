@@ -1,7 +1,7 @@
 Cadre de Décicion Ouverte
 =========================================
 
-Version Communitaire 1.0.3
+Version Communautaire 1.0.3
 
 Dernière mise à jour de la version originale : 13 Oct. 2016
 
