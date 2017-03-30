@@ -15,6 +15,9 @@ Ci-dessous la liste des personnes qui ont participé à cet effort :
 * Michael Scherer <https://github.com/mscherer>
 * Sanpii <https://github.com/sanpii>
 * Pierre-Louis Bonicoli <https://github.com/pilou->
+* Chad Whitacre <https://github.com/whit537>
+
+Merci à eux !
 
 ## Notes
 
