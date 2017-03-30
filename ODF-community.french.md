@@ -119,7 +119,7 @@ différents. On peut apprendre en faisant.
 
 **Méritocracie**
 
-Dans un méritocracie, les bonnes idées peuvent venir de n'importe où et la
+Dans une méritocracie, les bonnes idées peuvent venir de n'importe où et la
 meilleure idée gagne. Tout le monde a accès à la même information. C'est la
 qualité du travail qui détermine quels projets prennent de l'ampleur et attire
 le support et les efforts de la communauté.
@@ -218,8 +218,8 @@ ouvert<br/><br/>
  • Solliciter les usagers internes et les parties prenantes 
 très tôt, en particulier ceux qui pourraient ne pas être d'accord.<br/><br/>
  • Chercher des perspectives variées et sous-représentées (emplacement
-géographique, ethnie, départements, niveau hiérarchique, genre, age, etc. )<br/><br/>
- • Promouvoir la collaboration et fournir des canaux de feedback<br/><br/>
+géographique, ethnie, département, niveau hiérarchique, genre, age, etc. )<br/><br/>
+ • Promouvoir la collaboration et fournir des canaux de réponse<br/><br/>
  • Prendre en compte les risques, les limites et les impacts culturels
 potentiels, en particulier pour les problèmes qui sont des controverses
 historiques<br/><br/>
@@ -228,14 +228,14 @@ historiques<br/><br/>
  • Quel est l'impact potentiel sur l'organisation ? Sur la culture ?<br/><br/>
  • Que faut-il inclure dans le planning ?<br/><br/>
  • Qui est concerné par le problème que nous essayons de régler?<br/><Br/>
- • A qui devons ou voulons demander de l'aide ?<br/><br/>
+ • À qui devons-nous ou voulons-nous demander de l'aide ?<br/><br/>
  • Qui d'autres pourrait être impacté ?<br/><br/>
  • Qui a résolu un problème similaire ?<br/><br/>
  • Qui va probablement être en désaccord, s'opposer, rejeter ou de se
 désengager ?  Qui d'autre devons-nous prendre en compte?
 </td>
 <td rowspan=3>
-Il y a un poignée de problèmes qui provoquent en général de la controverse ou de
+Il y a une poignée de problèmes qui provoquent en général de la controverse ou de
 l'énervement chez Red Hat, notamment :<br/><br/>
  • Les décisions, les politiques ou changement qui impactent les collaborateurs
 , par exemple les rémunérations et le programme de bien-être.<br/><br/>
@@ -256,7 +256,7 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
  • Confidentialité, vie privée, et contraintes légales<br/><br/>
  • Controverses potentielles<br/><br/>
  • Impact sur la culture Red Hat et les futures décisions<br/><br/>
- • Roles + responsibilités (modèle OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Rôles + responsibilités (modèle OPT : https://github.com/red-hat-people-team/opt-model/) <br/><br/>
  • Où publier ?
 </td>
 </tr>
@@ -278,7 +278,7 @@ _page 8 sur 15_
 <td rowspan=3 width=33%><strong>Solliciter usagers + collaborateurs</strong><br/>
  • Rassembler des retours auprès d'usagers internes et de personnes qui vont
 vous aider (questionnaires, entretiens, groupes témoins, etc.)<br/><br/>
- • Faciliter la participation + les gestion de projet. Demander aux usagers
+ • Faciliter la participation + la gestion de projet. Demander aux usagers
 quels outils de collaboration ils préfèrent utiliser. Prévoir la consolidation
 et le publication du feedback.<br/><br/>
  • Rester ouvert à de nouvelles informations et perspectives<Br/><br/>
@@ -286,8 +286,8 @@ et le publication du feedback.<br/><br/>
 formels. <br/><br/>
 
 <strong>Définir les attentes dès le départ</strong><Br/>
- • Etre spécifique à propos des types de feedback que vous recherchez et à
-propos de qui pris les décisions. <Br/><Br/>
+ • Être spécifique à propos des types de feedback que vous recherchez et à
+propos de qui prend les décisions. <Br/><Br/>
  • Publier le processus de décision et la planification du projet plan avec des
 roles, des dates et des contraintes
 </td>
@@ -302,16 +302,16 @@ les enjeux de confidentialité<br/><br/>
 <strong>Planifier la transition</strong><br/><br/>
  • Developper et rassembler le feedback sur la communication, la gestion du
 changement et les plans d'adoption<br/><Br/>
- • Imaginez comment des personnes ennervées pourraient répondre ( via un memo
- ou un autre canal)
+ • Imaginez comment des personnes énervées pourraient répondre ( via une
+memo-liste ou un autre canal)
 </td>
 <td>
  • Comment allons-nous prendre les décisions?<Br/><Br/>
- • Quel usagers internes, parties prenantes et collaborateurs allons-nous impliquer ?<br/><br/>
+ • Quels usagers internes, parties prenantes et collaborateurs allons-nous impliquer ?<br/><br/>
  • Comment allons-nous les solliciter et communiquer avec eux ?<br/><br/>
- • Quels sont les options open source ?<br/><br/>
- • Comment le choix d'une technologie ou d'un format propriétaire va limiter
-nosc choix dans le futur ?<br/><br/>
+ • Quelles sont les options open source ?<br/><br/>
+ • Comment le choix d'une technologie ou d'un format propriétaire va limiter nos
+   choix dans le futur ?<br/><br/>
  • Comment cela s'aligne avec la stratégie et la mission de la société ?<br/><br/>
  • Où est-ce que cela peut coincer avec les valeurs et la culture de Red Hat ?
 </td>
@@ -467,7 +467,7 @@ _page 13 of 15_
 Pense-bête sur la collaboration, la transparence, la confiance, la méritocracy
 et la connection 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
-créer et entretenir une communauté de crontributeurs
+créer et entretenir une communauté de contributeurs
   - [The Open Organization](http://opensource.com/open-organization) (livre +
     communauté en ligne)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
@@ -487,10 +487,10 @@ Histoire: D'où vient le Cadre de Décision Ouverte <a name="history"></a>
 
 _page 14 sur 15_ 
 
-  - Basé sur des principes practiqués par des communautés open source
+  - Basé sur des principes pratiqués par des communautés open source
 
-    - Recheches par la Fuqua School of Business à l'université de Duke et Diana
-      Martin (2009 – 2010); ressources communautaire supplémentaires
+    - Recherches par la Fuqua School of Business à l'université de Duke et Diana
+      Martin (2009 – 2010); ressources communautaires supplémentaires
 
   - Developpé par l'équipe Red Hat People avec des contributions de groupes
     témoins inter-fonctionnels  
@@ -512,7 +512,7 @@ Pourquoi ce cadre existe <a name="why-framework"></a>
 
 _page 15 sur 15_ 
 
-**Un ensemble de partiques éprouvées qui :**
+**Un ensemble de pratiques éprouvées qui :**
 
   - Conduit à un meilleur alignement entre les décisions d'entreprise et la
     stratégie, les buts, la culture, les valeurs et la mission de notre société
@@ -521,6 +521,6 @@ _page 15 sur 15_
   - Offre un guide cohérent pour les équipes et les leaders à propos des
     attentes culturelles de Red Hat, équilibrant la transparence et la confidentialité
   - Améliorer l'implication des collaborateurs, le ratio signal-bruit sur les
-    listes-memo
+    memo-listes
 
 
