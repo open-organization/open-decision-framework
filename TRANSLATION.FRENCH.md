@@ -14,6 +14,7 @@ Ci-dessous la liste des personnes qui ont participé à cet effort :
 * Bruno Jean <https://github.com/brunojean>
 * Michael Scherer <https://github.com/mscherer>
 * Sanpii <https://github.com/sanpii>
+* Pierre-Louis Bonicoli <https://github.com/pilou->
 
 ## Notes
 

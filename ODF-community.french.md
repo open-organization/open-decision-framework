@@ -12,7 +12,7 @@ Decision Framework" en anglais) a été créé par l'équipe Red Hat People et e
 disponible sous licence Creative Commons Attribution-ShareAlike 4.0
 International License ([CC BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat et le logo
-Shadowman sont des marques déposées de Red Hat, Inc. et enregistrée dans
+Shadowman sont des marques déposées de Red Hat, Inc. et enregistrées dans
 d'autres pays. La marque Red Hat doit être retirée de toute version modifiée.
 
 Notes
@@ -21,7 +21,7 @@ Notes
 * Cette version markdown des diapositives est publiée pour faciliter la
   collaboration et le suivi des changements.
 * La numérotation des pages correspond aux fichiers LibreOffice (.odp) et PDF
-  dans le dépot.
+  dans le dépôt.
 
 Contenu
 ===========================================================================
@@ -35,10 +35,10 @@ Contenu
   * [Phase ou activité: Conceptualiser, Définir, Imaginer](#ideation)
   * [Phase ou activité: Planifier, Rechercher](#plan-research)
   * [Phase ou activité: Concevoir, Developper, Tester](#design-develop-test)
-  * [Phase ou activité: Lancer, Deployer, Cloturer](#launch)
-* [Resources](#resources)
+  * [Phase ou activité: Lancer, Deployer, Clôturer](#launch)
+* [Ressources](#resources)
 * [Annexes](#appendix)
-  * [Histoire: D'où vient le Cadre de Décision Ouvert](#history)
+  * [Histoire: D'où vient le Cadre de Décision Ouverte](#history)
   * [Pourquoi ce cadre existe](#why-framework)
 
 <br/>
@@ -60,7 +60,7 @@ Pour des décisions et des projets qui :
 
 **Comment l'utiliser ?**
   - Intégrer par étapes le Cadre de Décision Ouverte dans votre projet ou dans
-    votre processus de prise de décisions.
+    votre processus de prise de décision.
 
 <br/>
 
@@ -77,11 +77,11 @@ _page 3 sur 15_
 </tr>
 <tr>
 <td>Expliquer qui prend la décision, quels problèmes vous essayez de régler, les
-pré-requis et les contraintes en jeu et le processus que vous aller suivre.</td>
+pré-requis et les contraintes en jeu et le processus que vous allez suivre.</td>
 <td>Solliciter le retour d'autres personnes et collaborer tout au long du
 processus de décision. Rechercher des points de vue variés, notamment ceux des
 détracteurs potentiels.</td>
-<td>Considérer les personnes comme des usagers ayant dans des besoins
+<td>Considérer les personnes comme des usagers ayant des besoins
 contradictoires et des priorités. Quand une décision aide certains usagers
 mais en déçoit d'autres, gérer les relations et les attentes tout en avançant
 sur le projet.</td>
@@ -95,12 +95,12 @@ Les décisions ouvertes sont issues des principes open source <a name="open-deci
 
 _page 4 sur 15_ 
 
-**Echanges ouverts**
+**Échanges ouverts**
 
 Que vous developpiez un logiciel ou que vous essayiez de résoudre un problème
 dans l'entreprise, l'échange ouvert commence en partageant le "code source" avec
 d'autres personnes. Un échange libre des idées est essentiel pour créer un
-environement où chacun a les moyens d'apprendre et d'utiliser l'information
+environnement où chacun a les moyens d'apprendre et d'utiliser l'information
 existante pour imaginer de nouvelles idées. 
 
 **Participation**
@@ -129,7 +129,7 @@ le support et les efforts de la communauté.
 Les communautés sont formées autour d'un objectif commun. Elles rassemblent des
 idées diverses et partagent le travail. Une fois réunie, une communauté globale
 peut créer au delà des capacités de n'importe quel individu. Elle multiplie les
-efforts et réparti le travail. Ensemble nous pouvons faire plus.
+efforts et répartit le travail. Ensemble nous pouvons faire plus.
 
 Adapté de : https://opensource.com/open-source-way
 
@@ -162,9 +162,9 @@ itérative<br/> • Imaginer avec les usagers<br/> • Construire de la confianc
 <td>→<br/>→<br/>→</td>
 <td>
 • Adhésion des usagers<br/> • Adoption plus rapide et plus forte<br/> • Les
-meilleures idées gagnent<br/> • Moins de bugs, de problèmes et de impacts
+meilleures idées gagnent<br/> • Moins de bugs, de problèmes et d'impacts
 imprévus <br/> • Plus grand engagement des collaborateurs <br/> • Décisions
-alignées sur le stratégie et la culture
+alignées sur la stratégie et la culture
 </td>
 </tr>
 </table>
@@ -174,11 +174,11 @@ alignées sur le stratégie et la culture
 On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
 ----------------------------------------------------
 
-**Mais qu'on prend une décision ouverte, les gens se disent...**  
+**Mais quand on prend une décision ouverte, les gens se disent...**  
 
 _page 6 sur 15_ 
 
-  - Je comprend pouquoi la décision a été prise et comment elle s'aligne avec la
+  - Je comprend pourquoi la décision a été prise et comment elle s'aligne avec la
     stratégie, les buts et la mission de Red Hat.
   - Les pré-requis de l'entreprise, les critères de recherche et d'évaluation
     étaient visibles.
@@ -214,11 +214,11 @@ _page 7 sur 15_
 ouvert<br/><br/>
  • Publier votre processus de conception<br/><br/>
 
-<strong>Batir une diversité de points de vue + un environement inclusif<strong><br/>
+<strong>Bâtir une diversité de points de vue + un environnement inclusif<strong><br/>
  • Solliciter les usagers internes et les parties prenantes 
 très tôt, en particulier ceux qui pourraient ne pas être d'accord.<br/><br/>
  • Chercher des perspectives variées et sous-représentées (emplacement
-géographique, ethnie, département, niveau hiérarchique, genre, age, etc. )<br/><br/>
+géographique, ethnie, département, niveau hiérarchique, genre, âge, etc. )<br/><br/>
  • Promouvoir la collaboration et fournir des canaux de réponse<br/><br/>
  • Prendre en compte les risques, les limites et les impacts culturels
 potentiels, en particulier pour les problèmes qui sont des controverses
@@ -237,11 +237,11 @@ désengager ?  Qui d'autre devons-nous prendre en compte?
 <td rowspan=3>
 Il y a une poignée de problèmes qui provoquent en général de la controverse ou de
 l'énervement chez Red Hat, notamment :<br/><br/>
- • Les décisions, les politiques ou changement qui impactent les collaborateurs
+ • Les décisions, les politiques ou changements qui impactent les collaborateurs
 , par exemple les rémunérations et le programme de bien-être.<br/><br/>
- • Les changements dans l'environement de travail des collaborateurs<br/><br/>
- • L'implementation d'une technologie propriétaire<br/><br/>
- • L'utilisation de formats proprietaires<br/><br/>
+ • Les changements dans l'environnement de travail des collaborateurs<br/><br/>
+ • L'implémentation d'une technologie propriétaire<br/><br/>
+ • L'utilisation de formats propriétaires<br/><br/>
  • Le partage de données et la vie privée<br/><br/>
 
 Si votre projet touche à l'un de ces thèmes, ajoutez des étapes supplémentaires
@@ -256,7 +256,7 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
  • Confidentialité, vie privée, et contraintes légales<br/><br/>
  • Controverses potentielles<br/><br/>
  • Impact sur la culture Red Hat et les futures décisions<br/><br/>
- • Rôles + responsibilités (modèle OPT : https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Rôles + responsabilités (modèle OPT : https://github.com/red-hat-people-team/opt-model/) <br/><br/>
  • Où publier ?
 </td>
 </tr>
@@ -282,14 +282,14 @@ vous aider (questionnaires, entretiens, groupes témoins, etc.)<br/><br/>
 quels outils de collaboration ils préfèrent utiliser. Prévoir la consolidation
 et la publication du feedback.<br/><br/>
  • Rester ouvert à de nouvelles informations et perspectives<Br/><br/>
- • Envisager le feedback et la commununication pair-à-pair, en plus des canaux
+ • Envisager le feedback et la communication pair-à-pair, en plus des canaux
 formels. <br/><br/>
 
 <strong>Définir les attentes dès le départ</strong><Br/>
  • Être spécifique à propos des types de feedback que vous recherchez et à
 propos de qui prend les décisions. <Br/><Br/>
  • Publier le processus de décision et la planification du projet plan avec des
-roles, des dates et des contraintes
+rôles, des dates et des contraintes
 </td>
 <td rowspan=3 width=33%><strong>Expliquer les évidences</strong><Br/>
  • Publier le périmètre du projet ou de la décision et itérer régulièrement<br/><br/>
@@ -341,18 +341,18 @@ _page 9 sur 15_
 <td><strong>Questions à poser</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Batir votre communauté</strong><br/>
- • Demander aux départments qui parmi leur équipe peut fournir du feedback<Br/><Br/>
+<td rowspan=3 width=33%><strong>Bâtir votre communauté</strong><br/>
+ • Demander aux départements qui parmi leurs équipes peut fournir du feedback<Br/><Br/>
  • Discuter de la décision avec les usagers et les parties prenantes, en
 particulier ceux qui parlent le plus des impacts. <br/><br/>
  • Rechercher des options ou des aménagements pour les usagers qui seront
 impactés négativement. <Br/><Br/>
 
 <strong>Promouvoir des échanges ouverts</strong><br/>
- • Evaluer, valider et incorporer le feedback<br/><br/>
+ • Évaluer, valider et incorporer le feedback<br/><br/>
  • Mettre en valeur les changements effectués suite au feedback<br/><br/>
  • Si une suggestion n'est pas possible, expliquer pourquoi<br/><br/>
- • Publier la progression du projet dans un endroit ouvert <br/><br/>
+ • Publier la progression du projet dans un endroit public <br/><br/>
  • Fournir des infos régulières aux sponsors, aux usagers et aux parties
 prenantes 
 </td>
@@ -361,17 +361,17 @@ prenantes
  • Inviter l'équipe du projet et les collaborateurs à remonter des risques ou
 des doutes que vous avez sous-estimés.<br/><br/>
  • Question: Qu'est-ce qui pourrait empêcher la réussite du projet ? Quels
-doutes l'équipe aura ? Que sommes-nous en train d'oublier ?<br/><br/>
- • Publier les risques et les limitations découvertes en chemin <br/><br/>
+seront les doutes de l'équipe ? Que sommes-nous en train d'oublier ?<br/><br/>
+ • Publier au fur et à mesure les risques et les limitations découvertes <br/><br/>
 
 <strong>Imaginer l'échec</strong><br/>
  • Imaginez que c'est le jour de l'annonce et que des personnes sont surprises
-ou ennervées. Qu'est-ce qui a déclenché cela ?<br/><br/>
- • Identifier les  changement que vous feriez ou les points que vous pourriez
+ou énervées. Qu'est-ce qui a déclenché cela ?<br/><br/>
+ • Identifier les changements que vous feriez ou les points que vous pourriez
 clarifier et faites-les de manière pro-active.<br/><br/>
 
 <strong>Activer vos ambassadeurs</strong><Br/>
- • Equiper la communauté pour qu'elle vous aide à clarifier les désinformations
+ • Équiper la communauté pour qu'elle vous aide à clarifier les désinformations
 et les incompréhensions. 
 </td>
 <td>
@@ -390,7 +390,7 @@ afin de récolter des réactions ?<br/><br/>
 </tr>
 <tr>
 <td>
- • Representation de  différent types d'usagers<br/>
+ • Représentation de différents types d'usagers<br/>
  • Impacts et cas d'utilisation imprévus<br/>
  • Risques et doutes non exprimés 
 </td>
@@ -399,7 +399,7 @@ afin de récolter des réactions ?<br/><br/>
 
 <br/>
 
-Phase ou activité: Launcer, Deployer, Cloturer <a name="launch"></a>
+Phase ou activité: Launcer, Deployer, Clôturer <a name="launch"></a>
 --------------
 
 _page 10 sur 15_ 
@@ -411,13 +411,13 @@ _page 10 sur 15_
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Commencer par envisager la fin</strong><br/>
- • Demontrer l'alignment avec la stratégie, la mission, la culture et les
-veleurs de Red Hat<br/><br/>
+ • Démontrer la cohérence avec la stratégie, la mission, la culture et les
+valeurs de Red Hat<br/><br/>
  • Souligner les étapes que vous avez suivie pour prendre votre décision de
 manière ouverte<br/><br/>
  • Mettre en avant l'utilisation de ce cadre de décision ouverte <br/><br/>
- • Dire aux collaborateurs ou trouver des informations détaillées<br/><br/>
- • Monter comment le feedback a modelé la décision ou le projet<br/><br/>
+ • Dire aux collaborateurs où trouver des informations détaillées<br/><br/>
+ • Montrer comment le feedback a modelé la décision ou le projet<br/><br/>
  • Expliquer comment fournir du feedback après le lancement<br/><br/>
  • Signaler quand vous n'êtes pas complètement satisfait de la décision ou que
 vous savez que d'autres ne le seront pas. <br/><br/>
@@ -427,13 +427,12 @@ vous savez que d'autres ne le seront pas. <br/><br/>
 <td rowspan=3 width=33%>
 <strong>Ouvert par défaut</strong><br/>
  • Réaffirmer les contraintes et les pré-requis pertinents <br/><br/>
- • Partager les problèmes légaux, les rapports, et les
-questions de confidentialité concernés<br/><br/>
+ • Partager les problèmes légaux, les rapports, et les questions de confidentialité<br/><br/>
  • Communiquer les critères de  succès et publier les métriques pertinentes<br/><br/>
 
 <strong>Contribuer en amont</strong><br/>
- • Publier vos méthodes, les leçons apprises, les communiqués et les critères
-de décision dans les archives, pour que d'autres puissent étudier les anciennes
+ • Archiver et Publier les méthodes, les leçons apprises, les communiqués et les critères
+de décision, pour que d'autres puissent étudier les anciennes
 décisions, comprendre pourquoi une décision a été prise et voir comment les
 leaders ont répondu à des problèmes similaires par le passé.<br/><br/>
  • Proposer votre aide à d'autres personnes pour prendre des décisions ou
@@ -445,11 +444,11 @@ feedback après le lancement ?<br/><br/>
  • Si nous avons fait des version préliminaires, allons-nous continuer à faire
 des améliorations incrémentales basées sur le feedback ?<br/><br/>
  • A quel point souhaitons nous faire des révisions sur la base du feedback ?<br/><br/>
- • Quelle est la fenêtre temporelle raisonable pour l'afinage et les retours
+ • Quelle est la fenêtre temporelle raisonable pour l'affinage et les retours
 utilisateurs ?<br/><br/>
  • Avons-nous sous-estimé un point important ? Comment le prendre en compte ?<br/><br/>
- • Est-ce que la décision doit être revisée ?<br/><br/>
- • Est-ce cette décision ouverte nous a mené au résultat désiré ?<br/><br/>
+ • Est-ce que la décision doit être réévaluée ?<br/><br/>
+ • Est-ce que cette décision ouverte nous a mené au résultat désiré ?<br/><br/>
  • Comment pouvons-nous partager les leçons apprises et encourager la prise de
 décision ouverte chez Red Hat ?
 </td>
@@ -458,14 +457,14 @@ décision ouverte chez Red Hat ?
 
 <br/>
 
-Resources <a name="resources"></a>
+Ressources <a name="resources"></a>
 ===========================================================================
 
 _page 13 of 15_ 
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) –
-Pense-bête sur la collaboration, la transparence, la confiance, la méritocracy
-et la connection 
+Pense-bête sur la collaboration, la transparence, la confiance, la méritocracie
+et la connexion 
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
 créer et entretenir une communauté de contributeurs
   - [The Open Organization](http://opensource.com/open-organization) (livre +
@@ -473,8 +472,8 @@ créer et entretenir une communauté de contributeurs
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
 voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
   - [Opensource.com](http://www.opensource.com/) – Une publication soutenue par
-    Red Hat focalisée sur comment les principes open source peuvent être
-appliqués aux entrerpises, à l'éducation, aux gouvernements et ailleurs
+    Red Hat sur la manière dont les principes open source peuvent être
+appliqués notamment aux entreprises, à l'éducation, aux gouvernements
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 <br/>
@@ -514,13 +513,13 @@ _page 15 sur 15_
 
 **Un ensemble de pratiques éprouvées qui :**
 
-  - Conduit à un meilleur alignement entre les décisions d'entreprise et la
+  - Produit des décisions d'entreprise cohérentes avec la
     stratégie, les buts, la culture, les valeurs et la mission de notre société
   - Démontre “A quoi ressemble les bonnes pratiques" en terme de prise de
     décision et de communication
-  - Offre un guide cohérent pour les équipes et les leaders à propos des
-    attentes culturelles de Red Hat, équilibrant la transparence et la confidentialité
-  - Améliorer l'implication des collaborateurs, le ratio signal-bruit sur les
+  - Offre aux équipes et aux leaders un guide cohérent des  attentes culturelles 
+    de Red Hat, équilibrant la transparence et la confidentialité
+  - Améliore l'implication des collaborateurs, le ratio signal-bruit sur les
     memo-listes
 
 
