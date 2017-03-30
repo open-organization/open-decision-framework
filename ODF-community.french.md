@@ -264,7 +264,7 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
 
 <br/>
 
-Phase or activity: Planifier, Rechercher <a name="plan-research"></a>
+Phase ou activité: Planifier, Rechercher <a name="plan-research"></a>
 ----------------------
 
 _page 8 sur 15_
@@ -280,7 +280,7 @@ _page 8 sur 15_
 vous aider (questionnaires, entretiens, groupes témoins, etc.)<br/><br/>
  • Faciliter la participation + la gestion de projet. Demander aux usagers
 quels outils de collaboration ils préfèrent utiliser. Prévoir la consolidation
-et le publication du feedback.<br/><br/>
+et la publication du feedback.<br/><br/>
  • Rester ouvert à de nouvelles informations et perspectives<Br/><br/>
  • Envisager le feedback et la commununication pair-à-pair, en plus des canaux
 formels. <br/><br/>
@@ -399,7 +399,7 @@ afin de récolter des réactions ?<br/><br/>
 
 <br/>
 
-Phase or activity: Launcer, Deployer, Cloturer <a name="launch"></a>
+Phase ou activité: Launcer, Deployer, Cloturer <a name="launch"></a>
 --------------
 
 _page 10 sur 15_ 
@@ -421,7 +421,7 @@ manière ouverte<br/><br/>
  • Expliquer comment fournir du feedback après le lancement<br/><br/>
  • Signaler quand vous n'êtes pas complètement satisfait de la décision ou que
 vous savez que d'autres ne le seront pas. <br/><br/>
- • Parteger votre feuille de route et vos critères pour revenir sur la décision<br/><br/>
+ • Partager votre feuille de route et vos critères pour revenir sur la décision<br/><br/>
  • Rester en contact avec les personnes qui rejettent la décision
 </td>
 <td rowspan=3 width=33%>
@@ -472,7 +472,7 @@ créer et entretenir une communauté de contributeurs
     communauté en ligne)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
 voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/) – Un publication soutenue par
+  - [Opensource.com](http://www.opensource.com/) – Une publication soutenue par
     Red Hat focalisée sur comment les principes open source peuvent être
 appliqués aux entrerpises, à l'éducation, aux gouvernements et ailleurs
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)

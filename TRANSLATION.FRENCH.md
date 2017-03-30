@@ -13,7 +13,7 @@ Ci-dessous la liste des personnes qui ont participé à cet effort :
 * Damien Clochard <damien.clochard@dalibo.com>
 * Bruno Jean <https://github.com/brunojean>
 * Michael Scherer <https://github.com/mscherer>
-
+* Sanpii <https://github.com/sanpii>
 
 ## Notes
 
