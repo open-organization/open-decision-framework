@@ -5,6 +5,8 @@ Version Communautaire 1.0.3
 
 Dernière mise à jour de la version originale : 13 Oct. 2016
 
+Traduction à partir de la version `809a986`
+
 Dernière mise à jour de la traduction : 21 Mars 2017 
 
 © 2014-2016 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
