@@ -29,8 +29,8 @@ Contents
   * [History: Where the framework came from](#history)
   * [Why the framework exists](#why-framework)
 
-<br/>
-Overview<a name="overview"></a>
+
+Overview
 ===========================================================================
 _page 2 of 15_
 
@@ -46,8 +46,8 @@ For decisions and projects that are likely to:
 **How to use it**
   - Build steps from the Open Decision Framework into your project plan or decision-making process
 
-<br/>
-What is an open decision? <a name="what-is-an-open-decision"></a>
+
+What is an open decision?
 -------------------------
 _page 3 of 15_
 
@@ -64,8 +64,8 @@ _page 3 of 15_
 </tr>
 </table>
 
-<br/>
-Open decisions are made using open source principles <a name="open-decisions-open-principles"></a>
+
+Open decisions are made using open source principles 
 -----------------------------------------------------
 _page 4 of 15_ 
 
@@ -91,8 +91,8 @@ Communities are formed around a common purpose. They bring together diverse idea
 
 Adapted from: https://opensource.com/open-source-way
 
-<br/>
-How open source principles lead to better decisions <a name="how-open-source-principles"></a> 
+
+How open source principles lead to better decisions  
 ---------------------------------------------------
 _page 5 of 15_ 
 
@@ -119,8 +119,8 @@ _page 5 of 15_
 </tr>
 </table>
 
-<br/>
-You can't please everyone. <a name="cant-please-everyone"></a>
+
+You can't please everyone. 
 ----------------------------------------------------
 **But when you make open decisions, people feel...**  _page 6 of 15_ 
 
@@ -132,8 +132,8 @@ You can't please everyone. <a name="cant-please-everyone"></a>
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
-<br/>
-Open Decision Framework <a name="framework"></a>
+
+Open Decision Framework 
 ===========================================================================
 
 Phase or activity: Concept, Define, Ideate <a name="ideation"></a>
@@ -193,8 +193,8 @@ If your project or decision involves any of these themes, take extra steps to ma
 </tr>
 </table>
 
-<br/>
-Phase or activity: Plan, Research <a name="plan-research"></a>
+
+Phase or activity: Plan, Research 
 ----------------------
 _page 8 of 15_
 
@@ -246,8 +246,8 @@ _page 8 of 15_
 </tr>
 </table>
 
-<br/>
-Phase or activity: Design, Develop, Test <a name="design-develop-test"></a>
+
+Phase or activity: Design, Develop, Test 
 ----------------------------
 _page 9 of 15_ 
 
@@ -304,8 +304,8 @@ _page 9 of 15_
 </tr>
 </table>
 
-<br/>
-Phase or activity: Launch, Deploy, Close <a name="launch"></a>
+
+Phase or activity: Launch, Deploy, Close 
 --------------
 _page 10 of 15_ 
 
@@ -349,8 +349,8 @@ _page 10 of 15_
 </tr>
 </table>
 
-<br/>
-Resources <a name="resources"></a>
+
+Resources 
 ===========================================================================
 _page 12 of 15_ 
 
@@ -361,11 +361,11 @@ _page 12 of 15_
   - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-<br/>
-Appendix <a name="appendix"></a>
+
+Appendix 
 ===========================================================================
 
-History: Where the Open Decision Framework came from <a name="history"></a>
+History: Where the Open Decision Framework came from 
 ----------------------------------------------------
 _page 14 of 15_ 
 
@@ -381,8 +381,8 @@ _page 14 of 15_
 
   - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
 
-<br/>
-Why the framework exists <a name="why-framework"></a>
+
+Why the framework exists 
 ------------------------
 _page 15 of 15_ 
 
