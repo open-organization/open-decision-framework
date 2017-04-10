@@ -31,7 +31,7 @@ Contenu
 * [Vue d'ensemble](#vue-densemble)
   * [Qu'est-ce qu'une décision ouverte ?](#quest-ce-quune-d%C3%A9cision-ouverte-)
   * [Les décisions ouvertes sont issues des principes open source](#les-d%C3%A9cisions-ouvertes-sont-issues-des-principes-open-source)
-  * [Comment les principes open source conduisent à de meilleures décisions](comment-les-principes-open-source-conduisent-%C3%A0-de-meilleures-d%C3%A9cisions)
+  * [Comment les principes open source conduisent à de meilleures décisions](#comment-les-principes-open-source-conduisent-%C3%A0-de-meilleures-d%C3%A9cisions)
   * [On ne peut pas plaire à tout le monde](#on-ne-peut-pas-plaire-%C3%A0-tout-le-monde)
 * [Cadre de Décision Ouverte](#cadre-de-d%C3%A9cision-ouverte)
   * [Phase ou activité: Conceptualiser, Définir, Imaginer](#phase-ou-activit%C3%A9-conceptualiser-d%C3%A9finir-imaginer)
