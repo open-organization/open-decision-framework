@@ -9,6 +9,14 @@ The Open Decision Framework contains the collective wisdom of Red Hatters, compi
 ## Licensing
 The Open Decision Framework is available under a [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
 
+### Contributing
+
+All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/).
+
+### Modifying and forking
+
+Note: Modified versions must remove all Red Hat branding, unless you are making a pull request or suggestion for improving the original.
+
 ## Available formats
 The Open Decision Framework is available in three different formats:
 
@@ -68,3 +76,6 @@ What does the Open Decision Framework look like, in action? What does it look li
 * Chris Ward @kejbaly2
 * Ric Wheeler
 * Jackie Yeaney
+
+### Community Contributors
+* Ben Cotton
