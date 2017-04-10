@@ -11,7 +11,8 @@ The Open Decision Framework is available under a [Creative Commons CC-BY-SA 4.0 
 
 ### Contributing
 
-All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/).
+All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). 
+* [Learn more](CONTRIBUTING.md)
 
 ### Modifying and forking
 
@@ -20,9 +21,14 @@ Note: Modified versions must remove all Red Hat branding, unless you are making 
 ## Available formats
 The Open Decision Framework is available in three different formats:
 
-1. [Portable Document Format] (ODF-community.pdf) (.pdf) - best for viewing, sharing, presenting as-is, and printing
-2. [LibreOffice Impress] (ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
-3. [Markdown] (ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
+1. [Portable Document Format](ODF-community.pdf) (.pdf) - best for viewing, sharing, presenting as-is, and printing
+2. [LibreOffice Impress](ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
+3. [Markdown](ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
+
+### Translations
+The Open Decision Framework is also available in:
+
+* [French](fr_FR)
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
@@ -79,3 +85,12 @@ What does the Open Decision Framework look like, in action? What does it look li
 
 ### Community Contributors
 * Ben Cotton
+* Chad Whitacre @whit537
+
+### Tranlation Contributors
+* Etienne Bersac etienne.bersac@dalibo.com
+* Damien Clochard damien.clochard@dalibo.com
+* Bruno Jean @brunojean
+* Michael Scherer @mscherer
+* Sanpii @sanpii
+* Pierre-Louis Bonicoli @pilou-
