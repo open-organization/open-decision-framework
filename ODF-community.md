@@ -16,18 +16,18 @@ Contents
 ===========================================================================
 * [Overview](#overview)
   * [What is an open decision?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-open-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles)
-  * [You can't please everyone](#cant-please-everyone)
-* [Open Decision Framework](#framework)
-  * [Phase or activity: Concept, Define, Ideate](#ideation)
-  * [Phase or activity: Plan, Research](#plan-research)
-  * [Phase or activity: Design, Develop, Test](#design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#launch)
+  * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
+  * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
+  * [You can't please everyone](#you-cant-please-everyone)
+* [Open Decision Framework](#open-decision-framework)
+  * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
+  * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
+  * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
+  * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
 * [Resources](#resources)
 * [Appendix](#appendix)
-  * [History: Where the framework came from](#history)
-  * [Why the framework exists](#why-framework)
+  * [History: Where the framework came from](#history-where-the-framework-came-from)
+  * [Why the framework exists](#why-the-framework-exists)
 
 
 Overview
@@ -136,7 +136,7 @@ You can't please everyone.
 Open Decision Framework 
 ===========================================================================
 
-Phase or activity: Concept, Define, Ideate <a name="ideation"></a>
+Phase or activity: Concept, Define, Ideate 
 ---------------
 _page 7 of 15_ 
 
