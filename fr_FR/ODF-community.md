@@ -1,15 +1,15 @@
 Cadre de Décicion Ouverte
 =========================================
 
-Version Communautaire 1.0.3
+Version Communautaire 1.0.4.fr_FR
 
-Dernière mise à jour de la version originale : 13 Oct. 2016
+Dernière mise à jour de la version originale : 10 Apr. 2017
 
-Traduction à partir de la version `809a986`
+Traduction à partir de la version 1.0.4
 
-Dernière mise à jour de la traduction : 21 Mars 2017 
+Dernière mise à jour de la traduction : 10 Apr 2017 
 
-© 2014-2016 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
+© 2014-2017 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
 Decision Framework" en anglais) a été créé par l'équipe Red Hat People et est
 disponible sous licence Creative Commons Attribution-ShareAlike 4.0
 International License ([CC BY-SA
@@ -28,24 +28,24 @@ Notes
 Contenu
 ===========================================================================
 
-* [Vue d'ensemble](#overview)
-  * [Qu'est-ce qu'une décision ouverte ?](#what-is-an-open-decision)
-  * [Les décisions ouvertes sont issues des principes open source](#open-decisions-open-principles)
-  * [Comment les principes open source conduisent à de meilleures décisions](#how-open-source-principles)
-  * [On ne peut pas plaire à tout le monde](#cant-please-everyone)
-* [Cadre de Décision Ouverte](#framework)
-  * [Phase ou activité: Conceptualiser, Définir, Imaginer](#ideation)
-  * [Phase ou activité: Planifier, Rechercher](#plan-research)
-  * [Phase ou activité: Concevoir, Developper, Tester](#design-develop-test)
+* [Vue d'ensemble](#vue-d-ensemble)
+  * [Qu'est-ce qu'une décision ouverte ?](#qu-est-ce-qu-une-decision-ouverte)
+  * [Les décisions ouvertes sont issues des principes open source](#les-decisions-ouvertest-sont-issues-des-principes-open-source)
+  * [Comment les principes open source conduisent à de meilleures décisions](#comment-les-principes-open-source-conduisent-a-de-meilleures-decisions)
+  * [On ne peut pas plaire à tout le monde](#on-ne-peut-pas-plaire-a-tout-le-monde)
+* [Cadre de Décision Ouverte](#cadre-de-decision-ouverte)
+  * [Phase ou activité: Conceptualiser, Définir, Imaginer](#phase-ou-activite-conceptualiser-definir-imaginer)
+  * [Phase ou activité: Planifier, Rechercher](#phase-ou-activite-planifier-rechercher)
+  * [Phase ou activité: Concevoir, Developper, Tester](#phase-ou-activite-lancer-deployer-cloturer)
   * [Phase ou activité: Lancer, Deployer, Clôturer](#launch)
-* [Ressources](#resources)
-* [Annexes](#appendix)
-  * [Histoire: D'où vient le Cadre de Décision Ouverte](#history)
-  * [Pourquoi ce cadre existe](#why-framework)
+* [Ressources](#ressources)
+* [Annexes](#annexes)
+  * [Histoire: D'où vient le Cadre de Décision Ouverte](#histoire-d-ou-vient-le-cadre-de-decision-ouverte)
+  * [Pourquoi ce cadre existe](#pourquoi-ce-cadre-existe)
 
-<br/>
 
-Vue d'ensemble<a name="overview"></a>
+
+Vue d'ensemble
 ===========================================================================
 
 _page 2 sur 15_
@@ -64,9 +64,9 @@ Pour des décisions et des projets qui :
   - Intégrer par étapes le Cadre de Décision Ouverte dans votre projet ou dans
     votre processus de prise de décision.
 
-<br/>
 
-Qu'est-ce qu'une décision ouverte ? <a name="what-is-an-open-decision"></a>
+
+Qu'est-ce qu'une décision ouverte ? 
 -------------------------
 
 _page 3 sur 15_
@@ -90,9 +90,9 @@ sur le projet.</td>
 </tr>
 </table>
 
-<br/>
 
-Les décisions ouvertes sont issues des principes open source <a name="open-decisions-open-principles"></a>
+
+Les décisions ouvertes sont issues des principes open source 
 -----------------------------------------------------
 
 _page 4 sur 15_ 
@@ -135,9 +135,9 @@ efforts et répartit le travail. Ensemble nous pouvons faire plus.
 
 Adapté de : https://opensource.com/open-source-way
 
-<br/>
 
-Comment les principes open source conduisent à de meilleures décisions <a name="how-open-source-principles"></a> 
+
+Comment les principes open source conduisent à de meilleures décisions 
 ---------------------------------------------------
 
 _page 5 sur 15_ 
@@ -171,9 +171,9 @@ alignées sur la stratégie et la culture
 </tr>
 </table>
 
-<br/>
 
-On ne peut pas plaire à tout le monde. <a name="cant-please-everyone"></a>
+
+On ne peut pas plaire à tout le monde. 
 ----------------------------------------------------
 
 **Mais quand on prend une décision ouverte, les gens se disent...**  
@@ -192,12 +192,12 @@ _page 6 sur 15_
   - Je suis peut-être déçu mais je ne suis pas surpris.
   - Ma voix a été entendue et valorisée.
 
-<br/>
 
-Cadre de Décision Ouverte <a name="framework"></a>
+
+Cadre de Décision Ouverte 
 ===========================================================================
 
-Phase ou activité: Conceptualiser, Définir, Imaginer <a name="ideation"></a>
+Phase ou activité: Conceptualiser, Définir, Imaginer 
 ---------------
 
 _page 7 sur 15_ 
@@ -216,7 +216,7 @@ _page 7 sur 15_
 ouvert<br/><br/>
  • Publier votre processus de conception<br/><br/>
 
-<strong>Bâtir une diversité de points de vue + un environnement inclusif<strong><br/>
+<strong>Bâtir une diversité de points de vue + un environnement inclusif</strong><br/>
  • Solliciter les usagers internes et les parties prenantes 
 très tôt, en particulier ceux qui pourraient ne pas être d'accord.<br/><br/>
  • Chercher des perspectives variées et sous-représentées (emplacement
@@ -264,9 +264,9 @@ pour garantir que votre processus est ouvert, inclusif et transparent.
 </tr>
 </table>
 
-<br/>
 
-Phase ou activité: Planifier, Rechercher <a name="plan-research"></a>
+
+Phase ou activité: Planifier, Rechercher 
 ----------------------
 
 _page 8 sur 15_
@@ -330,9 +330,9 @@ memo-liste ou un autre canal)
 </tr>
 </table>
 
-<br/>
 
-Phase ou activité: Concevoir, Developper, Tester <a name="design-develop-test"></a>
+
+Phase ou activité: Concevoir, Developper, Tester 
 ----------------------------
 
 _page 9 sur 15_ 
@@ -399,9 +399,9 @@ afin de récolter des réactions ?<br/><br/>
 </tr>
 </table>
 
-<br/>
 
-Phase ou activité: Launcer, Deployer, Clôturer <a name="launch"></a>
+
+Phase ou activité: Launcer, Deployer, Clôturer 
 --------------
 
 _page 10 sur 15_ 
@@ -457,9 +457,9 @@ décision ouverte chez Red Hat ?
 </tr>
 </table>
 
-<br/>
 
-Ressources <a name="resources"></a>
+
+Ressources 
 ===========================================================================
 
 _page 13 of 15_ 
@@ -478,12 +478,12 @@ voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
 appliqués notamment aux entreprises, à l'éducation, aux gouvernements
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-<br/>
 
-Annexes <a name="appendix"></a>
+
+Annexes 
 ===========================================================================
 
-Histoire: D'où vient le Cadre de Décision Ouverte <a name="history"></a>
+Histoire: D'où vient le Cadre de Décision Ouverte 
 ----------------------------------------------------
 
 _page 14 sur 15_ 
@@ -506,9 +506,9 @@ _page 14 sur 15_
 
   - Mis à jour et maintenu par Rebecca Fernandez (rfernand@redhat.com)
 
-<br/>
 
-Pourquoi ce cadre existe <a name="why-framework"></a>
+
+Pourquoi ce cadre existe
 ------------------------
 
 _page 15 sur 15_ 
