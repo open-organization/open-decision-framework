@@ -44,7 +44,7 @@ What does the Open Decision Framework look like, in action? What does it look li
 ## Credits
 **Maintainer**: Rebecca Fernandez @ruhbehka
 
-### Red Hat contributors (2014 - 2016)
+### Red Hat contributors (2014 - 2017)
 * DeLisa Alexander
 * Nick Coghlan @ncoghlan
 * Mairin Duffy @mairin

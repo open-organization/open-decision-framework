@@ -1,10 +1,10 @@
 Open Decision Framework
 =======================
-Community Version 1.0.3
+Community Version 1.0.4
 
-Updated Oct 13, 2016
+Updated Apr 10, 2017
 
-© 2014-2016 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+© 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
 
 Notes
 =========
