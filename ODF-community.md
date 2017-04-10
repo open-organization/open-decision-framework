@@ -19,14 +19,14 @@ Contents
   * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
   * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
   * [You can't please everyone](#you-cant-please-everyone)
-* [Open Decision Framework](#open-decision-framework)
+* [Open Decision Framework](#open-decision-framework-1)
   * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
   * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
   * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
   * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
 * [Resources](#resources)
 * [Appendix](#appendix)
-  * [History: Where the framework came from](#history-where-the-framework-came-from)
+  * [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
   * [Why the framework exists](#why-the-framework-exists)
 
 
