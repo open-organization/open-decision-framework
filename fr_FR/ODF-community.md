@@ -29,18 +29,18 @@ Contenu
 ===========================================================================
 
 * [Vue d'ensemble](#vue-densemble)
-  * [Qu'est-ce qu'une décision ouverte ?](#quest-ce-quune-decision-ouverte)
-  * [Les décisions ouvertes sont issues des principes open source](#les-decisions-ouvertest-sont-issues-des-principes-open-source)
-  * [Comment les principes open source conduisent à de meilleures décisions](#comment-les-principes-open-source-conduisent-a-de-meilleures-decisions)
-  * [On ne peut pas plaire à tout le monde](#on-ne-peut-pas-plaire-a-tout-le-monde)
-* [Cadre de Décision Ouverte](#cadre-de-decision-ouverte)
-  * [Phase ou activité: Conceptualiser, Définir, Imaginer](#phase-ou-activite-conceptualiser-definir-imaginer)
-  * [Phase ou activité: Planifier, Rechercher](#phase-ou-activite-planifier-rechercher)
-  * [Phase ou activité: Concevoir, Developper, Tester](#phase-ou-activite-concevoir-developper-tester)
-  * [Phase ou activité: Lancer, Deployer, Clôturer](#phase-ou-activite-lancer-deployer-cloterer)
+  * [Qu'est-ce qu'une décision ouverte ?](#quest-ce-quune-d%C3%A9cision-ouverte-)
+  * [Les décisions ouvertes sont issues des principes open source](#les-d%C3%A9cisions-ouvertes-sont-issues-des-principes-open-source)
+  * [Comment les principes open source conduisent à de meilleures décisions](comment-les-principes-open-source-conduisent-%C3%A0-de-meilleures-d%C3%A9cisions)
+  * [On ne peut pas plaire à tout le monde](#on-ne-peut-pas-plaire-%C3%A0-tout-le-monde)
+* [Cadre de Décision Ouverte](#cadre-de-d%C3%A9cision-ouverte)
+  * [Phase ou activité: Conceptualiser, Définir, Imaginer](#phase-ou-activit%C3%A9-conceptualiser-d%C3%A9finir-imaginer)
+  * [Phase ou activité: Planifier, Rechercher](#phase-ou-activit%C3%A9-planifier-rechercher)
+  * [Phase ou activité: Concevoir, Developper, Tester](#phase-ou-activit%C3%A9-concevoir-developper-tester)
+  * [Phase ou activité: Lancer, Deployer, Clôturer](#phase-ou-activit%C3%A9-launcer-deployer-cl%C3%B4turer)
 * [Ressources](#ressources)
 * [Annexes](#annexes)
-  * [Histoire: D'où vient le Cadre de Décision Ouverte](#histoire-dou-vient-le-cadre-de-decision-ouverte)
+  * [Histoire: D'où vient le Cadre de Décision Ouverte](#histoire-do%C3%B9-vient-le-cadre-de-d%C3%A9cision-ouverte)
   * [Pourquoi ce cadre existe](#pourquoi-ce-cadre-existe)
 
 
