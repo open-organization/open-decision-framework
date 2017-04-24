@@ -41,6 +41,10 @@ If you'd like to submit an idea, please use the markdown version (.md) for easy 
 What does the Open Decision Framework look like, in action? What does it look like as you begin to adopt the practices... and later on, as you mature in your capabilities?
  * Download the [maturity model](maturity-model) and find out.
 
+**Common fact base template**
+A template for creating a "common fact base" - a comprehensive set of information that allows all stakeholders (past, present, and future) to have a shared understanding of important facts and information about a given problem, project, or decision.
+* Download the [common fact base template](common-fact-base-template) in .ODT or .DOCX
+
 ## Credits
 **Maintainer**: Rebecca Fernandez @ruhbehka
 
