@@ -91,7 +91,7 @@ A template for creating a "common fact base" - a comprehensive set of informatio
 * Ben Cotton
 * Chad Whitacre @whit537
 
-### Tranlation Contributors
+### Translation Contributors
 * Etienne Bersac etienne.bersac@dalibo.com
 * Damien Clochard damien.clochard@dalibo.com
 * Bruno Jean @brunojean
