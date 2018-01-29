@@ -1,4 +1,4 @@
-Cadre de Décicion Ouverte
+Cadre de Décision Ouverte
 =========================================
 
 Version Communautaire 1.0.4.fr_FR
