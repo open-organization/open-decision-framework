@@ -1,6 +1,6 @@
 ## Contributing
 
-All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. 
+All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license. 
 
 Please open issues and submit pull requests to discuss and suggest alterations to the Open Decision Framework or maturity model.
 
