@@ -51,7 +51,7 @@ Per decisioni e progetti che:
   - influenzano dei collaboratori al di fuori del vostro team diretto
 
 **Come usarlo**
-  - Integrare ... il Sistema decisionale aperto nel piano di progetto o nel processo decisionale (primario)
+  - Integrare per tappe il Sistema decisionale aperto nel piano di progetto o nel processo decisionale (primario)
 
 
 Che cos'é una decisione aperta?
