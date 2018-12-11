@@ -1,4 +1,4 @@
-Cadre de Décicion Ouverte
+Cadre de Décision Ouverte
 =========================================
 
 Version Communautaire 1.0.4.fr_FR
@@ -7,7 +7,7 @@ Dernière mise à jour de la version originale : 10 Apr. 2017
 
 Traduction à partir de la version 1.0.4
 
-Dernière mise à jour de la traduction : 10 Apr 2017 
+Dernière mise à jour de la traduction : 29 janvier 2018
 
 © 2014-2017 Red Hat et contributeurs | Le Cadre de Décision Ouverte ("Open
 Decision Framework" en anglais) a été créé par l'équipe Red Hat People et est
