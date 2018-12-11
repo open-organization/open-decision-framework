@@ -21,7 +21,7 @@ Note
 
 Contenuti
 ===========================================================================
-* [Panoramica](#overview)
+* [Panoramica](#panoramica)
   * [Che cos'é una decisione aperta?](#what-is-an-open-decision)
   * [Le decisioni aperte sono prese secondo i principi Open Source](#open-decisions-are-made-using-open-source-principles)
   * [In che modo i principi Open Source conducono a decisioni migliori](#how-open-source-principles-lead-to-better-decisions)
