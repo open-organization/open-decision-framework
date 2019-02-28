@@ -23,7 +23,7 @@ Contenuti
 ===========================================================================
 * [Panoramica](#panoramica)
   * [Che cos'è una decisione aperta?](#what-is-an-open-decision)
-  * [Le decisioni aperte rispecchiano i principi Open Source](#open-decisions-are-made-using-open-source-principles)
+  * [Prendere decisioni secondo i principi Open Source](#open-decisions-are-made-using-open-source-principles)
   * [In che modo i principi Open Source consentono di prendere decisioni migliori](#how-open-source-principles-lead-to-better-decisions)
   * [È impossibile accontentare tutti](#you-cant-please-everyone)
 * [Lo schema decisionale aperto](#open-decision-framework-1)
@@ -74,8 +74,8 @@ _page 3 of 15_
 </table>
 
 
-Le decisioni aperte rispecchiano i principi Open Source
------------------------------------------------------
+Prendere decisioni secondo i principi Open Source
+-------------------------------------------------
 _page 4 of 15_ 
 
 **Scambi aperti**
