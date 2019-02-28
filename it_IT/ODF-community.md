@@ -144,7 +144,7 @@ _page 5 of 15_
 Schema per una decisione aperta
 ===========================================================================
 
-Fase o attività: Concettualizzazione, Definizione, Ideazionee
+Fase o attività: Concettualizzazione, Definizione, Ideazione
 ---------------
 _page 7 of 15_ 
 
@@ -202,7 +202,7 @@ Se il vostro progetto o decisione riguarda uno di questi temi, fate uno sforzo u
 </table>
 
 
-Fase o attività: Pianificazionee, Ricerca 
+Fase o attività: Pianificazione, Ricerca 
 ----------------------
 _page 8 of 15_
 
