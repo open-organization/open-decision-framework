@@ -156,7 +156,7 @@ _page 7 of 15_
 </tr>
 <tr valign="top">
 <td rowspan=3>
-<strong>Agite con trasparenza <!-- "siate leader trasparenti?" "mostrate la via nella trasparenza?" </strong><br/>
+<strong>Agite con trasparenza<!-- "siate leader trasparenti?" "mostrate la via nella trasparenza?"--></strong><br/>
  • Pubblicate una descrizione del problema e dei possibili approcci<br/><br/>
  • Identificate gli aspetti del progetto o della decisione che non possono essere condivisi<br/><br/>
  • Spiegate il processo di ideazione<br/><br/>
