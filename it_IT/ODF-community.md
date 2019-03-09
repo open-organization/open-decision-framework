@@ -382,8 +382,8 @@ _page 14 of 15_
   - Sviluppato dal People team, con contributi da un focus group interfunzionale
 
     - È il risultato dell'impegno del Project Management Office (People team) per creare una metodologia aperta di project management (2012 – 2013)
-    - Le conversazioni su memo-list in merito al rilascio di Google Calendar sono servite per condividere bozze con tutti i collaboratori e invitare alla partecipazione (2014)
-    - È stato testato dal team IT e Engineering nel gruppo di lavoro sul passaggio a Google Calendar (2014 – 2015)
+    - Le conversazioni su memo-list in merito alla soluzione di bridging per Google Calendar sono servite per condividere bozze con tutti i collaboratori e invitare alla partecipazione (2014)
+    - È stato testato dai team IT e Engineering, che hanno collaborato allo sviluppo di una soluzione di bridging per Google Calendar (2014 – 2015)
 
   - Aggiornato e curato da Rebecca Fernandez (rfernand@redhat.com)
 
