@@ -47,9 +47,7 @@ _page 2 of 15_
 **Quando usarlo**
 
 Per decisioni e progetti che:
-  - hanno un impatto impattano sulla cultura aziendale,
-  
-oppure
+  - hanno un impatto impattano sulla cultura aziendale, oppure
   - influenzano dipendenti esterni al vostro team
 
 **Come usarlo**
