@@ -22,19 +22,19 @@ Note
 Contenuti
 ===========================================================================
 * [Panoramica](#panoramica)
-  * [Che cos'è una decisione aperta?](#Che-cos'è-una-decisione-aperta)
-  * [Prendere decisioni secondo i principi Open Source](#open-decisions-are-made-using-open-source-principles)
-  * [In che modo i principi Open Source consentono di prendere decisioni migliori](#how-open-source-principles-lead-to-better-decisions)
-  * [È impossibile accontentare tutti](#you-cant-please-everyone)
-* [Lo schema decisionale aperto](#open-decision-framework-1)
-  * [Fase o attività: Concettualizzazione, Definizione, Ideazione](#phase-or-activity-concept-define-ideate)
-  * [Fase o attività: Pianificazione, Ricerca](#phase-or-activity-plan-research)
-  * [Fase o attività: Concezione, Sviluppo, Verifica](#phase-or-activity-design-develop-test)
-  * [Fase o attività: Lancio, Attivazone, Conclusioni](#phase-or-activity-launch-deploy-close)
-* [Risorse](#resources)
-* [Appendice](#appendix)
-  * [Storia: Come nasce l'Open Decision Framework](#history-where-the-open-decision-framework-came-from)
-  * [Lo scopo dello schema](#why-the-framework-exists)
+  * [Che cos'è una decisione aperta?](#che-cos%C3%A8-una-decisione-aperta)
+  * [Prendere decisioni secondo i principi Open Source](#prendere-decisioni-secondo-i-principi-open-source)
+  * [In che modo i principi Open Source conducono a decisioni migliori](#in-che-modo-i-principi-open-source-conducono-a-decisioni-migliori)
+  * [È impossibile accontentare tutti](#è-impossibile-accontentare-tutti)
+* [Schema per una decisione aperta](#schema-per-una-decisione-aperta)
+  * [Fase o attività: Concettualizzazione, Definizione, Ideazione](#fase-o-attività-concettualizzazione-definizione-ideazione)
+  * [Fase o attività: Pianificazione, Ricerca](#fase-o-attività-pianificazione-ricerca)
+  * [Fase o attività: Concezione, Sviluppo, Verifica](#fase-o-attività-concezione-sviluppo-verifica)
+  * [Fase o attività: Lancio, Attivazone, Conclusioni](#fase-o-attività-lancio-attivazione-conclusioni)
+* [Risorse](#risorse)
+* [Appendici](#appendici)
+  * [Storia: Come nasce l'Open Decision Framework](#storia-come-nasce-lopen-decision-framework)
+  * [Perché esiste questo schema](#perché-esiste-questo-schema)
 
 
 Panoramica
