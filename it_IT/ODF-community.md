@@ -22,7 +22,7 @@ Note
 Contenuti
 ===========================================================================
 * [Panoramica](#panoramica)
-  * [Che cos'è una decisione aperta?](#what-is-an-open-decision)
+  * [Che cos'è una decisione aperta?](#Che-cos'è-una-decisione-aperta)
   * [Prendere decisioni secondo i principi Open Source](#open-decisions-are-made-using-open-source-principles)
   * [In che modo i principi Open Source consentono di prendere decisioni migliori](#how-open-source-principles-lead-to-better-decisions)
   * [È impossibile accontentare tutti](#you-cant-please-everyone)
