@@ -11,7 +11,7 @@ Ultimo aggiornamento della traduzione: 6 dicembre 2018
 
 
 
-© 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+© 2014-2017 Red Hat e contributori | Lo Schema Decisionale Aperto è stato creato dal team Red Hat People ed è disponibile sotto licenza Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat e il logo Shadowman sono marchi depositati di Red Hat, Inc. e registrati in altri paesi. Il marchio Red Hat dovrà essere rimosso da tutte le versioni modificate.
 
 Note
 =========
@@ -39,7 +39,7 @@ Contenuti
 
 Panoramica
 ===========================================================================
-_page 2 of 15_
+_pagina 2 di 15_
 
 **Cos'è**
   - Una modalità flessibile e aperta per prendere decisioni in azienda e condurre progetti
@@ -56,7 +56,7 @@ Per decisioni e progetti che:
 
 Che cos'è una decisione aperta?
 -------------------------
-_page 3 of 15_
+_pagina 3 di 15_
 
 <table>
 <tr>
@@ -74,7 +74,7 @@ _page 3 of 15_
 
 Prendere decisioni secondo i principi Open Source
 -------------------------------------------------
-_page 4 of 15_ 
+_pagina 4 di 15_ 
 
 **Scambi aperti**
 
@@ -101,7 +101,7 @@ Adattato da: https://opensource.com/open-source-way
 
 In che modo i principi Open Source conducono a decisioni migliori  
 ---------------------------------------------------
-_page 5 of 15_ 
+_pagina 5 di 15_ 
 
 <table>
 <tr>
@@ -128,7 +128,8 @@ _page 5 of 15_
 
 È impossibile accontentare tutti. 
 ----------------------------------------------------
-**Tuttavia chi è coinvolto in una decisione aperta pensa...**  _page 6 of 15_ 
+**Tuttavia chi è coinvolto in una decisione aperta pensa...**
+_pagina 6 di 15_ 
 
   - Capisco perché la decisione è stata presa e come essa si allinea alla strategia, agli obiettivi ed alla missione di Red Hat.
   - I requisiti di business, i criteri di ricerca e di valutazione erano visibili.
@@ -144,7 +145,7 @@ Schema per una decisione aperta
 
 Fase o attività: Concettualizzazione, Definizione, Ideazione
 ---------------
-_page 7 of 15_ 
+_pagina 7 di 15_ 
 
 <table>
 <tr>
@@ -202,7 +203,7 @@ Se il vostro progetto o decisione riguarda uno di questi temi, fate uno sforzo u
 
 Fase o attività: Pianificazione, Ricerca 
 ----------------------
-_page 8 of 15_
+_pagina 8 di 15_
 
 <table>
 <tr>
@@ -255,7 +256,7 @@ _page 8 of 15_
 
 Fase o attività: Concezione, Sviluppo, Verifica
 ----------------------------
-_page 9 of 15_ 
+_pagina 9 di 15_ 
 
 <table>
 <tr>
@@ -313,7 +314,7 @@ _page 9 of 15_
 
 Fase o attività: Lancio, Attivazione, Conclusioni 
 --------------
-_page 10 of 15_ 
+_pagina 10 di 15_ 
 
 <table>
 <tr>
@@ -358,7 +359,7 @@ _page 10 of 15_
 
 Risorse 
 ===========================================================================
-_page 12 of 15_ 
+_pagina 12 di 15_ 
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – breve promemoria su collaborazione, transparenza, fiducia, meritocrazia, connessione
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guida per creare e supportare comunità di contributori
@@ -373,7 +374,7 @@ Appendici
 
 Storia: Come nasce l'Open Decision Framework
 ----------------------------------------------------
-_page 14 of 15_ 
+_pagina 14 di 15_ 
 
   - Basato su principi praticati dalle comunità open source
 
@@ -390,7 +391,7 @@ _page 14 of 15_
 
 Perché esiste questo schema 
 ------------------------
-_page 15 of 15_ 
+_pagina 15 di 15_ 
 
 **È un insieme di pratiche comprovate che:**
 
