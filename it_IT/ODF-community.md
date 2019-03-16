@@ -6,7 +6,7 @@ Ultimo aggiornamento della versione originale: 10 aprile 2017
 
 Traduzione a partire dalla versione 1.0.4
 
-Ultimo aggiornamento della traduzione: 6 dicembre 2018
+Ultimo aggiornamento della traduzione: 16 marzo 2019
 
 
 
@@ -30,7 +30,7 @@ Contenuti
   * [Fase o attività: Concettualizzazione, Definizione, Ideazione](#fase-o-attività-concettualizzazione-definizione-ideazione)
   * [Fase o attività: Pianificazione, Ricerca](#fase-o-attività-pianificazione-ricerca)
   * [Fase o attività: Concezione, Sviluppo, Verifica](#fase-o-attività-concezione-sviluppo-verifica)
-  * [Fase o attività: Lancio, Attivazone, Conclusioni](#fase-o-attività-lancio-attivazione-conclusioni)
+  * [Fase o attività: Lancio, Attivazione, Conclusioni](#fase-o-attività-lancio-attivazione-conclusioni)
 * [Risorse](#risorse)
 * [Appendici](#appendici)
   * [Storia: Come nasce l'Open Decision Framework](#storia-come-nasce-lopen-decision-framework)
@@ -47,7 +47,7 @@ _pagina 2 di 15_
 **Quando usarlo**
 
 Per decisioni e progetti che:
-  - hanno un impatto impattano sulla cultura aziendale, oppure
+  - hanno un impatto sulla cultura aziendale, oppure
   - influenzano dipendenti esterni al vostro team
 
 **Come usarlo**
@@ -94,7 +94,7 @@ In un ambiente che vede nascere continuamente idee valide, la meritocrazia conse
 
 **Comunità**
 
-Le comunità si formano attorno ad uno scopo comune, aggregando idee variegate e condividendo il lavoro. Una comunità globale può creare al di la delle capacità di ogni singolo individuo, moltiplicando gli sforzi e ripartendo il lavoro. Insieme possiamo fare di piú.
+Le comunità si formano attorno ad uno scopo comune, aggregando idee variegate e condividendo il lavoro. Una comunità globale può creare al di là delle capacità di ogni singolo individuo, moltiplicando gli sforzi e ripartendo il lavoro. Insieme possiamo fare di piú.
 
 Adattato da: https://opensource.com/open-source-way
 
@@ -113,7 +113,7 @@ _pagina 5 di 15_
 </tr>
 <tr>
 <td>
-• Scambi aperti<br/> • Participazione<br/> • Rilasci rapidi e frequenti<br/> • Meritocrazia<br/> • Comunità
+• Scambi aperti<br/> • Partecipazione<br/> • Rilasci rapidi e frequenti<br/> • Meritocrazia<br/> • Comunità
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
@@ -129,6 +129,7 @@ _pagina 5 di 15_
 È impossibile accontentare tutti. 
 ----------------------------------------------------
 **Tuttavia chi è coinvolto in una decisione aperta pensa...**
+
 _pagina 6 di 15_ 
 
   - Capisco perché la decisione è stata presa e come essa si allinea alla strategia, agli obiettivi ed alla missione di Red Hat.
@@ -183,7 +184,7 @@ Ci sono alcuni problemi che spesso generano controversie e irritazione in Red Ha
  • L'utilizzo di tecnologie proprietarie<Br/><br/>
  • La condivisione dei dati e la privacy<br/><br/>
 
-Se il vostro progetto o decisione riguarda uno di questi temi, fate uno sforzo ulteriore per rendere il vostro processo sia aperto, inclusivo e trasparente.
+Se il vostro progetto o decisione riguarda uno di questi temi, fate uno sforzo ulteriore per rendere il vostro processo aperto, inclusivo e trasparente.
 </td>
 </tr>
 <tr>
@@ -222,9 +223,9 @@ _pagina 8 di 15_
  • Rendete pubblico il processo decisionale e la pianificazione di progetto, inclusi ruoli, date, vincoli
 </td>
 <td rowspan=3 width=33%><strong>Spiegate anche gli aspetti evidenti</strong><Br/>
- • Pubblicate la portata del progetto o della decisione, reiterandolo di frequente<br/><br/>
+ • Pubblicate la portata del progetto o della decisione, reiterando di frequente<br/><br/>
  • Pubblicate i fattori decisionali e la loro importanza relativa<Br/><Br/>
- • Pubblicate le vostre ricerche, spiegando i compremessi difficili e i requisiti aziendali<br/><br/>
+ • Pubblicate le vostre ricerche, spiegando i compromessi difficili e i requisiti aziendali<br/><br/>
  • Per quanto possibile, comunicate eventuali considerazioni di carattere legale, requisiti di segnalazione o vincoli di riservatezza<br/><br/>
 
 <strong>Pianificare la transizione</strong><br/><br/>
@@ -237,7 +238,7 @@ _pagina 8 di 15_
  • Come li coinvolgeremo e come comunicheremo con loro?<br/><br/>
  • Quali sono le opzioni open source?<br/><br/>
  • In quale modo la scelta di una tecnologia o un format proprietari potrebbe limitare in futuro le nostre scelte?<br/><br/>
- • Come allineare il processo decisionale con la strategia e la missione aziedale?<br/><br/>
+ • Come allineare il processo decisionale con la strategia e la missione aziendale?<br/><br/>
  • Quali sono i potenziali aspetti di conflitto con i valori e la cultura di Red Hat?
 </td>
 </tr>
@@ -344,11 +345,11 @@ _pagina 10 di 15_
  • Offrite una guida su come prendere una decisione aperta e sulla scelta degli strumenti di collaborazione
 </td>
 <td>
- • Come monitoremo le liste di discussione e gli altri canali di feedback dopo il lancio?<br/><br/>
+ • Come monitoreremo le liste di discussione e gli altri canali di feedback dopo il lancio?<br/><br/>
  • Se abbiamo rilasciato delle precedenti edizioni, continueremo ad apportare miglioramenti incrementalil in base ai feedback?<br/><br/>
  • Quanto siamo disposti a fare revisioni in base ai feedback?<br/><br/>
  • Qual è una ragionevole finestra di tempo per input e perfezionamenti aggiuntivi?<br/><br/>
- • Abbiamo trascurato qualcosa di importante? Come lo prendiamo in carico<br/><br/>
+ • Abbiamo trascurato qualcosa di importante? Come lo prendiamo in carico?<br/><br/>
  • La decisione deve essere rivalutata?<br/><br/>
  • Il processo decisionale aperto ha portato ai risultati desiderati?<br/><br/>
  • Come possiamo condividere le lezioni apprese e incoraggiare l'open decision-making in Red Hat?
