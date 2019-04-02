@@ -8,7 +8,7 @@ A list of people who participated in this effort:
 
 * Gian Luca Rivalta <https://github.com/grivalta>
 * Paolo Bonzini <https://github.com/bonzini>
-* Antonella Iecle 
+* Antonella Iecle <https://github.com/antuz77>
 
 Thank you to all!
 
