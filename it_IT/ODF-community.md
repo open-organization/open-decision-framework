@@ -60,9 +60,9 @@ _pagina 3 di 15_
 
 <table>
 <tr>
-<td>Trasparente</td>
-<td>Inclusiva</td>
-<td>Centrata sull'utente</td>
+<td>È trasparente</td>
+<td>È inclusiva</td>
+<td>È incentrata sull'utente</td>
 </tr>
 <tr>
 <td>Spiegate chi prende la decisione, quale problema state cercando di risolvere, i requisiti ed i vincoli e il processo che seguirete.</td>
@@ -86,7 +86,7 @@ Si crea quando si è liberi di collaborare. Insieme possiamo risolvere dei probl
 
 **Rilasci rapidi e frequenti**
 
-Grazie ad una prototipazione rapida è possibile giungere ad un eventuale esito negativo più rapidamente, ed individuare piú in fretta soluzioni migliori. Avere la libertà di sperimentare permette di guardare ai problemi in modo diverso, e collaboratori inaspettati possono mettere a disposizione le loro competenze. L’apprendimento diventa così parte integrante del ciclo di sviluppo.
+Grazie ad una prototipazione rapida è possibile giungere ad un eventuale esito negativo più rapidamente, ed individuare più in fretta soluzioni migliori. Avere la libertà di sperimentare permette di guardare ai problemi in modo diverso, e collaboratori inaspettati possono mettere a disposizione le loro competenze. L’apprendimento diventa così parte integrante del ciclo di sviluppo.
 
 **Meritocrazia**
 
@@ -94,7 +94,7 @@ In un ambiente che vede nascere continuamente idee valide, la meritocrazia conse
 
 **Comunità**
 
-Le comunità si formano attorno ad uno scopo comune, aggregando idee variegate e condividendo il lavoro. Una comunità globale può creare al di là delle capacità di ogni singolo individuo, moltiplicando gli sforzi e ripartendo il lavoro. Insieme possiamo fare di piú.
+Le comunità si formano attorno ad uno scopo comune, aggregando idee variegate e condividendo il lavoro. Una comunità globale può creare al di là delle capacità di ogni singolo individuo, moltiplicando gli sforzi e ripartendo il lavoro. Insieme possiamo fare di più.
 
 Adattato da: https://opensource.com/open-source-way
 
@@ -128,7 +128,7 @@ _pagina 5 di 15_
 
 È impossibile accontentare tutti. 
 ----------------------------------------------------
-**Tuttavia chi è coinvolto in una decisione aperta pensa...**
+**Tuttavia, chi è coinvolto in una decisione aperta pensa...**
 
 _pagina 6 di 15_ 
 
@@ -138,7 +138,7 @@ _pagina 6 di 15_
   - Anche se non ho preso io la decisione, sono stato in grado di contribuire al processo.
   - Posso non essere d'accordo con la decisione, ma è chiaro che coloro che hanno deciso comprendono i valori e la cultura di Red Hat.
   - Posso essere deluso, ma non sorpreso.
-  - La mia voce ė stata intesa e valorizzata.
+  - La mia voce è stata intesa e valorizzata.
 
 
 Schema per una decisione aperta
@@ -152,7 +152,7 @@ _pagina 7 di 15_
 <tr>
 <td width=34%><strong>Come adottare un modello aperto</strong></td>
 <td width=36%><strong>Domande da porsi</strong></td>
-<td width=30%><strong>Prevenire le discussioni incontrollate</strong></td>
+<td width=30%><strong>Prevenire discussioni incontrollate</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
@@ -164,14 +164,14 @@ _pagina 7 di 15_
 <strong>Stimolate la diversità nei punti di vista e l'inclusività dell'ambiente</strong><br/>
  • Coinvolgete fin dalle prime fasi gli utenti interni e le altre parti interessate, in particolare coloro che potrebbero non essere d'accordo<br/><br/>
  • Cercate prospettive diverse e sottorappresentate (per posizione geografica, etnia, dipartimenti, livello gerarchico, genere, età, etc.)<br/><br/>
- • Premiate la collaborazione e fornite canali di feedack<br/><br/>
+ • Premiate la collaborazione e fornite canali di feedback<br/><br/>
  • Prendete in considerazione i rischi, le limitazioni e le potenziali ripercussioni culturali, in particolare per le questioni storicamente controverse<br/><br/>
 </td>
 <td>
  • Quali sono le potenziali ripercussioni sull'organizzazione e sulla cultura?<br/><br/>
  • Chi dobbiamo includere nella pianificazione?<br/><br/>
  • Chi è interessato dal problema che stiamo cercando di risolvere?<br/><Br/>
- • Di chi abbiamo bisogno o di chi vogliamo l'aiuto??<br/><br/>
+ • Di chi abbiamo bisogno o di chi vogliamo l'aiuto?<br/><br/>
  • Chi altri potrebbe essere influenzato?<br/><br/>
  • Chi ha già risolto un problema simile?<br/><br/>
  • Chi potrebbe dissentire, opporsi, rifiutare o rinunciare? Chi altri dovremmo tenere in considerazione?
@@ -284,7 +284,7 @@ _pagina 9 di 15_
  • Informate le parti interessate dei rischi e delle limitazioni scoperte strada facendo<br/><br/>
 
 <strong>Arrivate preparati</strong><br/>
- • Immaginate di aver dato l'annuncio e che le parti interessate siano soprese o irritate. Quali sono i motivi?<br/><br/>
+ • Immaginate di aver dato l'annuncio e che le parti interessate siano sorprese o irritate. Quali sono i motivi?<br/><br/>
  • Identificate le possibili modifiche o i punti che potreste chiarire in risposta, e attuateli proattivamente<br/><br/>
 
 <strong>Attivate i vostri ambasciatori/rappresentanti</strong><Br/>
@@ -338,7 +338,7 @@ _pagina 10 di 15_
 <strong>Aperti "per default"</strong><br/>
  • Reiterate i requisiti e vincoli di business<br/><br/>
  • Condividete i problemi legali, di reporting o confidenzialità<br/><br/>
- • Communicate i criteri con cui giudicherete il successo del progetto o della decisione, e pubblicate le metriche rilevanti<br/><br/>
+ • Comunicate i criteri con cui giudicherete il successo del progetto o della decisione, e pubblicate le metriche rilevanti<br/><br/>
 
 <strong>Contribuite allo schema</strong><br/>
  • Pubblicate e archiviate i vostri metodi, ciò che avete imparato, le comunicazioni e i criteri decisionali, affinché gli altri possano rivedere le decisioni passate, capire perché una decisione è stata presa e vedere come i leader hanno risposto in passato a problemi simili<br/><br/>
@@ -346,7 +346,7 @@ _pagina 10 di 15_
 </td>
 <td>
  • Come monitoreremo le liste di discussione e gli altri canali di feedback dopo il lancio?<br/><br/>
- • Se abbiamo rilasciato delle precedenti edizioni, continueremo ad apportare miglioramenti incrementalil in base ai feedback?<br/><br/>
+ • Se abbiamo rilasciato delle precedenti edizioni, continueremo ad apportare miglioramenti incrementali in base ai feedback?<br/><br/>
  • Quanto siamo disposti a fare revisioni in base ai feedback?<br/><br/>
  • Qual è una ragionevole finestra di tempo per input e perfezionamenti aggiuntivi?<br/><br/>
  • Abbiamo trascurato qualcosa di importante? Come lo prendiamo in carico?<br/><br/>
@@ -362,7 +362,7 @@ Risorse
 ===========================================================================
 _pagina 12 di 15_ 
 
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – breve promemoria su collaborazione, transparenza, fiducia, meritocrazia, connessione
+  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – breve promemoria su collaborazione, trasparenza, fiducia, meritocrazia, connessione
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guida per creare e supportare comunità di contributori
   - [The Open Organization](http://opensource.com/open-organization) (libro + comunità online)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), vedere la tabella nell'articolo "5 UX Tips for Developers" di Máirín Duffy
