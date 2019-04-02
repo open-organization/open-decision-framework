@@ -16,7 +16,7 @@ All copyrightable contributions to the Open Decision Framework are accepted unde
 
 ### Modifying and forking
 
-Note: Modified versions must remove all Red Hat branding, unless you are making a pull request or suggestion for improving the original.
+Note: Modified versions must remove all Red Hat branding, unless you are creating an official translation, making a pull request, or offering a suggestion for improving the original.
 
 ## Available formats
 The Open Decision Framework is available in three different formats:
