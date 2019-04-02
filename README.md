@@ -29,6 +29,7 @@ The Open Decision Framework is available in three different formats:
 The Open Decision Framework is also available in:
 
 * [French](fr_FR)
+* [Italian](it_IT)
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
@@ -98,3 +99,6 @@ A template for creating a "common fact base" - a comprehensive set of informatio
 * Michael Scherer @mscherer
 * Sanpii @sanpii
 * Pierre-Louis Bonicoli @pilou-
+* Antonella Iecle @antuz77
+* Paolo Bonzini @bonzini
+* Gian Luca Rivalta @grivalta
