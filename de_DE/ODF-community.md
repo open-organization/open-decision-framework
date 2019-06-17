@@ -34,7 +34,7 @@ Overview
 ===========================================================================
 _page 2 of 15_
 
-**What it is**
+**Was es ist**
   - A flexible, open approach to making business decisions and leading projects
 
 **When to use it**
