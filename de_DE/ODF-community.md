@@ -1,10 +1,10 @@
 Open Decision Framework
 =======================
-Community Version 1.0.4
+Community Version 1.0.0d
 
-Updated Apr 10, 2017
+Aktualisiert am Okt 22, 2019
 
-© 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+© 2014-2019 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Red Hat logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
 
 Notes
 =========
@@ -12,10 +12,10 @@ Notes
 * This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
 * Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
 
-Contents
+Inhalt
 ===========================================================================
-* [Overview](#overview)
-  * [What is an open decision?](#what-is-an-open-decision)
+* [Überblick](#overview)
+  * [Was ist eine "Open Decision"?](#what-is-an-open-decision)
   * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
   * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
   * [You can't please everyone](#you-cant-please-everyone)
@@ -48,7 +48,7 @@ In Entscheidungsprozessen und Projekten die beispielsweise
 
 
 Was ist eine "Open Decision"?
--------------------------
+-----------------------------
 _Seite 3 von 15_
 
 <table>
@@ -66,7 +66,7 @@ _Seite 3 von 15_
 
 
 "Open Decisions" basieren auf Open Source Prinzipien 
------------------------------------------------------
+----------------------------------------------------
 _page 4 of 15_ 
 
 **Offener Austausch**
@@ -87,13 +87,13 @@ In einer Meritokratie können gute Ideen von überall herkommen und die besten I
 
 **Community**
 
-Gemeinschaften werden um einen gemeinsamen Zweck gebildet. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Sie vervielfacht somit die Bemühungen und verteilt gleichzeitig die Arbeit effektiv innerhalb der Gemeinschaft. Gemeinsam kann somit mehr getan und erreicht werden.
+Gemeinschaften werden um einen gemeinsamen Zweck gebildet. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Die Gemeinschaft vervielfacht somit die Bemühungen und verteilt gleichzeitig die Arbeit effektiv auf alle Mitglieder. Gemeinsam kann somit mehr getan und erreicht werden.
 
-Frei nach: https://opensource.com/open-source-way
+Adaptiert von: https://opensource.com/open-source-way
 
 
-How open source principles lead to better decisions  
----------------------------------------------------
+Wie Open Source Prinzipien zu besseren Entscheidungen führen  
+------------------------------------------------------------
 _page 5 of 15_ 
 
 <table>
