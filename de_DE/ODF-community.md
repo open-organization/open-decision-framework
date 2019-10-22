@@ -47,49 +47,49 @@ In Entscheidungsprozessen und Projekten die beispielsweise
   - Integrieren Sie Schritte aus dem Open Decision Framework in Ihren Projektplan oder Entscheidungsprozess
 
 
-What is an open decision?
+Was ist eine "Open Decision"?
 -------------------------
-_page 3 of 15_
+_Seite 3 von 15_
 
 <table>
 <tr>
 <td>Transparent</td>
-<td>Inclusive</td>
-<td>Customer-Centric</td>
+<td>Umfassend</td>
+<td>Kundenorientiert</td>
 </tr>
 <tr>
-<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
-<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
-<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
+<td>Definieren Sie zu Beginn, wer die Entscheidung trifft, welche Probleme Sie lösen möchten, welche Anforderungen und Einschränkungen bestehen und welchen Prozess Sie durchführen werden.</td>
+<td>Bitten Sie andere um Feedback und arbeiten Sie während des gesamten Entscheidungsprozesses zusammen. Suchen Sie nach verschiedenen Perspektiven, einschließlich potenzieller Kritiker.</td>
+<td>Stellen Sie sich Menschen als Kunden mit konkurrierenden Bedürfnissen und Prioritäten vor. Wenn eine Entscheidung einigen Kunden hilft, andere jedoch enttäuscht, können Sie an diesen Erwartungen und Beziehungen geziehlt arbeiten, um Veränderungen erfolgreich umzusetzen.</td>
 </tr>
 </table>
 
 
-Open decisions are made using open source principles 
+"Open Decisions" basieren auf Open Source Prinzipien 
 -----------------------------------------------------
 _page 4 of 15_ 
 
-**Open exchange**
+**Offener Austausch**
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people are allowed to learn and use existing information toward creating new ideas.
+Unabhängig davon ob Sie Software entwickeln, oder versuchen ein Geschäftsproblem zu lösen, beginnt der offene Austausch, wenn Sie Ihren "Quellcode" mit anderen teilen. Ein freier Ideenaustausch ist entscheidend für die Schaffung eines Umfelds, in dem die Menschen lernen und vorhandene Informationen zur Schaffung neuer Ideen nutzen können.
 
-**Participation**
+**Beteiligung**
 
-When we are free to collaborate, we create. We can solve problems that no one person may be able to solve on their own. And when we can implement open standards, we enable others to participate in the future.
+Wenn wir für Zusammenarbeit offen sind, werden wir kreativer und produktiver. Wir können Probleme lösen, die niemand alleine lösen kann. Und wenn wir offene Standards implementieren können, ermöglichen wir anderen, an unserer Vision teilzuhaben und mitzugestalten.
 
-**Release early + often**
+**Veröffentlichen Sie rasch und oft**
 
-Rapid prototypes can lead to rapid failures, and that leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and look for answers in new places. You can learn by doing.
+Schnelle Prototypen können zu schnellen Ausfällen führen, und dies führt zu schnelleren, besseren Lösungen. Wenn Sie experimentieren können, können Sie Probleme auf neue Weise untersuchen und an neuen Orten nach Antworten suchen. Sie können lernen, indem Sie viele Möglichkeiten ausprobieren.
 
-**Meritocracy**
+**Meritokratie**
 
-In a meritocracy, good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
+In einer Meritokratie können gute Ideen von überall herkommen und die besten Ideen gewinnen. Jeder hat Zugriff auf die gleichen Informationen. Erfolgreiche Arbeit bestimmt, welche Projekte entstehen und welche Unterstützung und Anstrengungen von der Community erwartet werden.
 
 **Community**
 
-Communities are formed around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
+Gemeinschaften werden um einen gemeinsamen Zweck gebildet. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Sie vervielfacht somit die Bemühungen und verteilt gleichzeitig die Arbeit effektiv innerhalb der Gemeinschaft. Gemeinsam kann somit mehr getan und erreicht werden.
 
-Adapted from: https://opensource.com/open-source-way
+Frei nach: https://opensource.com/open-source-way
 
 
 How open source principles lead to better decisions  
