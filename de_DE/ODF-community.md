@@ -30,21 +30,21 @@ Contents
   * [Why the framework exists](#why-the-framework-exists)
 
 
-Overview
+Überblick
 ===========================================================================
-_page 2 of 15_
+_Seite 2 von 15_
 
 **Was es ist**
-  - A flexible, open approach to making business decisions and leading projects
+  - Ein flexibler, offener Ansatz um Projekte durchzuführen und Business Entscheidungen zu treffen
 
-**When to use it**
+**Wann man es einsetzt**
 
-For decisions and projects that are likely to:
-  - impact our culture or
-  - affect associates beyond your immediate team
+In Entscheidungsprozessen und Projekten die beispielsweise
+  - die Unternehmenskultur und Zusammenarbeit beeinflussen
+  - Mitarbeiter ausserhalb des unmittelbaren Projektes oder der jeweiligen Abteilung betreffen
 
-**How to use it**
-  - Build steps from the Open Decision Framework into your project plan or decision-making process
+**Wie man es anwendet**
+  - Integrieren Sie Schritte aus dem Open Decision Framework in Ihren Projektplan oder Entscheidungsprozess
 
 
 What is an open decision?
