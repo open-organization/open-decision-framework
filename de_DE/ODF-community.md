@@ -16,9 +16,9 @@ Inhalt
 ===========================================================================
 * [Überblick](#overview)
   * [Was ist eine "Open Decision"?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
-  * [You can't please everyone](#you-cant-please-everyone)
+  * ["Open Decisions" basieren auf Open Source Prinzipien](#open-decisions-are-made-using-open-source-principles)
+  * [Wie Open Source Prinzipien zu besseren Entscheidungen führen](#how-open-source-principles-lead-to-better-decisions)
+  * [Man kann es nicht jedem recht machen](#you-cant-please-everyone)
 * [Open Decision Framework](#open-decision-framework-1)
   * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
   * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
