@@ -67,7 +67,7 @@ _Seite 3 von 15_
 
 "Open Decisions" basieren auf Open Source Prinzipien 
 ----------------------------------------------------
-_page 4 of 15_ 
+_Seite 4 von 15_ 
 
 **Offener Austausch**
 
@@ -94,43 +94,43 @@ Adaptiert von: https://opensource.com/open-source-way
 
 Wie Open Source Prinzipien zu besseren Entscheidungen führen  
 ------------------------------------------------------------
-_page 5 of 15_ 
+_Seite 5 von 15_ 
 
 <table>
 <tr>
-<td>Principles</td>
+<td>Prinzipien</td>
 <td>→</td>
-<td>Practices</td>
+<td>Methoden</td>
 <td>→</td>
-<td>Outcomes</td>
+<td>Resultate</td>
 </tr>
 <tr>
 <td>
-• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
+• Offener Austausch<br/> • Beteiligung<br/> • Veröffentlichen Sie rasch und oft<br/> • Meritokratie<br/> • Community
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
+• Transparenz gegenüber inner und externer Interessensgruppen<br/> • Einbeziehung der Kunden<br/> • Feedback einholen und schrittweise Änderungen umsetzen<br/> • Ideenfindung mit Kunden<br/> • Vertrauen und Respekt durch Zusammenarbeit aufbauen
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
+• Kunden buy-in<br/> • Stärkere und schnellere Akzeptanz<br/> • Die besten Ideen gewinnen<br/> • Weniger Fehler, Probleme und unvorhergesehene Rückschläge<br/> • Höheres Engagement der Mitarbeiter<br/> • Entscheidungen ausgerichtet auf Strategie und Kultur
 </td>
 </tr>
 </table>
 
 
-You can't please everyone. 
+Man kann es nicht allen recht machen. 
 ----------------------------------------------------
-**But when you make open decisions, people feel...**  _page 6 of 15_ 
+**Aber wenn Sie offene Entscheidungen treffen, fühlen sich die Menschen ...**  _Seite 6 von 15_ 
 
-  - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
-  - There was visibility to the business requirements, research, and evaluation criteria.
-  - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's obvious that the decision makers understand Red Hat's values and culture.
-  - I might be disappointed, but I wasn't surprised.
-  - My voice was heard and valued.
+  - Ich verstehe, warum die Entscheidung getroffen wurde und wie sie zu Red Hats Strategie, Zielen und Mission passt.
+  - Die geschäftlichen Anforderungen, Recherche- und Bewertungskriterien waren sichtbar.
+  - Der Entscheidungsprozess war inklusiv und transparent.
+  - Obwohl ich nicht der Entscheidungsträger war, konnte ich zu diesem Prozess beitragen.
+  - Ich kann der Entscheidung nicht zustimmen, aber es ist offensichtlich, dass die Entscheidungsträger die Werte und die Kultur von Red Hat verstehen.
+  - Ich bin möglicherweise enttäuscht, aber ich wurde nicht überrascht.
+  - Meine Stimme wurde gehört und geschätzt.
 
 
 Open Decision Framework 
