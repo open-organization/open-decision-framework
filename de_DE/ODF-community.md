@@ -142,7 +142,7 @@ _page 7 of 15_
 
 <table>
 <tr>
-<td width=34%><strong>Steps you can take to be open</strong></td>
+<td width=34%><strong>Erste Schritte in Richtung Offenheit</strong></td>
 <td width=36%><strong>Questions to ask</strong></td>
 <td width=30%><strong>Common flamewar triggers</strong></td>
 </tr>
