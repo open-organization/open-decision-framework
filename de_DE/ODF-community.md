@@ -163,7 +163,7 @@ _page 7 of 15_
  • Binde interne Kunden und Interessensgruppen frühzeitig ein, vor allem diejenigen, die nicht einverstanden sein könnten<br/><br/>
  • Suche Sichtweisen von Andersdenkenden und Randgruppen (geographisch, ethnisch, Abteilungen, Job-Ebene, Geschlecht, Alter, etc.)<br/><br/>
  • Begrüsse Kollaboration und sorge für Feedback-Kanäle<br/><br/>
- • Sprich Risiken, Einschränkungen und potenziell kulturelle Auswirkungen an, vor allem bei in der Vergangenheit liegenden Konflikten<br/><br/>
+ • Sprich Risiken, Einschränkungen und potenziell kulturelle Auswirkungen an, vor allem bei in der Vergangenheit liegenden, ungelösten Konflikten<br/><br/>
 </td>
 <td>
  • Was sind potenzielle Auswirkungen auf die Organisation? Auf die Kultur?<br/><br/>
