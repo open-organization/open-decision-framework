@@ -26,7 +26,7 @@ Inhalt
   * [Phase oder Aktivität: Plan, Recherche](#phase-or-activity-plan-research)
   * [Phase oder Aktivität: Design, Entwicklung, Test](#phase-or-activity-design-develop-test)
   * [Phase oder Aktivität: Inkrafttreten, Umsetzung, Abschluss](#phase-or-activity-launch-deploy-close)
-* [Resourcen (in english language)](#resources)
+* [Resourcen (englischsprachig)](#resources)
 * [Appendix](#appendix)
   * [Geschichte: Ursprung und Herkunft des Open Decision Framework](#history-where-the-open-decision-framework-came-from)
   * [Warum das Framework existiert](#why-the-framework-exists)
@@ -357,7 +357,7 @@ _Seite 10 von 15_
 </table>
 
 
-Resourcen (in english language) 
+Resourcen (englischsprachig) 
 ===========================================================================
 _Seite 12 von 15_ 
 
@@ -373,7 +373,7 @@ Appendix
 ===========================================================================
 
 Geschichte: Ursprung und Herkunft des Open Decision Framework
-----------------------------------------------------------
+-------------------------------------------------------------
 _Seite 14 von 15_ 
 
   - Basierend auf Prinzipien, die von Open Source Communities praktiziert werden
