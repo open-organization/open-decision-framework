@@ -2,15 +2,16 @@ Open Decision Framework
 =======================
 Community Version 1.0.0d
 
-Aktualisiert am Okt 22, 2019
+Aktualisiert im Februar, 2020
 
 © 2014-2019 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Red Hat logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
 
-Notes
-=========
+Anmerkungen
+===========
 
 * Diese Fassung des Dokumentes dient der vereinfachten Zusammenarbeit und der Nachvollziehbarkeit von Änderungen.
 * Die Seitenzahlen korrespondieren zu den LibreOffice (.odp) und PDF Files in diesem Repository.
+* Deutsche Übersetzung von Joachim Schroeder (jos@redhat.com) und Guenter Herold (guenter@redhat.com)
 
 Inhalt
 ===========================================================================
@@ -20,14 +21,14 @@ Inhalt
   * [Wie Open Source Prinzipien zu besseren Entscheidungen führen](#how-open-source-principles-lead-to-better-decisions)
   * [Man kann es nicht jedem recht machen](#you-cant-please-everyone)
 * [Open Decision Framework](#open-decision-framework-1)
-  * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
-  * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
-  * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
-* [Resources](#resources)
+  * [Phase oder Aktivität: Konzept, Definition, Ideenfindung](#phase-or-activity-concept-define-ideate)
+  * [Phase oder Aktivität: Plan, Recherche](#phase-or-activity-plan-research)
+  * [Phase oder Aktivität: Design, Entwicklung, Test](#phase-or-activity-design-develop-test)
+  * [Phase oder Aktivität: Inkrafttreten, Umsetzung, Abschluss](#phase-or-activity-launch-deploy-close)
+* [Resourcen (in english language)](#resources)
 * [Appendix](#appendix)
-  * [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
-  * [Why the framework exists](#why-the-framework-exists)
+  * [Geschichte: Ursprung und Herkunft des Open Decision Framework](#history-where-the-open-decision-framework-came-from)
+  * [Warum das Framework existiert](#why-the-framework-exists)
 
 
 Überblick
@@ -35,8 +36,8 @@ Inhalt
 _Seite 2 von 15_
 
 **Was es ist**
-  - Ein flexibler, offener Ansatz, um Projekte durchzuführen und Business-Entscheidungen zu treffen
-
+  - Ein flexibler, offener Ansatz, um Projekte durchzuführen und Business-Entscheidungen zu treffen.
+  
 **Wann man es einsetzt**
 
 In Entscheidungsprozessen und Projekten, die beispielsweise
@@ -121,8 +122,9 @@ _Seite 5 von 15_
 
 
 Man kann es nicht allen recht machen. 
-----------------------------------------------------
+-------------------------------------
 _Seite 6 von 15_ 
+
 **Aber wenn Sie offene Entscheidungen treffen, fühlen sich die Menschen ...**
 
   - Ich verstehe, warum die Entscheidung getroffen wurde und wie sie zur Strategie, Zielen und Mission der Firma passt.
@@ -141,7 +143,6 @@ Open Decision Framework
 Phase oder Aktivität: Konzept, Definition, Ideenfindung
 -------------------------------------------------------
 _page 7 of 15_ 
-=======
 
 
 <table>
@@ -201,7 +202,6 @@ Falls einer dieser Punkte auf Ihr Projekt oder Entscheidung zutrifft, sollten Si
 Phase oder Aktivität: Plan, Recherche
 -------------------------------------
 _page 8 of 15_
-=======
 
 
 <table>
@@ -311,8 +311,8 @@ _Seite 9 von 15_
 </table>
 
 
-Phase oder Aktivität: Umsetzung, Implementierung, Abschluss 
---------------
+Phase oder Aktivität: Inkrafttreten, Umsetzung, Abschluss 
+---------------------------------------------------------
 _Seite 10 von 15_ 
 
 <table>
@@ -338,27 +338,27 @@ _Seite 10 von 15_
  • Sprich über relevante Rechts-, Berichterstattungs- und Vertraulichkeitsprobleme<br/><br/>
  • Kommuniziere Erfolgskriterien und veröffentliche relevante Metriken<br/><br/>
 
-<strong>Contribute upstream</strong><br/>
- • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
- • Offer guidance to others on open decision making and choosing collaboration tools
+<strong>Leiste einen "upstream" Beitrag</strong><br/>
+ • Veröffentliche Deine Methoden, Erfahrungen, die Kommunikation und Entscheidungskriterien in Form eines Archivs, in dem andere bereits getroffene Entscheidungen und Ihre Entstehung nachvollziehen können. Nicht zuletzt hilft es zu verstehen, wie Führungskräfte in bestimmten Situationen und unter gewissen Rahmenbedingungen entschieden haben. <br/><br/>
+ • Bieten Sie anderen Anleitungen zur offenen Entscheidungsfindung (open decision) und Auswahl von Tools für die Zusammenarbeit
 </td>
 <td>
- • How will we monitor mailing lists and other feedback channels after the launch?<br/><br/>
- • If we have done early releases, will we continue to make incremental improvements based on feedback?<br/><br/>
- • How willing are we to make revisions based on feedback?<br/><br/>
- • What's a reasonable window of time for additional input and refinement?<br/><br/>
- • Did we overlook something important? How do we address it?<br/><br/>
- • Does the decision need to be revisited?<br/><br/>
- • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making at Red Hat?
+ • Wie monitoren wir mailing Listen und andere Feedback Kanäle nach Inkrafttreten der Entscheidung?<br/><br/>
+ • Wenn wir in einer frühen Projektphase begonnen haben, oder auch unsere Entscheidung von vielen zukünftigen Parametern beeinflusst wird, werden wir weiterhin schrittweise Verbesserungen basierend auf Feedback vornehmen?<br/><br/>
+ • Wie groß ist unsere Bereitschaft aufgrund von Feedback unsere Entscheidung zu überarbeiten??<br/><br/>
+ • Was ist ein angemessenes Zeitfenster für zusätzliche Eingaben und Verfeinerungen??<br/><br/>
+ • Haben wir etwas wichtiges übersehen? Wie gehen wir damit um?<br/><br/>
+ • Muss die Entscheidung überprüft werden?<br/><br/>
+ • Hat die offene Entscheidungsfindung (open decision) zu den gewünschten Ergebnissen geführt?<br/><br/>
+ • Wie können wir unsere gewonnenen Erkenntnisse teilen und offene Entscheidungen bei Red Hat fördern?
 </td>
 </tr>
 </table>
 
 
-Resources 
+Resourcen (in english language) 
 ===========================================================================
-_page 12 of 15_ 
+_Seite 12 von 15_ 
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
@@ -371,30 +371,30 @@ _page 12 of 15_
 Appendix 
 ===========================================================================
 
-History: Where the Open Decision Framework came from 
-----------------------------------------------------
-_page 14 of 15_ 
+Geschichte: Ursprung und Herkunft des Open Decision Framework
+----------------------------------------------------------
+_Seite 14 von 15_ 
 
-  - Based on principles practiced by open source communities
+  - Basierend auf Prinzipien, die von Open Source Communities praktiziert werden
 
-    - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
+    - Forschung der Fuqua School of Business der Duke University und Diana Martin (2009 – 2010); zusätzliche Community-Ressourcen
 
-  - Developed by the People team, with contributions from cross-functional focus group
+  - Entwickelt von der Personalabteilung mit Beiträgen der funktionsübergreifenden Fokusgruppe
 
-    - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+    - Ergebnisse aus den Bemühungen des Project Management Office der Personalabteilung zur Schaffung einer "open project management methodology" (2012 – 2013)
+    - Google Calendar-Memolistenkonversationen dienten als Katalysator, um Entwürfe mit allen Mitarbeitern zu teilen und zur Teilnahme einzuladen (2014)
+    - Getestet von IT und Engineering in der Google Calendar Bridge-Arbeitsgruppe (2014 – 2015)
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - Aktualisiert und gepflegt von Rebecca Fernandez (rfernand@redhat.com)
 
 
-Why the framework exists 
-------------------------
-_page 15 of 15_ 
+Warum das Framework existiert 
+-----------------------------
+_Seite 15 von 15_ 
 
-**A collection of proven practices that:**
+**Eine Sammlung bewährter Praktiken, zur:**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate “what good looks like” in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+  - besseren Abstimmung zwischen Geschäftsentscheidungen und unserer Unternehmensstrategie, Zielen, Kultur, Werten und unserer Mission
+  - Verdeutlichung, wie "gut" in der Entscheidungsfindung und Kommunikation aussieht
+  - konsistenten Anleitung von Teams und Führungskräften zu den kulturellen Erwartungen von Red Hat im Einklang von Transparenz und Vertraulichkeit
+  - Verbesserung des Engagements der Mitarbeiter und des Signal-Rausch-Verhältnisses in der Memoliste bzw. der Kommunikation insgesamt
