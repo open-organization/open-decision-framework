@@ -9,8 +9,8 @@ Aktualisiert am Okt 22, 2019
 Notes
 =========
 
-* This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
-* Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
+* Diese Fassung des Dokumentes dient der vereinfachten Zusammenarbeit und der Nachvollziehbarkeit von Änderungen.
+* Die Seitenzahlen korrespondieren zu den LibreOffice (.odp) und PDF Files in diesem Repository.
 
 Inhalt
 ===========================================================================
@@ -180,7 +180,7 @@ Es gibt eine Reihe von Problemen, die häufig Gegensätze generieren und für Au
  • Nutzung von proprietären Formaten<Br/><br/>
  • Datenschutz und -Verbreitung<br/><br/>
 
-Falls einer dieser Punkte auf Ihr Projekt oder Entscheidung zutrifft, sollten Sie zusätzliche Schritte unternehmen, um Ihren Prozss offen, inklusiv und transparent zu machen.
+Falls einer dieser Punkte auf Ihr Projekt oder Entscheidung zutrifft, sollten Sie zusätzliche Schritte unternehmen, um Ihren Prozess offen, inklusiv und transparent zu machen.
 </td>
 </tr>
 <tr>
@@ -271,14 +271,14 @@ _Seite 9 von 15_
 <strong>Unterstütze offenen Austausch</strong><br/>
  • Bewerte, anerkenne und berücksichte Feedback<br/><br/>
  • Hebe Veränderungen hervor, die als Reaktion auf Feedback entstanden sind<br/><br/>
- • Wenn ein Vorschlag nicht umgesetzt wird, erkläre, warum<br/><br/>
+ • Wenn ein Vorschlag nicht umgesetzt wird, erkläre warum<br/><br/>
  • Veröffentliche den Fortschritt an einem frei zugänglichen Ort<br/><br/>
  • Liefere regelmäßige Updates an Sponsoren, Kunden und Interessensgruppen aus
 </td>
 <td rowspan=3 width=33%>
 <strong>Sorge dafür, dass Bedenken ohne Gefahr geäussert werden können</strong><br/>
  • Lade das Projektteam und Mitwirkende ein, Risiken und Bedenken, die du übersehen hast, zu äussern.<br/><br/>
- • Frage: Was könnte den Erfolg des Projektes verhindern? Welche Bedenken wird das team haben? Was fehlt noch?<br/><br/>
+ • Frage: Was könnte den Erfolg des Projektes verhindern? Welche Bedenken wird das Team haben? Was fehlt noch?<br/><br/>
  • Veröffentliche Risiken und Hürden, die im Prozessverlauf auftauchen<br/><br/>
 
 <strong>Führe eine Scheiter-Analyse durch</strong><br/>
@@ -293,9 +293,9 @@ _Seite 9 von 15_
  • Wie werden wir testen?<br/><Br/>
  • Welche internen Kunden können beim Testen helfen?<br/><br/>
  • Macht eine cross-funktionale Gruppe Sinn?<br/><br/>
- • Können wir eine Community mit Leidenschaft um das projekt oder die Entscheidung scharen?<br/><br/>
- • Haben wir die Leute, die die Arbeiten durchführen werden, eingebunden?<br/><br/>
- • Von wem brauchen wir mehr Buy-In oder Unterstützung?
+ • Können wir eine Community mit Leidenschaft um das Projekt oder die Entscheidung bilden?<br/><br/>
+ • Haben wir die Leute, welche die Arbeiten durchführen werden auch eingebunden?<br/><br/>
+ • Von wem brauchen wir grundsätzlich oder gar mehr Buy-In oder Unterstützung?
 </td>
 </tr>
 <tr>
@@ -303,7 +303,7 @@ _Seite 9 von 15_
 </tr>
 <tr>
 <td>
- • Reräsentation verschiedener Kundentypen<br/>
+ • Repräsentation verschiedener Kundentypen<br/>
  • Unerwartete Einflüsse und Anwendungsfälle<br/>
  • Unausgesprochene Risiken und Bedenken
 </td>
@@ -311,32 +311,32 @@ _Seite 9 von 15_
 </table>
 
 
-Phase or activity: Launch, Deploy, Close 
+Phase oder Aktivität: Umsetzung, Implementierung, Abschluss 
 --------------
-_page 10 of 15_ 
+_Seite 10 von 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Schritte zu mehr Offenheit</strong></td>
+<td><strong>Zu stellende Fragen</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with Red Hat's strategy, mission, culture, and values<br/><br/>
- • Outline the steps you've taken to make this decision openly<br/><br/>
- • Highlight use of this framework<br/><br/>
- • Tell associates where to find detailed information<br/><br/>
- • Show how feedback shaped the decision or project<br/><br/>
- • Explain how to provide input after launch<br/><br/>
- • Acknowledge when you're not fully satisfied with the decision or know that others will not be<br/><br/>
- • Share your timeline or criteria for revisiting the decision<br/><br/>
- • Stay engaged with those who reject the decision
+<td rowspan=3 width=33%><strong>Behalte das Ende im Auge</strong><br/>
+ • Demonstriere Abgestimmtheit mit Red Hat´s Strategie, Mission, Kultur und Werten<br/><br/>
+ • Hebe hervor, welche Schritte du unternommen hast, um die Entscheidung offen zu treffen<br/><br/>
+ • Unterstreiche die Anwendung des Open Decision Frameworks<br/><br/>
+ • Sprich mit den Kollegen darüber, wo man detailierte Informationen darüber finden kann<br/><br/>
+ • Zeige auf, wie das eingebrachte Feedback die Entscheidung oder das Projekt verändert bzw. umgestaltet hat<br/><br/>
+ • Erkläre, wie man auch nach begonnener Umsetzung weiterhin Feedback und Verbesserungsvorschläge einbringen kann<br/><br/>
+ • Akzeptiere, wenn du mit dem Ergebnis nicht vollständig übereinstimmst, oder die bewusst ist, dass andere nicht restlos überzeugt sein werden<br/><br/>
+ • Kommuniziere offen den Zeitplan oder die Kriterien, die erfüllt sein müssen, um die Entscheidung zu überdenken<br/><br/>
+ • Bleibe mit denen in Kontakt, die der Entscheidung ablehnend gegenüberstehen
 </td>
 <td rowspan=3 width=33%>
-<strong>Default to open</strong><br/>
- • Reiterate relevant business requirements and constraints<br/><br/>
- • Share relevant legal, reporting, or confidentiality issues<br/><br/>
- • Communicate success criteria and publish relevant metrics<br/><br/>
+<strong>Standardmäßig öffnen</strong><br/>
+ • Verdeutliche unablässig die relevanten Geschäftsanforderungen und -beschränkungen<br/><br/>
+ • Sprich über relevante Rechts-, Berichterstattungs- und Vertraulichkeitsprobleme<br/><br/>
+ • Kommuniziere Erfolgskriterien und veröffentliche relevante Metriken<br/><br/>
 
 <strong>Contribute upstream</strong><br/>
  • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
