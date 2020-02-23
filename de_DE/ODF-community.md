@@ -106,15 +106,15 @@ _Seite 5 von 15_
 </tr>
 <tr>
 <td>
-• Offener Austausch<br/> • Beteiligung<br/> • Veröffentlichen Sie rasch und oft<br/> • Meritokratie<br/> • Community
+• Offener Austausch<br/> • Beteiligung<br/> • Rasche und häufige Veröffentlichung<br/> • Meritokratie<br/> • Community
 </td>
-<td>→<br/>→<br/>→</td>
+<td>→</td>
 <td>
-• Transparenz gegenüber inner und externer Interessensgruppen<br/> • Einbeziehung der Kunden<br/> • Feedback einholen und schrittweise Änderungen umsetzen<br/> • Ideenfindung mit Kunden<br/> • Vertrauen und Respekt durch Zusammenarbeit aufbauen
+• Transparenz gegenüber internen und externen Interessensgruppen<br/> • Einbeziehung der Kunden<br/> • Feedback einholen und schrittweise Änderungen umsetzen<br/> • Ideenfindung mit Kunden<br/> • Vertrauen und Respekt durch Zusammenarbeit aufbauen
 </td>
-<td>→<br/>→<br/>→</td>
+<td>→</td>
 <td>
-• Kunden buy-in<br/> • Stärkere und schnellere Akzeptanz<br/> • Die besten Ideen gewinnen<br/> • Weniger Fehler, Probleme und unvorhergesehene Rückschläge<br/> • Höheres Engagement der Mitarbeiter<br/> • Entscheidungen ausgerichtet auf Strategie und Kultur
+• Kunden buy-in<br/> • Stärkere und schnellere Akzeptanz<br/> • Die besten Ideen gewinnen<br/> • Weniger Fehler, Probleme und unvorhergesehene Rückschläge<br/> • Höheres Engagement der Mitarbeiter<br/> • Entscheidungen, die an Strategie und Kultur ausgerichtet sind
 </td>
 </tr>
 </table>
@@ -122,13 +122,14 @@ _Seite 5 von 15_
 
 Man kann es nicht allen recht machen. 
 ----------------------------------------------------
-**Aber wenn Sie offene Entscheidungen treffen, fühlen sich die Menschen ...**  _Seite 6 von 15_ 
+_Seite 6 von 15_ 
+**Aber wenn Sie offene Entscheidungen treffen, fühlen sich die Menschen ...**
 
-  - Ich verstehe, warum die Entscheidung getroffen wurde und wie sie zu Red Hats Strategie, Zielen und Mission passt.
+  - Ich verstehe, warum die Entscheidung getroffen wurde und wie sie zur Strategie, Zielen und Mission der Firma passt.
   - Die geschäftlichen Anforderungen, Recherche- und Bewertungskriterien waren sichtbar.
   - Der Entscheidungsprozess war inklusiv und transparent.
   - Obwohl ich nicht der Entscheidungsträger war, konnte ich zu diesem Prozess beitragen.
-  - Ich kann der Entscheidung nicht zustimmen, aber es ist offensichtlich, dass die Entscheidungsträger die Werte und die Kultur von Red Hat verstehen.
+  - Selbst wenn ich der Entscheidung nicht zustimmen kann, ist es offensichtlich, dass die Entscheidungsträger die Werte und die Kultur meiner Firma verstehen.
   - Ich bin möglicherweise enttäuscht, aber ich wurde nicht überrascht.
   - Meine Stimme wurde gehört und geschätzt.
 
@@ -136,112 +137,117 @@ Man kann es nicht allen recht machen.
 Open Decision Framework 
 ===========================================================================
 
-Phase or activity: Concept, Define, Ideate 
----------------
-_Seite 7 von 15_ 
+
+Phase oder Aktivität: Konzept, Definition, Ideenfindung
+-------------------------------------------------------
+_page 7 of 15_ 
+=======
+
 
 <table>
 <tr>
-<td width=34%><strong>Erste Schritte in Richtung Offenheit</strong></td>
-<td width=36%><strong>Questions to ask</strong></td>
-<td width=30%><strong>Common flamewar triggers</strong></td>
+<td width=34%><strong>Schritte zu mehr Offenheit</strong></td>
+<td width=36%><strong>Zu stellende Fragen</strong></td>
+<td width=30%><strong>Typische Flame-War Trigger</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
-<strong>Lead with transparency</strong><br/>
- • Publish a problem statement and possible approaches<br/><br/>
- • Identify any aspects of the project or decision that cannot be open<br/><br/>
- • Publish your ideation process<br/><br/>
+<strong>Gehe transparent vor</strong><br/>
+ • Veröffentliche die Problembeschreibung und mögliche Lösungsansätze<br/><br/>
+ • Benenne alle Aspekte des Projektes und Entscheidungen, die nicht offengelegt werden können<br/><br/>
+ • Veröffentliche deinen Ideenfindungsprozess<br/><br/>
 
-<strong>Build diversity of thought + an inclusive environment</strong><br/>
- • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/><br/>
- • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
+<strong>Baue auf Meinungsvielfalt und eine inklusive Umgebung</strong><br/>
+ • Binde interne Kunden und Interessensgruppen frühzeitig ein, vor allem diejenigen, die nicht einverstanden sein könnten<br/><br/>
+ • Suche Sichtweisen von Andersdenkenden und Randgruppen (geographisch, ethnisch, Abteilungen, Job-Ebene, Geschlecht, Alter, etc.)<br/><br/>
+ • Begrüsse Kollaboration und sorge für Feedback-Kanäle<br/><br/>
+ • Sprich Risiken, Einschränkungen und potenziell kulturelle Auswirkungen an, vor allem bei in der Vergangenheit liegenden Konflikten<br/><br/>
 </td>
 <td>
- • What is the potential impact on the organization? On the culture?<br/><br/>
- • Who do we need to include in planning?<br/><br/>
- • Whose problem are we trying to solve?<br/><Br/>
- • Who will we need or want help from?<br/><br/>
- • Who else could be impacted?<br/><br/>
- • Who has solved a similar problem?<br/><br/>
- • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
+ • Was sind potenzielle Auswirkungen auf die Organisation? Auf die Kultur?<br/><br/>
+ • Wen müssen wir in die Planung einbinden?<br/><br/>
+ • Wessen Problem versuchen wir zu lösen?<br/><Br/>
+ • Wen oder wessen Unterstützung brauchen wir?<br/><br/>
+ • Wer könnte sonst noch betroffen sein?<br/><br/>
+ • Wer hat schonmal ein ähnliches Problem gelöst?<br/><br/>
+ • Wer wird wahrscheinlich nicht einverstanden sein, widersprechen, ablehnen oder aussteigen? Wer könnte noch interessiert sein?
 </td>
 <td rowspan=3>
-There are a handful of issues that often generate controversy and upset within Red Hat, including:<br/><br/>
- • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
- • Changes to associates' work environment<Br/><br/>
- • Implementation of proprietary technology<br/><br/>
- • Use of proprietary formats<Br/><br/>
- • Data privacy and sharing<br/><br/>
+Es gibt eine Reihe von Problemen, die häufig Gegensätze generieren und für Aufregung innerhalb Red Hats sorgen, wie:<br/><br/>
+ • Entscheidungen, Richtlinien oder Änderungen, die Mitarbeiter betreffen, wie z.B. Auszeichnungen oder Wohlfühlprogramme<br/><br/>
+ • Änderungen am Arbeitsplatz von Mitarbeitern<Br/><br/>
+ • Einführung von proprietären Technologien<br/><br/>
+ • Nutzung von proprietären Formaten<Br/><br/>
+ • Datenschutz und -Verbreitung<br/><br/>
 
-If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
+Falls einer dieser Punkte auf Ihr Projekt oder Entscheidung zutrifft, sollten Sie zusätzliche Schritte unternehmen, um Ihren Prozss offen, inklusiv und transparent zu machen.
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Grundsätzliche Überlegungen</strong></td>
 </tr>
 <tr>
 <td>
- • Confidentiality, privacy, and regulatory requirements<br/><br/>
- • Potential to generate controversy<br/><br/>
- • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
- • Where to publish
+ • Vertraulichkeit, Schutz der Privatsphäre und regulatorische Anforderungen<br/><br/>
+ • Potenzial für Kontroversen<br/><br/>
+ • Einfluss auf Red Hats Kultur und zukünftige Entscheidungen<br/><br/>
+ • Rollen + Verantwortlichkeiten (OPT Modell: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Ort zur Veröffentlichung
 </td>
 </tr>
 </table>
 
 
-Phase or activity: Plan, Research 
-----------------------
-_Seite 8 von 15_
+Phase oder Aktivität: Plan, Recherche
+-------------------------------------
+_page 8 of 15_
+=======
+
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Schritte zu mehr Offenheit</strong></td>
+<td><strong>Zu stellende Fragen</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
- • Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)<br/><br/>
- • Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.<br/><br/>
- • Remain open to new information and perspectives<Br/><br/>
- • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
+<td rowspan=3 width=33%><strong>Binde Kunden und Mitwirkende ein</strong><br/>
+ • Sammle Input von internen Kunden und solchen, deren Hilfe Du benötigst (Umfragen, Interviews, Fokusgruppen etc.)<br/><br/>
+ • Mache es leicht, teilzunehmen und zu steuern. Frage, welche Tools zur Zusammenarbeit die Kunden bevorzugen. Erstelle einen Plan zur Konsolidierung und Veröffentlichung von Feedback<br/><br/>
+ • Bleibe offen für neue Informationen und Perspektiven<Br/><br/>
+ • Berücksichtige persönliche Feedback- und Kommunikations-Optionen zusätzlich zu den formalen Kanälen<br/><br/>
 
-<strong>Set expectations upfront</strong><Br/>
- • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
- • Publish decision process and project plan, with roles, dates, constraints
+<strong>Setze von vornherein die Erwartungshaltung</strong><Br/>
+ • Beschreibe genau, welche Art(en) von Feedback Du wünscht und wer die Entscheidung(en) trifft<Br/><Br/>
+ • Veröffentliche den Entscheidungsprozess und den Projektplan mit Rollen, Deadlines und Randbedingungen
 </td>
-<td rowspan=3 width=33%><strong>Explain the obvious</strong><Br/>
- • Publish the scope of the project or decision, and reiterate often<br/><br/>
- • Publish decision factors and their relative importance<Br/><Br/>
- • Publish your research, including difficult trade-offs, business requirements<br/><br/>
- • To the extent possible, publish any relevant legal, reporting, or confidentiality concerns<br/><br/>
+<td rowspan=3 width=33%><strong>Erkläre das Offensichtliche</strong><Br/>
+ • Veröffentliche den Geltungsbereich des Projektes oder der Entscheidung und erwähne dies regelmäßig<br/><br/>
+ • Veröffentliche Entscheidungskriterien und ihre relative Wichtigkeit<Br/><Br/>
+ • Veröffentliche deine Recherche inklusive schwieriger Abwägungen und Geschäftsanforderungen<br/><br/>
+ • So weit möglich, veröffentliche alle relevanten rechtlichen Bedenken, sowie Bedenken zur Meldepflicht und Vertraulichkeit<br/><br/>
 
-<strong>Plan the transition</strong><br/><br/>
- • Develop and gather feedback on communication, change management, and adoption plans<br/><Br/>
- • Think through how you could respond to upset individuals (on memo-list and other channels)
+<strong>Plane die Veränderung</strong><br/><br/>
+ • Entwickle und sammel Feedback bezgl. Kommunikation, Change Management und Plänen zur Einführung<br/><Br/>
+ • Durchdenke, wie Du auf aufgebrachte Personen antworten könntest (auf memo-list und anderen Kanälen)
 </td>
 <td>
- • How will we make decisions?<Br/><Br/>
- • What internal customers, stakeholders, and collaborators will we involve?<br/><br/>
- • How will we engage and communicate with them?<br/><br/>
- • What are the open source options?<br/><br/>
- • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
- • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with Red Hat's values and culture?
+ • Wie werden wir die Entscheidung treffen?<Br/><Br/>
+ • Welche internen Kunden, Interessensgruppen und Mitwirkende wollen wir involvieren?<br/><br/>
+ • Wie wollen wir diese einbinden und wie mit ihnen kommunizieren?<br/><br/>
+ • Was sind die Optionen aus dem Open Source Umfeld?<br/><br/>
+ • Wie könnte sich die Wahl einer pröprietären Technologie oder Formates auf die Wahlfreiheit in der Zukunft auswirken?<br/><br/>
+ • Wie passt dies zur Firmenstrategie und Mission?<br/><br/>
+ • Wo könnte dies mit Red Hats Werten und Kultur in Konflikt stehen?
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Grundlegende Überlegungen</strong></td>
 </tr>
 <tr>
 <td>
- • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<Br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
+ • Auswirkung – wer, wie oft, und unerwartet<br/>
+ • Wo und wie wird zusammengearbeitet<br/>
+ • Rollen + Verantwortlichkeiten (OPT Modell: https://github.com/red-hat-people-team/opt-model/) 
 </td>
 </tr>
 </table>
