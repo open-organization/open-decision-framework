@@ -126,15 +126,15 @@ Man kann es nicht allen recht machen.
 -------------------------------------
 _Seite 6 von 15_ 
 
-**Aber wenn Sie offene Entscheidungen treffen, fühlen sich die Menschen ...**
+**Aber wenn Sie offene Entscheidungen treffen, dann...**
 
-  - Ich verstehe, warum die Entscheidung getroffen wurde und wie sie zur Strategie, Zielen und Mission der Firma passt.
-  - Die geschäftlichen Anforderungen, Recherche- und Bewertungskriterien waren sichtbar.
-  - Der Entscheidungsprozess war inklusiv und transparent.
-  - Obwohl ich nicht der Entscheidungsträger war, konnte ich zu diesem Prozess beitragen.
-  - Selbst wenn ich der Entscheidung nicht zustimmen kann, ist es offensichtlich, dass die Entscheidungsträger die Werte und die Kultur meiner Firma verstehen.
-  - Ich bin möglicherweise enttäuscht, aber ich wurde nicht überrascht.
-  - Meine Stimme wurde gehört und geschätzt.
+  - verstehen Mitarbeiter, warum die Entscheidung getroffen wurde und wie sie zur Strategie, Zielen und Mission der Firma passt
+  - werden geschäftliche Anforderungen, Recherche- und Bewertungskriterien sichtbar
+  - war der Entscheidungsprozess inklusiv und transparent
+  - erkennen auch jene, die nicht Entscheidungsträger waren, wie sie in diesem Prozess beitragen konnten
+  - ist es offensichtlich, dass die Entscheidungsträger die Werte und die Kultur meiner Firma verstehen auch wenn ich selbst der Entscheidung nicht zustimmen kann
+  - wurde ich nicht überrascht, selbst wenn ich möglicherweise enttäuscht bin
+  - wurde meine Stimme gehört und geschätzt
 
 
 Open Decision Framework 
