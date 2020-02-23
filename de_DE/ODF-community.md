@@ -11,7 +11,7 @@ Anmerkungen
 ===========
 
 * Diese Fassung des Dokumentes dient der vereinfachten Zusammenarbeit und der Nachvollziehbarkeit von Änderungen.
-* Die Seitenzahlen korrespondieren zu den LibreOffice (.odp) und PDF Files in diesem Repository.
+* Die Seitenzahlen korrespondieren mit den LibreOffice (.odp) und PDF Files in diesem Repository.
 * Deutsche Übersetzung von Joachim Schroeder (jos@redhat.com) und Guenter Herold (guenter@redhat.com)
 
 Inhalt
