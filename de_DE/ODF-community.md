@@ -35,11 +35,11 @@ Inhalt
 _Seite 2 von 15_
 
 **Was es ist**
-  - Ein flexibler, offener Ansatz um Projekte durchzuführen und Business Entscheidungen zu treffen
+  - Ein flexibler, offener Ansatz, um Projekte durchzuführen und Business-Entscheidungen zu treffen
 
 **Wann man es einsetzt**
 
-In Entscheidungsprozessen und Projekten die beispielsweise
+In Entscheidungsprozessen und Projekten, die beispielsweise
   - die Unternehmenskultur und Zusammenarbeit beeinflussen
   - Mitarbeiter ausserhalb des unmittelbaren Projektes oder der jeweiligen Abteilung betreffen
 
@@ -54,13 +54,13 @@ _Seite 3 von 15_
 <table>
 <tr>
 <td>Transparent</td>
-<td>Umfassend</td>
-<td>Kundenorientiert</td>
+<td>Einbeziehend</td>
+<td>Kundenzentriert</td>
 </tr>
 <tr>
-<td>Definieren Sie zu Beginn, wer die Entscheidung trifft, welche Probleme Sie lösen möchten, welche Anforderungen und Einschränkungen bestehen und welchen Prozess Sie durchführen werden.</td>
-<td>Bitten Sie andere um Feedback und arbeiten Sie während des gesamten Entscheidungsprozesses zusammen. Suchen Sie nach verschiedenen Perspektiven, einschließlich potenzieller Kritiker.</td>
-<td>Stellen Sie sich Menschen als Kunden mit konkurrierenden Bedürfnissen und Prioritäten vor. Wenn eine Entscheidung einigen Kunden hilft, andere jedoch enttäuscht, können Sie an diesen Erwartungen und Beziehungen geziehlt arbeiten, um Veränderungen erfolgreich umzusetzen.</td>
+<td>Erklären Sie zu Beginn, wer die Entscheidung trifft, welche Probleme Sie lösen möchten, welche Anforderungen und Einschränkungen bestehen und welchem Prozess Sie folgen werden.</td>
+<td>Bitten Sie andere um Feedback und arbeiten Sie während des gesamten Entscheidungsprozesses zusammen. Suchen Sie nach unterschiedlichen Perspektiven, einschließlich potenzieller Kritiker.</td>
+<td>Stellen Sie sich Menschen als Kunden mit konkurrierenden Bedürfnissen und Prioritäten vor. Wenn eine Entscheidung einigen Kunden hilft, andere jedoch enttäuscht, gehen Sie während der Umsetzung des Entscheidungsprozesses aktiv mit diesen Erwartungen und Beziehungen um.</td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@ _Seite 4 von 15_
 
 **Offener Austausch**
 
-Unabhängig davon ob Sie Software entwickeln, oder versuchen ein Geschäftsproblem zu lösen, beginnt der offene Austausch, wenn Sie Ihren "Quellcode" mit anderen teilen. Ein freier Ideenaustausch ist entscheidend für die Schaffung eines Umfelds, in dem die Menschen lernen und vorhandene Informationen zur Schaffung neuer Ideen nutzen können.
+Unabhängig davon, ob Sie Software entwickeln oder versuchen ein Geschäftsproblem zu lösen, beginnt der offene Austausch, wenn Sie Ihren "Quellcode" mit anderen teilen. Ein freier Ideenaustausch ist entscheidend für die Schaffung eines Umfelds, in dem die Menschen lernen und auf Basis vorhandener Informationen neue Ideen umsetzen können.
 
 **Beteiligung**
 
@@ -79,15 +79,15 @@ Wenn wir für Zusammenarbeit offen sind, werden wir kreativer und produktiver. W
 
 **Veröffentlichen Sie rasch und oft**
 
-Schnelle Prototypen können zu schnellen Ausfällen führen, und dies führt zu schnelleren, besseren Lösungen. Wenn Sie experimentieren können, können Sie Probleme auf neue Weise untersuchen und an neuen Orten nach Antworten suchen. Sie können lernen, indem Sie viele Möglichkeiten ausprobieren.
+Schnelle Prototypen können zu schnellem Scheitern führen, und dies führt schneller zu besseren Lösungen. Wenn Sie experimentieren können, können Sie Probleme aus neuen Perspektiven betrachten und Antworten an neuen Orten suchen. Sie können lernen, indem Sie viele Möglichkeiten ausprobieren.
 
 **Meritokratie**
 
-In einer Meritokratie können gute Ideen von überall herkommen und die besten Ideen gewinnen. Jeder hat Zugriff auf die gleichen Informationen. Erfolgreiche Arbeit bestimmt, welche Projekte entstehen und welche Unterstützung und Anstrengungen von der Community erwartet werden.
+In einer Meritokratie können gute Ideen von überall herkommen und die besten Ideen gewinnen. Jeder hat Zugriff auf die gleichen Informationen. Erfolgreiches Arbeiten bestimmt, welche Projekte entstehen und Unterstützung und Einsatz von der Community erhalten.
 
 **Community**
 
-Gemeinschaften werden um einen gemeinsamen Zweck gebildet. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Die Gemeinschaft vervielfacht somit die Bemühungen und verteilt gleichzeitig die Arbeit effektiv auf alle Mitglieder. Gemeinsam kann somit mehr getan und erreicht werden.
+Gemeinschaften bilden sich um einen gemeinsamen Zweck herum. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Die Gemeinschaft vervielfacht somit den Einsatz und verteilt gleichzeitig die Arbeit effektiv auf alle Mitglieder. Gemeinsam können wir mehr erreichen.
 
 Adaptiert von: https://opensource.com/open-source-way
 
