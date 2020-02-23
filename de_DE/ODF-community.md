@@ -4,7 +4,8 @@ Community Version 1.0.0d
 
 Aktualisiert im Februar, 2020
 
-© 2014-2019 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Red Hat logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+© Red Hat und Mitwirkende | Das Open Decision Framework wurde vom Red Hat People-Team erstellt und ist unter der Creative Commons "Namensnennung-Weitergabe unter gleichen Bedingungen" 4.0 International License (CC BY-SA 4.0) verfügbar. 
+Red Hat und das Red Hat-Logo sind Marken von Red Hat, Inc., die in anderen Ländern eingetragen sind. Geänderte Versionen müssen das gesamte Red Hat-Branding entfernen.
 
 Anmerkungen
 ===========
