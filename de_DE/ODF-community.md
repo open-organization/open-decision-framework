@@ -35,11 +35,11 @@ Inhalt
 _Seite 2 von 15_
 
 **Was es ist**
-  - Ein flexibler, offener Ansatz um Projekte durchzuführen und Business Entscheidungen zu treffen
+  - Ein flexibler, offener Ansatz, um Projekte durchzuführen und Business-Entscheidungen zu treffen
 
 **Wann man es einsetzt**
 
-In Entscheidungsprozessen und Projekten die beispielsweise
+In Entscheidungsprozessen und Projekten, die beispielsweise
   - die Unternehmenskultur und Zusammenarbeit beeinflussen
   - Mitarbeiter ausserhalb des unmittelbaren Projektes oder der jeweiligen Abteilung betreffen
 
@@ -54,13 +54,13 @@ _Seite 3 von 15_
 <table>
 <tr>
 <td>Transparent</td>
-<td>Umfassend</td>
-<td>Kundenorientiert</td>
+<td>Einbeziehend</td>
+<td>Kundenzentriert</td>
 </tr>
 <tr>
-<td>Definieren Sie zu Beginn, wer die Entscheidung trifft, welche Probleme Sie lösen möchten, welche Anforderungen und Einschränkungen bestehen und welchen Prozess Sie durchführen werden.</td>
-<td>Bitten Sie andere um Feedback und arbeiten Sie während des gesamten Entscheidungsprozesses zusammen. Suchen Sie nach verschiedenen Perspektiven, einschließlich potenzieller Kritiker.</td>
-<td>Stellen Sie sich Menschen als Kunden mit konkurrierenden Bedürfnissen und Prioritäten vor. Wenn eine Entscheidung einigen Kunden hilft, andere jedoch enttäuscht, können Sie an diesen Erwartungen und Beziehungen geziehlt arbeiten, um Veränderungen erfolgreich umzusetzen.</td>
+<td>Erklären Sie zu Beginn, wer die Entscheidung trifft, welche Probleme Sie lösen möchten, welche Anforderungen und Einschränkungen bestehen und welchem Prozess Sie folgen werden.</td>
+<td>Bitten Sie andere um Feedback und arbeiten Sie während des gesamten Entscheidungsprozesses zusammen. Suchen Sie nach unterschiedlichen Perspektiven, einschließlich potenzieller Kritiker.</td>
+<td>Stellen Sie sich Menschen als Kunden mit konkurrierenden Bedürfnissen und Prioritäten vor. Wenn eine Entscheidung einigen Kunden hilft, andere jedoch enttäuscht, gehen Sie während der Umsetzung des Entscheidungsprozesses aktiv mit diesen Erwartungen und Beziehungen um.</td>
 </tr>
 </table>
 
@@ -71,7 +71,7 @@ _Seite 4 von 15_
 
 **Offener Austausch**
 
-Unabhängig davon ob Sie Software entwickeln, oder versuchen ein Geschäftsproblem zu lösen, beginnt der offene Austausch, wenn Sie Ihren "Quellcode" mit anderen teilen. Ein freier Ideenaustausch ist entscheidend für die Schaffung eines Umfelds, in dem die Menschen lernen und vorhandene Informationen zur Schaffung neuer Ideen nutzen können.
+Unabhängig davon, ob Sie Software entwickeln oder versuchen ein Geschäftsproblem zu lösen, beginnt der offene Austausch, wenn Sie Ihren "Quellcode" mit anderen teilen. Ein freier Ideenaustausch ist entscheidend für die Schaffung eines Umfelds, in dem die Menschen lernen und auf Basis vorhandener Informationen neue Ideen umsetzen können.
 
 **Beteiligung**
 
@@ -79,15 +79,15 @@ Wenn wir für Zusammenarbeit offen sind, werden wir kreativer und produktiver. W
 
 **Veröffentlichen Sie rasch und oft**
 
-Schnelle Prototypen können zu schnellen Ausfällen führen, und dies führt zu schnelleren, besseren Lösungen. Wenn Sie experimentieren können, können Sie Probleme auf neue Weise untersuchen und an neuen Orten nach Antworten suchen. Sie können lernen, indem Sie viele Möglichkeiten ausprobieren.
+Schnelle Prototypen können zu schnellem Scheitern führen, und dies führt schneller zu besseren Lösungen. Wenn Sie experimentieren können, können Sie Probleme aus neuen Perspektiven betrachten und Antworten an neuen Orten suchen. Sie können lernen, indem Sie viele Möglichkeiten ausprobieren.
 
 **Meritokratie**
 
-In einer Meritokratie können gute Ideen von überall herkommen und die besten Ideen gewinnen. Jeder hat Zugriff auf die gleichen Informationen. Erfolgreiche Arbeit bestimmt, welche Projekte entstehen und welche Unterstützung und Anstrengungen von der Community erwartet werden.
+In einer Meritokratie können gute Ideen von überall herkommen und die besten Ideen gewinnen. Jeder hat Zugriff auf die gleichen Informationen. Erfolgreiches Arbeiten bestimmt, welche Projekte entstehen und Unterstützung und Einsatz von der Community erhalten.
 
 **Community**
 
-Gemeinschaften werden um einen gemeinsamen Zweck gebildet. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Die Gemeinschaft vervielfacht somit die Bemühungen und verteilt gleichzeitig die Arbeit effektiv auf alle Mitglieder. Gemeinsam kann somit mehr getan und erreicht werden.
+Gemeinschaften bilden sich um einen gemeinsamen Zweck herum. Die Individuen einer Gemeinschaft bringen unterschiedliche Ideen und Sichtweisen ein und teilen ihre Arbeit. Zusammen kann eine Gemeinschaft weit über die Fähigkeiten jedes einzelnen Mitglieds hinauswachsen. Die Gemeinschaft vervielfacht somit den Einsatz und verteilt gleichzeitig die Arbeit effektiv auf alle Mitglieder. Gemeinsam können wir mehr erreichen.
 
 Adaptiert von: https://opensource.com/open-source-way
 
@@ -137,9 +137,12 @@ _Seite 6 von 15_
 Open Decision Framework 
 ===========================================================================
 
+
 Phase oder Aktivität: Konzept, Definition, Ideenfindung
 -------------------------------------------------------
 _page 7 of 15_ 
+=======
+
 
 <table>
 <tr>
@@ -198,6 +201,8 @@ Falls einer dieser Punkte auf Ihr Projekt oder Entscheidung zutrifft, sollten Si
 Phase oder Aktivität: Plan, Recherche
 -------------------------------------
 _page 8 of 15_
+=======
+
 
 <table>
 <tr>
@@ -248,59 +253,59 @@ _page 8 of 15_
 </table>
 
 
-Phase or activity: Design, Develop, Test 
-----------------------------
-_page 9 of 15_ 
+Phase oder Aktivität: Design, Entwicklung, Test 
+-----------------------------------------------
+_Seite 9 von 15_ 
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>Schritte zu mehr Offenheit</strong></td>
+<td><strong>Zu stellende Fragen</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Build your community</strong><br/>
- • Ask departments who from their team can provide feedback<Br/><Br/>
- • Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts<br/><br/>
- • Investigate options and accommodations for negatively impacted customers<Br/><Br/>
+<td rowspan=3 width=33%><strong>Baue deine Community</strong><br/>
+ • Frage die Abteilungen, wer aus ihrem Team Feedback geben kann<Br/><Br/>
+ • Mache Kunden und Interessensgruppen mit der Entscheidung vertraut, speziell mit denen, die sich am heftigsten über die Auswirkungen beschweren könnten<br/><br/>
+ • Untersuche Optionen und Anpassungen für Kunden mit negativen Auswirkungen<Br/><Br/>
 
-<strong>Promote open exchange</strong><br/>
- • Evaluate, acknowledge, and incorporate feedback<br/><br/>
- • Highlight changes made in response to feedback<br/><br/>
- • If a suggestion isn't feasible, explain why<br/><br/>
- • Publish progress in an open place<br/><br/>
- • Provide regular updates to sponsors, customers, and stakeholders
+<strong>Unterstütze offenen Austausch</strong><br/>
+ • Bewerte, anerkenne und berücksichte Feedback<br/><br/>
+ • Hebe Veränderungen hervor, die als Reaktion auf Feedback entstanden sind<br/><br/>
+ • Wenn ein Vorschlag nicht umgesetzt wird, erkläre, warum<br/><br/>
+ • Veröffentliche den Fortschritt an einem frei zugänglichen Ort<br/><br/>
+ • Liefere regelmäßige Updates an Sponsoren, Kunden und Interessensgruppen aus
 </td>
 <td rowspan=3 width=33%>
-<strong>Make it safe to voice concerns</strong><br/>
- • Invite project team and collaborators to raise risks and concerns you've overlooked.<br/><br/>
- • Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?<br/><br/>
- • Publish risk and limitations uncovered along the way<br/><br/>
+<strong>Sorge dafür, dass Bedenken ohne Gefahr geäussert werden können</strong><br/>
+ • Lade das Projektteam und Mitwirkende ein, Risiken und Bedenken, die du übersehen hast, zu äussern.<br/><br/>
+ • Frage: Was könnte den Erfolg des Projektes verhindern? Welche Bedenken wird das team haben? Was fehlt noch?<br/><br/>
+ • Veröffentliche Risiken und Hürden, die im Prozessverlauf auftauchen<br/><br/>
 
-<strong>Conduct a premortem</strong><br/>
- • Pretend it's launch day, and people are surprised or upset. What triggered it?<br/><br/>
- • Identify changes you would make or points you might clarify in response, and make them proactively instead<br/><br/>
+<strong>Führe eine Scheiter-Analyse durch</strong><br/>
+ • Stelle dir vor, es ist der Starttag und die Leute sind überrascht und enttäuscht. Was könnte der Auslöser sein?<br/><br/>
+ • Identifiziere Änderungen, die du als Reaktion vornehmen würdest, oder Punkte, die du klären würdest, und nimm diese schon im Vorhinein vor<br/><br/>
 
-<strong>Activate your ambassadors</strong><Br/>
- • Equip the community to help you clear up misinformation and misunderstandings
+<strong>Aktiviere deine Botschafter</strong><Br/>
+ • Bereite die Community vor, um dir beim Ausräumen von Falschinformationen und Missverständnissen zu helfen
 </td>
 <td>
- • Can we pilot or release early to gather input?<br/><br/>
- • How will we test?<br/><Br/>
- • Which internal customers can help test?<br/><br/>
- • Does a cross-functional working group make sense?<br/><br/>
- • Can we build a community of passion around this project or decision?<br/><br/>
- • Have we engaged the people who will have to do the work?<br/><br/>
- • Who do we need more buy-in or support from?
+ • Können wir einen Piloten einrichten oder frühzeitig starten, um Input zu sammeln?<br/><br/>
+ • Wie werden wir testen?<br/><Br/>
+ • Welche internen Kunden können beim Testen helfen?<br/><br/>
+ • Macht eine cross-funktionale Gruppe Sinn?<br/><br/>
+ • Können wir eine Community mit Leidenschaft um das projekt oder die Entscheidung scharen?<br/><br/>
+ • Haben wir die Leute, die die Arbeiten durchführen werden, eingebunden?<br/><br/>
+ • Von wem brauchen wir mehr Buy-In oder Unterstützung?
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>Grundlegende Überlegungen</strong></td>
 </tr>
 <tr>
 <td>
- • Representation of different types of customers<br/>
- • Unexpected impacts and use cases<br/>
- • Unspoken risks and concerns
+ • Reräsentation verschiedener Kundentypen<br/>
+ • Unerwartete Einflüsse und Anwendungsfälle<br/>
+ • Unausgesprochene Risiken und Bedenken
 </td>
 </tr>
 </table>
