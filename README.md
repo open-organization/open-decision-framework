@@ -29,6 +29,7 @@ The Open Decision Framework is available in three different formats:
 The Open Decision Framework is also available in:
 
 * [French](fr_FR)
+* [German](de_DE)
 * [Italian](it_IT)
 
 ## Feedback
@@ -110,3 +111,5 @@ See how people apply the Open Decision Framework:
 * Antonella Iecle @antuz77
 * Paolo Bonzini @bonzini
 * Gian Luca Rivalta @grivalta
+* Guenter Herold @herold74
+* Joachim Schroeder @joschro
