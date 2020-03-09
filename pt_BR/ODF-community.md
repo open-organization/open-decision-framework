@@ -1,23 +1,23 @@
 Open Decision Framework
 =======================
-Community Version 1.0.4
+Versão da comunidade 1.0.4
 
-Updated Apr 10, 2017
+Atualizado em Apr 10, 2017
 
-© 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pelo time de recursos humanos da Red Hat e está disponível de acordo com a Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat e o logo Shadowman são marcas registradas da Red Hat, Inc. cadastradas em outros países. Versões modificadas devem remover todas as informações da marca da Red Hat.
+© 2014-2017 Red Hat e contribuidores | O Open Decision Framework foi criado pelo time de recursos humanos da Red Hat e está disponível de acordo com a Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat e o logo Shadowman são marcas registradas da Red Hat, Inc. cadastradas em diversos países. Versões modificadas devem remover todas as informações da marca da Red Hat.
 
 Observações
 =========
 
-* Essa versão markdown dos slides tem a intenção de facilitar colaborações e rastreamento de mundaças.
+* Essa versão markdown dos slides tem a intenção de facilitar colaborações e rastreamento de mudanças.
 * A numeração de páginas corresponde aos arquivos LibreOffice (.odp) e PDF que estão no repositório.
 
 Conteúdos
 ===========================================================================
 * [Visão Geral](#overview)
   * [O que é uma decisão aberta?](#what-is-an-open-decision)
-  * [Decisões abertas são tomadas usando princípios do Open Source](#open-decisions-are-made-using-open-source-principles)
-  * [Como princípios do Open Source levam a decisões melhores](#how-open-source-principles-lead-to-better-decisions)
+  * [Decisões abertas são tomadas usando princípios Open Source](#open-decisions-are-made-using-open-source-principles)
+  * [Como princípios Open Source levam a decisões melhores](#how-open-source-principles-lead-to-better-decisions)
   * [Não se pode agradar todo mundo](#you-cant-please-everyone)
 * [Open Decision Framework](#open-decision-framework-1)
   * [Fase ou atividade: Conceito, Definição, Idealização](#phase-or-activity-concept-define-ideate)
@@ -32,7 +32,7 @@ Conteúdos
 
 Visão Geral
 ===========================================================================
-_page 2 of 15_
+_página 2 de 15_
 
 **O que é**
   - Uma abordagem flexível e aberta para tomar decisões de negócios e conduzir projetos.
@@ -40,15 +40,15 @@ _page 2 of 15_
 **Quando usar**
 
 Em decisões e projetos que estão suscetíveis a:
-  - impactar nossa cultura empresarial ou
-  - afetar colaboradores para além do seu time de trabalho imediata
+  - impactar nossa cultura organizacional ou
+  - afetar colaboradores para além do sua equipe imediata
 
 **Como usar**
-  - Construir passos a partir do Open Decision Framework em seu planejamento de projeto ou durante o processo de tomada de decisão
+  - Construir passos a partir do Open Decision Framework em seu planejamento de projeto ou através do processo de tomada de decisão
 
 O que é uma decisão aberta?
 -------------------------
-_page 3 of 15_
+_página 3 de 15_
 
 <table>
 <tr>
@@ -57,28 +57,28 @@ _page 3 of 15_
 <td>Centrada no cliente</td>
 </tr>
 <tr>
-<td>Explicar quem está tomando a decisão, quais os problemas que está tentando resolver, os requisitos e restrições que estão envolvidos, e o processo que iniciará em sequência. </td>
-<td>Engajar outros para sugestões e colaboração através do processo de tomada de decisão. Busque perspectivas diversificadas, incluindo detratores em potencial.</td>
+<td>Explique quem está tomando a decisão, quais problemas você está tentando resolver, os requisitos e restrições que estão envolvidos, e o processo que iniciará em sequência.</td>
+<td>Envolva outros para sugestões e colaborações através do processo de tomada de decisão. Busque perspectivas diversificadas, incluindo detratores em potencial.</td>
 <td>Pense nas pessoas como clientes com necessidades e prioridades que competem entre si. Quando uma decisão for ajudar alguns clientes e decepcionar outros, gerencie os relacionamentos e expectativas enquanto executa o trabalho.</td>
 </tr>
 </table>
 
 
-Decisões abertas são tomadas usando princípios do Open Source
+Decisões abertas são tomadas usando princípios Open Source
 -----------------------------------------------------
-_page 4 of 15_
+_página 4 de 15_
 
 **Trocas abertas**
 
-Seja desenvolvendo um software our tentando resolver um problema na área de negócios, trocas abertas iniciam quando você compartilha seu "código fonte" com os outros. Uma troca de ideias livre é de extrema importância para criar um ambiente onde é permitido que pessoas aprendam e usem informações pré-existentes a fim de criar ideias novas.
+Seja desenvolvendo um software ou tentando resolver um problema na área de negócios, trocas abertas iniciam quando você compartilha seu "código fonte" com os outros. Uma troca de ideias livre é de extrema importância para criar um ambiente onde é permitido que pessoas aprendam e usem informações pré-existentes a fim de criar ideias novas.
 
 **Participação**
 
-Quando você é livre para colaborar, nós criamos. Podemos resolver problemas que uma pessoa pode não conseguir resolver sozinha. E quando podemos implementar padrões que levam à abertura, permitimos que outros possam participar no futuro.
+Quando nós somos livres para colaborar, nós criamos. Juntos podemos resolver problemas que uma pessoa pode não conseguir resolver sozinha. E quando podemos implementar padrões que levam à abertura, permitimos que outros possam participar no futuro.
 
 **Liberações antecipadas + frequentes**
 
-Protótipos liberados rapidamente podem levar a erros ocorrendo mais rapidamente, e isso gera soluções melhores e mais antecipadas. Quando se é livre para experimentar, é possível olhar para problemas de novas formas e procurar por respostas em novos lugares. Você consegue aprender fazendo.
+Protótipos liberados rapidamente podem levar a erros ocorrendo mais rapidamente, e isso gera soluções melhores e antecipadas. Quando se é livre para experimentar, é possível olhar para problemas de novas formas e procurar por respostas em novos lugares. Você consegue aprender fazendo.
 
 **Meritocracia**
 
@@ -92,7 +92,7 @@ Adaptado de: https://opensource.com/open-source-way
 
 Como princípios Open Source levam a decisões melhores
 ---------------------------------------------------
-_page 5 of 15_
+_página 5 de 15_
 
 <table>
 <tr>
@@ -108,11 +108,11 @@ _page 5 of 15_
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obter sugestões e adaptar mudanças iterativas<br/> • Idealização com clientes<br/> • Construa confiança e respeito através da colaboração
+• Transparência com clientes internos e outras partes interessadas<br/> • Envolvimento do cliente<br/> • Obter feedback e adaptar mudanças iterativas<br/> • Idealização com clientes<br/> • Construa confiança e respeito através da colaboração
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Adesão do cliente<br/> • Adoção mais rápida e mais forte<br/> • Melhores ideias vencem<br/> • Menos bugs, problemas, e impactos inesperados<br/> • Engajamento maior por parte dos colaboradores<br/> • Decisões alinhadas com estratégia e cultural
+• Adesão do cliente<br/> • Adoção mais rápida e mais sólida<br/> • Melhores ideias vencem<br/> • Menos bugs, problemas, e impactos inesperados<br/> • Engajamento maior por parte dos colaboradores<br/> • Decisões alinhadas com estratégia e cultura organizacional
 </td>
 </tr>
 </table>
@@ -120,10 +120,10 @@ _page 5 of 15_
 
 Não se pode agradar todo mundo
 ----------------------------------------------------
-**Mas quando se tomam decisões abertas, as pessoas sentem que...**  _page 6 of 15_
+**Mas quando se tomam decisões abertas, as pessoas sentem que...**  _página 6 de 15_
 
   - Entendem porque a decisão foi tomada e como isso se alinha com as estratégias, objetivos e missão da Red Hat.
-  - Houve visibilidade aos requisitos do negócio, pesquisa e critério de avaliação.
+  - Houve visibilidade dos requisitos do negócio, pesquisa e critério de avaliação.
   - O processo de tomada de decisão foi inclusivo e transparente.
   - Mesmo que eu não tenha tomado a decisão, consegui contribuir com o processo.
   - Posso não concordar com a decisão, mas ficou óbvio que as pessoas que a tomaram entendem os valores e a cultura da Red Hat.
@@ -136,7 +136,7 @@ Open Decision Framework
 
 Fase ou atividade: Conceito, Definição, Idealização
 ---------------
-_page 7 of 15_
+_página 7 de 15_
 
 <table>
 <tr>
@@ -158,13 +158,13 @@ _page 7 of 15_
  • Aborde riscos, limitações, e impactos culturais em potencial, especialmente quando se trata de problemas historicamente controversos<br/><br/>
 </td>
 <td>
- • Quais são os impactos em potencial para a organização? E para a cultura?<br/><br/>
+ • Quais são os impactos em potencial para a organização? E para a cultura organizacional?<br/><br/>
  • Quem você precisa incluir no processo de planejamento?<br/><br/>
  • De quem é o problema que estamos tentando resolver?<br/><Br/>
  • De quem precisamos ou queremos ajuda?<br/><br/>
  • Quem mais pode ser impactado?<br/><br/>
  • Quem solucionou um problema parecido?<br/><br/>
- • Quem é suscetível à discordar, dissentir, rejeitar, ou optar por deixar o projeto? Quem mais pode importar?
+ • Quem é suscetível à discordar, dissentir, rejeitar, ou optar por deixar o projeto? Quem mais pode se importar?
 </td>
 <td rowspan=3>
 Existem alguns problemas que muitas vezes geram controvérsias e transtornos na Red Hat, incluindo:<br/><br/>
@@ -185,7 +185,7 @@ Se seu projeto ou decisão envolve qualquer um desses temas, tome medidas extras
  • Confidencialidade, privacidade e requisitos regulatórios<br/><br/>
  • Potencial para gerar controvérsia<br/><br/>
  • Impacto na cultura da Red Hat e decisões futuras<br/><br/>
- • Cargos + responsabilidades (modelo OPT: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • Cargos + responsabilidades (modelo OPT: https://github.com/red-hat-people-team/opt-model/)<br/><br/>
  • Onde publicar
 </td>
 </tr>
@@ -193,7 +193,7 @@ Se seu projeto ou decisão envolve qualquer um desses temas, tome medidas extras
 
 Fase ou atividade: Planejamento, Pesquisa
 ----------------------
-_page 8 of 15_
+_página 8 de 15_
 
 <table>
 <tr>
@@ -245,7 +245,7 @@ _page 8 of 15_
 
 Fase ou atividade: Design, Desenvolvimento, Teste
 ----------------------------
-_page 9 of 15_
+_página 9 de 15_
 
 <table>
 <tr>
@@ -261,7 +261,7 @@ _page 9 of 15_
 <strong>Promova trocas abertas</strong><br/>
  • Avalie, reconheça e incorpore feedback<br/><br/>
  • Destaque mudanças feitas a partir dos feedbacks<br/><br/>
- • Se uma sugestão não foi viável,, explique o porquê<br/><br/>
+ • Se uma sugestão não foi viável, explique o porquê<br/><br/>
  • Publique o progresso feito em um espaço aberto<br/><br/>
  • Forneça atualizações frequentes para patrocinadores, clientes e partes interessadas
 </td>
@@ -302,7 +302,7 @@ _page 9 of 15_
 
 Fase ou atividade: Lançamento, Implementação, Finalização
 --------------
-_page 10 of 15_
+_página 10 de 15_
 
 <table>
 <tr>
@@ -334,7 +334,7 @@ _page 10 of 15_
 <td>
  • Como iremos monitorar listas de email e outros canais de feedback após a liberação?<br/><br/>
  • Se tivéssemos feito liberações antecipadas, continuaríamos a fazer melhorias baseadas em feedback?<br/><br/>
- • Quanto estamos dispostosa fazer revisões baseadas em feedback?<br/><br/>
+ • Quanto estamos dispostos a fazer revisões baseadas em feedback?<br/><br/>
  • Qual seria uma janela de tempo razoável para adicionar novas informações e refinamentos?<br/><br/>
  • Deixamos de verificar alguma coisa importante? Como abordamos isso?<br/><br/>
  • A decisão precisa ser revisitada?<br/><br/>
@@ -347,7 +347,7 @@ _page 10 of 15_
 
 Recursos
 ===========================================================================
-_page 12 of 15_
+_página 12 de 15_
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – arquivos para referências rápidas sobre colaborações, transparência, confiança, meritocracia, conexão
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guia para criar e fomentar comunidades de contribuidores
@@ -360,30 +360,30 @@ _page 12 of 15_
 Apêndice
 ===========================================================================
 
-História: De once vem o Framework
+História: A origem do Open Decision Framework
 ----------------------------------------------------
-_page 14 of 15_
+_página 14 de 15_
 
   - Baseado em princípios praticados por comunidades Open Source
 
-    - Pesquisa realizada por Fuqua School of Business da Duke University's e Diana Martin (2009 – 2010); recursos adicionais da comunidade
+    - Pesquisa realizada por Fuqua School of Business da Duke University e Diana Martin (2009 – 2010); recursos adicionais da comunidade
 
-  - Desenvolvimento pelo time de People, com contribuições vindas de um grupo focal interdisciplinar
+  - Desenvolvimento pelo time de recursos humanos, com contribuições vindas de um grupo focal interdisciplinar
 
-    - Construído pelos esforços do Project Management Office do time de People com a função de criar uma metodologia de gerenciamento aberta (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+    - Construído pelos esforços do Project Management Office do time de recursos humanos com a função de criar uma metodologia de gerenciamento aberta (2012 – 2013)
+    - Conversas sobre o Google Calendar na memo-list serviram como um catalisador para compartilhar projetos com todos os colaboradores e convidá-los à participação (2014)
+    - Testado pela equipe de TI e Engenharia, no grupo de trabalho focado na implementação do Google Calendar (2014 – 2015)
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - Atualizado e mantido por Rebecca Fernandez (rfernand@redhat.com)
 
 
-Why the framework exists
+Por que o framework existe
 ------------------------
-_page 15 of 15_
+_página 15 de 15_
 
-**A collection of proven practices that:**
+**Uma coleção de práticas provadas que:**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate “what good looks like” in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+  - Levam a um alinhamento melhor entre decisões de negócios com a estratégia, objetivos, cultura, valores e missão da empresa
+  - Demonstram "qual o aspecto positivo" nas tomadas de decisão e comunicação
+  - Oferecem orientação consistente para times e líderes sobre expectativas culturais, equilíbrio entre transparência e confidencialidade
+  - Melhoram o envolvimento dos colaboradores, relação entre transmissão e ruídos de comunicação na memo-list
