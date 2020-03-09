@@ -120,7 +120,8 @@ _página 5 de 15_
 
 Não se pode agradar todo mundo
 ----------------------------------------------------
-**Mas quando se tomam decisões abertas, as pessoas sentem que...**  _página 6 de 15_
+_página 6 de 15_
+**Mas quando se tomam decisões abertas, as pessoas sentem que...**  
 
   - Entendem porque a decisão foi tomada e como isso se alinha com as estratégias, objetivos e missão da Red Hat.
   - Houve visibilidade dos requisitos do negócio, pesquisa e critério de avaliação.
@@ -383,7 +384,7 @@ _página 15 de 15_
 
 **Uma coleção de práticas provadas que:**
 
-  - Levam a um alinhamento melhor entre decisões de negócios com a estratégia, objetivos, cultura, valores e missão da empresa
-  - Demonstram "qual o aspecto positivo" nas tomadas de decisão e comunicação
-  - Oferecem orientação consistente para times e líderes sobre expectativas culturais, equilíbrio entre transparência e confidencialidade
-  - Melhoram o envolvimento dos colaboradores, relação entre transmissão e ruídos de comunicação na memo-list
+  - Leva a um alinhamento melhor entre decisões de negócios com a estratégia. objetivos, cultura, valores e missão da empresa
+  - Demonstra "qual o aspecto positivo" nas tomadas de decisão e comunicação
+  - Oferece orientação consistente para times e líderes sobre expectativas culturais, equilíbrio entre transparência e confidencialidade
+  - Melhora o envolvimento dos colaboradores, relação entre transmissão e ruídos de comunicação na memo-list
