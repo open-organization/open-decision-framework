@@ -31,6 +31,7 @@ The Open Decision Framework is also available in:
 * [French](fr_FR)
 * [German](de_DE)
 * [Italian](it_IT)
+* [Brazilian Portuguese](pt_BR)
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
