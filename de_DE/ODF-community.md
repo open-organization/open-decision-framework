@@ -323,32 +323,32 @@ _Seite 10 von 15_
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Behalte das Ende im Auge</strong><br/>
- • Demonstriere Abgestimmtheit mit Red Hat´s Strategie, Mission, Kultur und Werten<br/><br/>
+ • Zeige Abgestimmtheit mit Red Hats Strategie, Mission, Kultur und Werten<br/><br/>
  • Hebe hervor, welche Schritte du unternommen hast, um die Entscheidung offen zu treffen<br/><br/>
  • Unterstreiche die Anwendung des Open Decision Frameworks<br/><br/>
- • Sprich mit den Kollegen darüber, wo man detailierte Informationen darüber finden kann<br/><br/>
+ • Sprich mit den Kollegen darüber, wo man detaillierte Informationen hierzu finden kann<br/><br/>
  • Zeige auf, wie das eingebrachte Feedback die Entscheidung oder das Projekt verändert bzw. umgestaltet hat<br/><br/>
  • Erkläre, wie man auch nach begonnener Umsetzung weiterhin Feedback und Verbesserungsvorschläge einbringen kann<br/><br/>
- • Akzeptiere, wenn du mit dem Ergebnis nicht vollständig übereinstimmst, oder die bewusst ist, dass andere nicht restlos überzeugt sein werden<br/><br/>
+ • Akzeptiere, wenn du mit dem Ergebnis nicht vollständig übereinstimmst, oder dir bewusst ist, dass andere nicht restlos überzeugt sein werden<br/><br/>
  • Kommuniziere offen den Zeitplan oder die Kriterien, die erfüllt sein müssen, um die Entscheidung zu überdenken<br/><br/>
  • Bleibe mit denen in Kontakt, die der Entscheidung ablehnend gegenüberstehen
 </td>
 <td rowspan=3 width=33%>
-<strong>Standardmäßig öffnen</strong><br/>
+<strong>Setze standardmäßig auf Offenheit</strong><br/>
  • Verdeutliche unablässig die relevanten Geschäftsanforderungen und -beschränkungen<br/><br/>
  • Sprich über relevante Rechts-, Berichterstattungs- und Vertraulichkeitsprobleme<br/><br/>
  • Kommuniziere Erfolgskriterien und veröffentliche relevante Metriken<br/><br/>
 
 <strong>Leiste einen "upstream" Beitrag</strong><br/>
  • Veröffentliche Deine Methoden, Erfahrungen, die Kommunikation und Entscheidungskriterien in Form eines Archivs, in dem andere bereits getroffene Entscheidungen und Ihre Entstehung nachvollziehen können. Nicht zuletzt hilft es zu verstehen, wie Führungskräfte in bestimmten Situationen und unter gewissen Rahmenbedingungen entschieden haben. <br/><br/>
- • Bieten Sie anderen Anleitungen zur offenen Entscheidungsfindung (open decision) und Auswahl von Tools für die Zusammenarbeit
+ • Biete anderen Anleitungen zur offenen Entscheidungsfindung (open decision) und Auswahl von Tools für die Zusammenarbeit an
 </td>
 <td>
- • Wie monitoren wir mailing Listen und andere Feedback Kanäle nach Inkrafttreten der Entscheidung?<br/><br/>
+ • Wie monitoren wir Mailing-Listen und andere Feedbackkanäle nach Inkrafttreten der Entscheidung?<br/><br/>
  • Wenn wir in einer frühen Projektphase begonnen haben, oder auch unsere Entscheidung von vielen zukünftigen Parametern beeinflusst wird, werden wir weiterhin schrittweise Verbesserungen basierend auf Feedback vornehmen?<br/><br/>
- • Wie groß ist unsere Bereitschaft aufgrund von Feedback unsere Entscheidung zu überarbeiten??<br/><br/>
+ • Wie groß ist unsere Bereitschaft, aufgrund von Feedback unsere Entscheidung zu überarbeiten??<br/><br/>
  • Was ist ein angemessenes Zeitfenster für zusätzliche Eingaben und Verfeinerungen??<br/><br/>
- • Haben wir etwas wichtiges übersehen? Wie gehen wir damit um?<br/><br/>
+ • Haben wir etwas Wichtiges übersehen? Wie gehen wir damit um?<br/><br/>
  • Muss die Entscheidung überprüft werden?<br/><br/>
  • Hat die offene Entscheidungsfindung (open decision) zu den gewünschten Ergebnissen geführt?<br/><br/>
  • Wie können wir unsere gewonnenen Erkenntnisse teilen und offene Entscheidungen bei Red Hat fördern?
@@ -398,4 +398,4 @@ _Seite 15 von 15_
   - besseren Abstimmung zwischen Geschäftsentscheidungen und unserer Unternehmensstrategie, Zielen, Kultur, Werten und unserer Mission
   - Verdeutlichung, wie "gut" in der Entscheidungsfindung und Kommunikation aussieht
   - konsistenten Anleitung von Teams und Führungskräften zu den kulturellen Erwartungen von Red Hat im Einklang von Transparenz und Vertraulichkeit
-  - Verbesserung des Engagements der Mitarbeiter und des Signal-Rausch-Verhältnisses in der Memoliste bzw. der Kommunikation insgesamt
+  - Verbesserung des Engagements der Mitarbeiter und des Signal-Rausch-Verhältnisses auf memo-list bzw. der Kommunikation insgesamt
