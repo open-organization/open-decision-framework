@@ -1,8 +1,8 @@
 Open Decision Framework
 =======================
-Community Version 1.0.4
+Community Version 1.0.5
 
-Updated Apr 10, 2017
+Updated Sep 14, 2020
 
 © 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
 
@@ -71,7 +71,7 @@ _page 4 of 15_
 
 **Open exchange**
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people are allowed to learn and use existing information toward creating new ideas.
+Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people can learn and use existing information to develop new ideas.
 
 **Participation**
 
@@ -87,7 +87,7 @@ In a meritocracy, good ideas can come from anywhere, and the best ideas win. Eve
 
 **Community**
 
-Communities are formed around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
+Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
 
 Adapted from: https://opensource.com/open-source-way
 
@@ -124,11 +124,11 @@ You can't please everyone.
 ----------------------------------------------------
 **But when you make open decisions, people feel...**  _page 6 of 15_ 
 
-  - I understand why the decision was made and how it aligns to Red Hat's strategy, goals, and mission.
+  - I understand why the decision was made and how it aligns with Red Hat's strategy, goals, and mission.
   - There was visibility to the business requirements, research, and evaluation criteria.
   - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's obvious that the decision makers understand Red Hat's values and culture.
+  - Although I wasn't the decision-maker, I was able to contribute to the process.
+  - I may not agree with the decision, but it's clear that the decision-makers understand Red Hat's values and culture.
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
@@ -355,10 +355,10 @@ Resources
 _page 12 of 15_ 
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
+  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) – a guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
+  - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles apply to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
 
@@ -389,6 +389,6 @@ _page 15 of 15_
 **A collection of proven practices that:**
 
   - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate “what good looks like” in decision-making and communication
+  - Demonstrate "what good looks like" in decision-making and communication
   - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
   - Improve associate engagement, signal-to-noise ratio on memo-list
