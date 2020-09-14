@@ -28,10 +28,11 @@ The Open Decision Framework is available in three different formats:
 ### Translations
 The Open Decision Framework is also available in:
 
+* [Brazilian Portuguese](pt_BR)
 * [French](fr_FR)
 * [German](de_DE)
+* [Korean](ko_KR)
 * [Italian](it_IT)
-* [Brazilian Portuguese](pt_BR)
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
@@ -46,7 +47,7 @@ What does the Open Decision Framework look like, in action? What does it look li
 
 **Common fact base template**
 A template for creating a "common fact base" - a comprehensive set of information that allows all stakeholders (past, present, and future) to have a shared understanding of important facts and information about a given problem, project, or decision.
-* Download the [common fact base template](common-fact-base-template) in .ODT or .DOCX
+* Download the [common fact base template](common-fact-base-template) in .MD, .ODT, or .DOCX
 
 ## Real-world examples ##
 See how people apply the Open Decision Framework:
@@ -114,3 +115,8 @@ See how people apply the Open Decision Framework:
 * Gian Luca Rivalta @grivalta
 * Guenter Herold @herold74
 * Joachim Schroeder @joschro
+* Camila Granella @camgranella
+* Alice Eunhyoo Lim
+* Claire Jung
+* Edwin Noh
+* Sally HeeKyung Sung
