@@ -49,6 +49,11 @@ What does the Open Decision Framework look like, in action? What does it look li
 A template for creating a "common fact base" - a comprehensive set of information that allows all stakeholders (past, present, and future) to have a shared understanding of important facts and information about a given problem, project, or decision.
 * Download the [common fact base template](common-fact-base-template) in .MD, .ODT, or .DOCX
 
+**Badges**
+Promote your use of the Open Decision Framework with one of our [badges](/badges).
+
+![ODF badge](/badges/ODF_Badge_Mojo-sidebar_horizontal.jpg)
+
 ## Real-world examples ##
 See how people apply the Open Decision Framework:
 * [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - article
