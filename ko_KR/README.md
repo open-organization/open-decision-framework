@@ -15,26 +15,24 @@
 
 **목차**
 
-* [개요](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#overview)
-  * [오픈 디시젼이란 무엇입니까?](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#what-is-an-open-decision)
-  * [오픈 디시젼은 공개 원칙을 사용하여 만들어집니다](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#open-decisions-are-made-using-open-source-principles)
-  * [오픈 소스 원칙이 더 나은 의사 결정으로 이어지는 방법](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#how-open-source-principles-lead-to-better-decisions)
-  * [당신은 모두를 기쁘게 할 수 없습니다](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#you-cant-please-everyone)
-* [오픈 디시젼 프레임](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#open-decision-framework-1)
-  * [단계 또는 활동: 개념, 정의, 아이디어](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#phase-or-activity-concept-define-ideate)
-  * [단계 또는 활동: 계획, 연구](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#phase-or-activity-plan-research)
-  * [단계 또는 활동: 설계, 개발, 테스트](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#phase-or-activity-design-develop-test)
-  * [단계 또는 활동: 시작, 배포, 마무리](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#phase-or-activity-launch-deploy-close)
-* [자원](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#resources)
-* [부록](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#appendix)
-  * [역사: 프레임워크가 시작된 곳](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#history-where-the-open-decision-framework-came-from)
-  * [프레임워크가 존재하는 이유](https://github.com/red-hat-people-team/open-decision-framework/blob/master/ODF-community.md#why-the-framework-exists)
+* [개요](#개요)
+  * [오픈 디시젼이란 무엇입니까?](#오픈-디시젼이란-무엇입니까)
+  * [오픈 디시젼은 공개 원칙을 사용하여 만들어집니다](#오픈-디시젼은-오픈-소스-원칙을-사용하여-만들어집니다)
+  * [오픈 소스 원칙이 더 나은 의사 결정으로 이어지는 방법](#오픈-소스-원칙이-더-나은-의사결정으로-이어지는-방법)
+  * [당신은 모두를 기쁘게 할 수 없습니다](#당신은-모두를-기쁘게-할-수-없습니다)
+* [오픈 디시젼 프레임](#오픈-디시젼-프레임)
+  * [단계 또는 활동: 개념, 정의, 아이디어](#단계-또는-활동-개념-정의-아이디어)
+  * [단계 또는 활동: 계획, 연구](#단계-또는-활동-계획-연구)
+  * [단계 또는 활동: 설계, 개발, 테스트](#단계-또는-활동-설계-개발-테스트)
+  * [단계 또는 활동: 시작, 배포, 마무리](#단계-또는-활동-시작-배포-마무리)
+* [자원](#자원)
+* [부록](#부록)
+  * [역사: 프레임워크가 시작된 곳](#역사-프레임워크가-시작된-곳)
+  * [프레임워크가 존재하는 이유](#프레임워크가-존재하는-이유)
 
-# **개요**
-
-*페이지 15 중 2*
-
-
+개요
+===========================================================================
+_페이지 15 중 2_
 
 그것은 무엇입니까
 
@@ -51,9 +49,9 @@
 
 * 오픈 디시젼 프레임워크에서 여러분의 프로젝트 계획 또는 의사 결정 프로세스로 단계를 구축하세요.
 
-## **오픈 디시젼이란 무엇입니까?**
-
-*페이지 15 중 3*
+오픈 디시젼이란 무엇입니까?
+-------------------------
+_페이지 15 중 3_
 
 <table>
   <tr>
@@ -68,9 +66,9 @@
   </tr>
 </table>
 
-## **오픈 디시젼은 오픈 소스 원칙을 사용하여 만들어집니다**
-
-*페이지 15중 4*
+오픈 디시젼은 오픈 소스 원칙을 사용하여 만들어집니다
+-------------------------
+_페이지 15중 4_
 
 공개 교환
 
@@ -94,9 +92,9 @@
 
 [https://opensource.com/open-source-way](https://opensource.com/open-source-way) 에서 적용되었음
 
-## **오픈 소스 원칙이 더 나은 의사결정으로 이어지는 방법**
-
-페이지 15 중 5
+오픈 소스 원칙이 더 나은 의사결정으로 이어지는 방법
+-------------------------
+_페이지 15 중 5_
 
 <table>
   <tr valign="top">
@@ -137,9 +135,10 @@
   </tr>
 </table>
 
-## **당신은 모두를 기쁘게 할 수 없습니다.**
+당신은 모두를 기쁘게 할 수 없습니다.
+-------------------------
 
-그러나 당신이 오픈 디시젼을 내릴 때 사람들은 느끼게 됩니다...  *페이지 15 중 6*
+그러나 당신이 오픈 디시젼을 내릴 때 사람들은 느끼게 됩니다...   _페이지 15 중 6_
 
 * 결정이 내려진 이유와 결정이 레드햇의 전략, 목표 및 미션에 어떻게 부합되는지 이해합니다.
 * 비즈니스 요구 사항, 연구 및 평가 기준에 대한 가시성이 있었습니다.
@@ -149,11 +148,12 @@
 * 나는 실망했을지도 모르겠지만 놀라지 않았습니다.
 * 내 목소리에 귀 기울였고 소중하게 여겨졌습니다.
 
-# **오픈디시젼 프레임워크**
+오픈디시젼 프레임워크
+===========================================================================
 
-## **단계 또는 활동: 개념, 정의, 아이디어**
-
-*페이지 15중 7*
+단계 또는 활동: 개념, 정의, 아이디어
+----------------------
+_페이지 15중 7_
 
 <table>
   <tr valign="top">
@@ -230,9 +230,9 @@
   </tr>
 </table>
 
-## **단계 또는 활동: 계획, 연구**
-
-*페이지 15중 8*
+단계 또는 활동: 계획, 연구
+----------------------
+_페이지 15중 8_
 
 <table>
   <tr valign="center">
@@ -281,9 +281,9 @@
   </tr>
 </table>
 
-## **단계 또는 활동: 설계, 개발, 테스트**
-
-*페이지 15중 9*
+단계 또는 활동: 설계, 개발, 테스트
+----------------------
+_페이지 15중 9_
 
 <table>
   <tr valign="top">
@@ -360,9 +360,9 @@
   </tr>
 </table>
 
-## **단계 또는 활동: 출시, 배포, 완료**
-
-*페이지 15 중 10*
+단계 또는 활동: 출시, 배포, 완료
+----------------------
+_페이지 15 중 10_
 
 <table>
   <tr valign="top">
@@ -425,9 +425,9 @@
   </tr>
 </table>
 
-# **자료**
-
-*페이지 15 중 12*
+자료
+===========================================================================
+_페이지 15 중 12_
 
 * [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – 협업, 투명성, 신뢰, 메리토크라시, 연결에 대한 빠른 참조 시트
 * [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) – 기여자들 커뮤니티 생성 및 육성에 대한 안내서
@@ -436,11 +436,11 @@
 * [Opensource.com](http://www.opensource.com/) – 비즈니스, 교육, 정부 등에 오픈 소스 원칙을 적용하는 방법에 중점을 두는 Red Hat이 지원하는 발행물
 * [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
-# **부록**
+부록
+===========================================================================
 
-## **역사: “오픈 디시젼 프레임워크”의 출처**
-
-*페이지 15중 14*
+역사: “오픈 디시젼 프레임워크”의 출처
+_페이지 15중 14_
 
 * 오픈소스 커뮤니티가 실천하는 원칙에 기반
   * 듀크 대학의 Fuqua School of Business 및 Diana Martin의 연구 (2009 – 2010); 추가 커뮤니티 리소스
@@ -450,9 +450,9 @@
   * Google Calendar Bridge 워킹 그룹에서 IT와 엔지니어링에 의해 테스트(2014 – 2015)
 * Rebecca Fernandez에 의해 유지보수됨 (rfernand@redhat.com)
 
-## **프레임워크가 존재하는 이유**
-
-*페이지 15 중 15*
+프레임워크가 존재하는 이유
+------------------------
+_페이지 15 중 15_
 
 다음과 같은 입증된 사례 모음 :
 
@@ -461,11 +461,11 @@
 * 투명성과 기밀성의 균형을 유지하면서 Red Hat 문화적 기대에 대해 팀과 리더에게 일관된 지침을 제공합니다.
 * 직원의 참여 및 메모리스트에서 신호 대 잡음비율을 개선합니다.
 
-# **한국어 번역 /**
+**한국어 번역 /**
 
 한국어 번역에 대한 몇 가지 의견.
 
-## **번역가**
+**번역가**
 
 이 노력에 참여한 사람들의 목록 :
 
@@ -476,9 +476,7 @@
 
 모두 감사합니다!
 
-
-
-## **용어사전**
+**용어사전**
 
 다음은 번역이 해석되는 중요한 용어입니다. 전체 프로젝트에서 이러한 용어를 일관된 번역으로 유지하는 것이 중요합니다.
 
