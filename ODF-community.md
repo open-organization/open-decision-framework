@@ -354,12 +354,12 @@ Resources
 ===========================================================================
 _page 12 of 15_ 
 
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) – a guide to creating and nurturing communities of contributors
-  - [The Open Organization](http://opensource.com/open-organization) (book + online community)
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles apply to business, education, government, and more
-  - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
+  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier)—quick reference sheets on collaboration, transparency, trust, meritocracy, connection
+  - [The Open Source Way guidebook](https://www.theopensourceway.org/)—a way of thinking about how people collaborate within a community to achieve common goals and interests
+  - [The Open Organization](https://theopenorganization.org/)—a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead
+  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)—see grid in Máirín Duffy's "5 UX Tips for Developers"
+  - [Opensource.com](http://www.opensource.com/)—A Red Hat-supported publication focused on how open source principles apply to business, education, government, and more
+  - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)—by Daniel Tenner
 
 
 Appendix 
