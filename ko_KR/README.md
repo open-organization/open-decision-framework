@@ -430,7 +430,7 @@ _페이지 15 중 10_
 _페이지 15 중 12_
 
 * [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – 협업, 투명성, 신뢰, 메리토크라시, 연결에 대한 빠른 참조 시트
-* [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) – 기여자들 커뮤니티 생성 및 육성에 대한 안내서
+* [The Open Source Way handbook](https://www.theopensourceway.org) – 기여자들 커뮤니티 생성 및 육성에 대한 안내서
 * [The Open Organization](http://opensource.com/open-organization) (책 + 온라인 커뮤니티)
 * [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), Máirín Duffy의 "개발자를 위한 5 가지 UX 팁"에서 그리드 참조 
 * [Opensource.com](http://www.opensource.com/) – 비즈니스, 교육, 정부 등에 오픈 소스 원칙을 적용하는 방법에 중점을 두는 Red Hat이 지원하는 발행물

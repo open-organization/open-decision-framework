@@ -363,7 +363,7 @@ Risorse
 _pagina 12 di 15_ 
 
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – breve promemoria su collaborazione, trasparenza, fiducia, meritocrazia, connessione
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guida per creare e supportare comunità di contributori
+  - [The Open Source Way handbook](https://www.theopensourceway.org) –  guida per creare e supportare comunità di contributori
   - [The Open Organization](http://opensource.com/open-organization) (libro + comunità online)
   - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), vedere la tabella nell'articolo "5 UX Tips for Developers" di Máirín Duffy
   - [Opensource.com](http://www.opensource.com/) – Una pubblicazione supportata da Red Hat e focalizzata su come i principi open source possono essere applicati al business, all'istruzione, al governo ecc.

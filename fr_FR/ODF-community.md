@@ -467,7 +467,7 @@ _page 13 of 15_
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) –
 Pense-bête sur la collaboration, la transparence, la confiance, la méritocracie
 et la connexion 
-  - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide pour
+  - [The Open Source Way handbook](https://www.theopensourceway.org) –  guide pour
 créer et entretenir une communauté de contributeurs
   - [The Open Organization](http://opensource.com/open-organization) (livre +
     communauté en ligne)
