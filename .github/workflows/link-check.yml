@@ -1,7 +1,7 @@
- 
 name: Check Markdown links
 
 on:
+  pull_request:
   push:
     branches:
     - master
@@ -10,8 +10,11 @@ on:
   - cron: "0 9 * * *"
 
 jobs:
-  markdown-link-check:
+  cs_CZ:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        folder-path: 'cs_CZ,'
+
