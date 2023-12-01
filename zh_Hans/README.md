@@ -4,7 +4,7 @@
 ## 背景
 For the past few years at Red Hat, we’ve been grappling with the challenges of growing an open organization and sustaining our culture along the way. One tool we’ve been developing and testing is the Open Decision Framework, a collection of best practices for applying [open source principles](https://opensource.com/open-source-way) to business projects and decisions. 
 
-The Open Decision Framework contains the collective wisdom of Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions. 
+开放决策框架包含了红帽人团队的集体智慧，汇编成了一个灵活的框架，帮助决策者和领导者寻求不同的观点，跨团队和跨地域合作，从而做出更好的决策。
 
 ## 许可
 The Open Decision Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
