@@ -2,70 +2,71 @@
 开放决策框架的社区版本
 
 ## 背景
-For the past few years at Red Hat, we’ve been grappling with the challenges of growing an open organization and sustaining our culture along the way. One tool we’ve been developing and testing is the Open Decision Framework, a collection of best practices for applying [open source principles](https://opensource.com/open-source-way) to business projects and decisions. 
+在红帽公司过去的几年中，我们一直在努力应对发展开放式组织和保持企业文化的挑战。我们一直在开发和测试的一个工具是 "开放决策框架"，这是一套将[开源原则](https://opensource.com/open-source-way)应用于业务项目和决策的最佳实践。
 
 开放决策框架包含了红帽人团队的集体智慧，汇编成了一个灵活的框架，帮助决策者和领导者寻求不同的观点，跨团队和跨地域合作，从而做出更好的决策。
 
 ## 许可
-The Open Decision Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
+开放决策框架采用[知识共享 CC BY-SA 4.0 许可](http://creativecommons.org/licenses/by-sa/4.0/)。内容反映了我们在红帽公司使用的内部版本，去除了一些与我们内部网或其他内部网站内容的链接。
 
 ### 参与贡献
 
-All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). 
-* [Learn more](CONTRIBUTING.md)
+对开放决策框架的所有版权贡献均在[知识共享 CC BY-SA 4.0 许可](http://creativecommons.org/licenses/by-sa/4.0/)下接受。
+* [了解更多](CONTRIBUTING.md)
 
 ### 修改与分叉
 
-Note: Modified versions must remove all Red Hat branding, unless you are creating an official translation, making a pull request, or offering a suggestion for improving the original.
+注意：修改后的版本必须去掉所有 Red Hat 品牌标识，除非是创建官方翻译、提出 PR 或提供改进原版的建议。
 
 ## 可用格式
-The Open Decision Framework is available in three different formats:
+开放决策框架提供三种不同的格式：
 
-1. [Portable Document Format](ODF-community.pdf) (.pdf) - best for viewing, sharing, presenting as-is, and printing
-2. [LibreOffice Impress](ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
-3. [Markdown](ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
+1. [Portable Document Format](ODF-community.pdf) (.pdf) - 最适合查看、共享、按原样呈现和打印
+2. [LibreOffice Impress](ODF-community.odp) (.odp) - 最适合编辑和改编到您自己的演示文稿中
+3. [Markdown](ODF-community.md) (.md) - 最适合跟踪和提交建议的更改、翻译等。
 
 ### 翻译
-The Open Decision Framework is also available in:
+开放决策框架还支持以下语言：
 
-* [Brazilian Portuguese](pt_BR)
-* [French](fr_FR)
-* [German](de_DE)
-* [Korean](ko_KR)
-* [Italian](it_IT)
+* [Brazilian Portuguese 巴西葡萄牙语](../pt_BR)
+* [French 法语](../fr_FR)
+* [German 德语](../de_DE)
+* [Korean 韩语](../ko_KR)
+* [Italian 意大利语](../it_IT)
+* [Simplified Chinese 简体中文](../zh_Hans)
 
 ## 反馈
-Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
+查阅并告诉我们您的想法。您也可以对它进行改编，并与您所在组织的项目经理、团队领导和决策者分享！
 
-If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
+如果您想提交想法，请使用markdown格式（.md），以便于跟踪更改。
 
 ## 相关资源
 
-**Maturity model assessment**: 
-What does the Open Decision Framework look like, in action? What does it look like as you begin to adopt the practices... and later on, as you mature in your capabilities?
- * Download the [maturity model](maturity-model) and find out.
+**成熟度模型评估**: 
+开放决策框架在实际应用中是什么样的？ 当你开始采用该实践时，以及后来当你的能力趋于成熟时，它到底是什么样子的 ？
+ * 下载 [成熟度模型](maturity-model) 找到答案。
 
-**Common fact base template**
-A template for creating a "common fact base" - a comprehensive set of information that allows all stakeholders (past, present, and future) to have a shared understanding of important facts and information about a given problem, project, or decision.
-* Download the [common fact base template](common-fact-base-template) in .MD, .ODT, or .DOCX
+**共同事实库模板**
+创建一个 "共同事实库 "的模板 —— 一整套全面的信息，让所有相关方（过去、现在和未来）对特定问题、项目或决策的重要事实和信息有共同的理解。
+* 下载 [共同事实库模板](common-fact-base-template) ，支持格式 .MD、 .ODT 或 .DOCX 。
 
-**Badges**
-Promote your use of the Open Decision Framework with one of our [badges](/badges).
+**徽章**
+通过我们的[徽章](/badges)促进你的开放决策框架应用。
 
-![ODF badge](/badges/ODF_Badge_Mojo-sidebar_horizontal.jpg)
+![ODF 徽章](/badges/ODF_Badge_Mojo-sidebar_horizontal.jpg) 
 
-## Real-world examples ##
-See how people apply the Open Decision Framework:
-* [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - article
-* Fedora logo redesign - [up/down vote](https://pagure.io/Fedora-Council/tickets/issue/248) | [sample blog post](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
-* [Planet4](https://wiki.greenpeace.org/Planet4) - Greenpeace.org international website redesign project
-* [Lessons learned on the DevOps front](https://www.youtube.com/watch?v=vyirF0fYtEY) - YouTube video
-* An open source start-up applies the Open Decision Framework - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [slides](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
+## 真实案例 ##
+了解人们如何应用开放决策框架：
+* [红帽的原因声明项目](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - 文章
+* Fedora logo 重新设计 - [赞成/反对 投票](https://pagure.io/Fedora-Council/tickets/issue/248) | [博文示例](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
+* [Planet4](https://wiki.greenpeace.org/Planet4) - Greenpeace.org 国际网站重新设计项目
+* [从 DevOps 吸取的教训](https://www.youtube.com/watch?v=vyirF0fYtEY) - YouTube 视频
+* 一家开源初创企业应用开放决策框架 - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [幻灯片](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
 
 ## 荣誉榜
-**Maintainer**: Rebecca Fernandez @ruhbehka
+**维护者**：Rebecca Fernandez @ruhbehka
 
-### Red Hat contributors (2014 - 2017)
+### 红帽公司贡献者（2014 - 2017）
 * DeLisa Alexander
 * Nick Coghlan @ncoghlan
 * Mairin Duffy @mairin
@@ -125,3 +126,5 @@ See how people apply the Open Decision Framework:
 * Claire Jung
 * Edwin Noh
 * Sally HeeKyung Sung
+* Chris Yang [@node](https://github.com/node)
+* 
