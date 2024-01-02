@@ -15,188 +15,185 @@
 内容
 ===========================================================================
 * [概述](#overview)
-  * [What is an open decision?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
-  * [You can't please everyone](#you-cant-please-everyone)
-* [Open Decision Framework](#open-decision-framework-1)
-  * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
-  * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
-  * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
-* [Resources](#resources)
-* [Appendix](#appendix)
-  * [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
-  * [Why the framework exists](#why-the-framework-exists)
+  * [什么是开放决策？](#what-is-an-open-decision)
+  * [应用开源原则做出开放决策](#open-decisions-are-made-using-open-source-principles)
+  * [开源原则如何带来更好的决策](#how-open-source-principles-lead-to-better-decisions)
+  * [你无法取悦所有人](#you-cant-please-everyone)
+* [开放决策框架](#open-decision-framework-1)
+  * [阶段或活动：概念、定义、构想](#phase-or-activity-concept-define-ideate)
+  * [阶段或活动：计划、研究](#phase-or-activity-plan-research)
+  * [阶段或活动：设计、开发、测试](#phase-or-activity-design-develop-test)
+  * [阶段或活动：启动、部署、关闭](#phase-or-activity-launch-deploy-close)
+* [资源](#resources)
+* [附录](#appendix)
+  * [历史：开放决策框架的由来](#history-where-the-open-decision-framework-came-from)
+  * [本框架为何而存在](#why-the-framework-exists)
 
 
-概述
+<a id="overview">概述</a>
 ===========================================================================
 _page 2 of 15_
 
 **这是什么**
-  - A flexible, open approach to making business decisions and leading projects
+  - 一种灵活、开放式的制定业务决策和领导项目的方法
 
 **何时使用**
 
-For decisions and projects that are likely to:
-  - impact our culture or
-  - affect associates beyond your immediate team
+对于可能产生以下影响的决定和项目：
+  - 影响我们的文化或
+  - 影响直接团队以外的同事
 
 **如何使用**
-  - Build steps from the Open Decision Framework into your project plan or decision-making process
+  - 在项目计划或决策过程中加入开放式决策框架的步骤
 
 
-什么是开放式决策？
+<a id="what-is-an-open-decision">什么是开放决策？</a>
 -------------------------
 _page 3 of 15_
 
 <table>
 <tr>
-<td>Transparent</td>
-<td>Inclusive</td>
-<td>Customer-Centric</td>
+<td>透明度</td>
+<td>包容性</td>
+<td>以客户为中心</td>
 </tr>
 <tr>
-<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
-<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
-<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
+<td>解释由谁来做决定，你要解决什么问题，涉及哪些要求和限制，以及你将遵循的流程。</td>
+<td>在整个决策过程中，让他人参与反馈和合作。寻求不同的观点，包括潜在的反对者。</td>
+<td>将人们视为具有竞争需求和优先事项的客户。当某个决定对某些客户有帮助，但让另一些客户失望时，在完成工作的同时管理好关系和期望。</td>
 </tr>
 </table>
 
 
-应用开源原则做出开放决策
+<a id="open-decisions-are-made-using-open-source-principles">应用开源原则做出开放决策</a>
 -----------------------------------------------------
 _page 4 of 15_ 
 
-**Open exchange**
+**开放交流**
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people can learn and use existing information to develop new ideas.
+无论您是在开发软件还是试图解决业务问题，当您与他人共享“源代码”时，开放式交流就开始了。自由交流思想对于创造一个人们可以学习和使用现有信息来开发新思想的环境至关重要。
 
-Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people can learn and use existing information to develop new ideas.
+**参与**
 
-**Participation**
+当我们能够自由协作时，我们就能创造。我们可以解决任何一个人都无法独立解决的问题。当我们能够实施开放标准时，我们就能让其他人参与未来。
 
-When we are free to collaborate, we create. We can solve problems that no one person may be able to solve on their own. And when we can implement open standards, we enable others to participate in the future.
+**早发布+常发布**
 
-**Release early + often**
+快速原型可以导致快速失败，从而更快地找到更好的解决方案。当你可以自由地进行实验时，你就能以新的方式看待问题，在新的地方寻找答案。你可以在实践中学习。
 
-Rapid prototypes can lead to rapid failures, and that leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and look for answers in new places. You can learn by doing.
+**精英治理**
 
-**Meritocracy**
+在精英治理中，好的想法可以来自任何地方，并且最好的想法会获胜。每个人都可以访问相同的信息。成功的工作决定了哪些项目能够崛起并获得社区的支持和努力。
 
-In a meritocracy, good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
+**社区**
 
-**Community**
+社区围绕一个共同的目标而形成。它们汇聚不同的想法，分担工作。全球社区团结起来，可以创造出超出任何个人能力的成果。它能倍增努力并分担工作。只要团结起来，我们就可以做得更多。
 
-Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
-
-Adapted from: https://opensource.com/open-source-way
+改编自： https://opensource.com/open-source-way
 
 
-开源原则如何带来更好的决策  
+<a id="how-open-source-principles-lead-to-better-decisions">开源原则如何带来更好的决策  </a>
 ---------------------------------------------------
 _page 5 of 15_ 
 
 <table>
 <tr>
-<td>Principles</td>
+<td>原则</td>
 <td>→</td>
-<td>Practices</td>
+<td>实践</td>
 <td>→</td>
-<td>Outcomes</td>
+<td>成果</td>
 </tr>
 <tr>
 <td>
-• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
+• 开放交流<br/> • 参与<br/> • 早发布+常发布<br/> • 精英治理<br/> • 社区
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
+• 与内部客户和其他利益相关者保持透明度<br/> • 客户参与<br/> • 获得反馈并进行迭代调整<br/> • 与客户共创<br/> • 过协作建立信任和尊重
 </td>
 <td>→<br/>→<br/>→</td>
 <td>
-• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
+• 客户认同<br/> • 更强更快地采用<br/> • 最佳创意获胜<br/> • 更少的错误、问题和意外影响<br/> • 更高的员工参与度<br/> • 与战略和文化相一致的决策
 </td>
 </tr>
 </table>
 
 
-你无法取悦所有人。
+<a id="you-cant-please-everyone">你无法取悦所有人</a>
 ----------------------------------------------------
-**But when you make open decisions, people feel...**  _page 6 of 15_ 
+**然而当你做出开放式决策时，人们会觉得... ...**  _page 6 of 15_ 
 
-  - I understand why the decision was made and how it aligns with Red Hat's strategy, goals, and mission.
-  - There was visibility to the business requirements, research, and evaluation criteria.
-  - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision-maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's clear that the decision-makers understand Red Hat's values and culture.
-  - I might be disappointed, but I wasn't surprised.
-  - My voice was heard and valued.
+  - 我了解做出此决定的原因以及它如何与红帽的战略、目标和使命保持一致。
+  - 业务需求、研究和评估标准是透明的。
+  - 决策过程具有包容性和透明性。
+  - 虽然我不是决策者，但我能够为这个过程做出贡献。
+  - 我可能不同意这个决定，但很明显决策者了解红帽的价值观和文化。
+  - 我可能会感到失望，但我并不感到惊讶。
+  - 我的声音被听到并受到重视。
 
 
-开放决策框架 
+<a id="open-decision-framework-1">开放决策框架 </a>
 ===========================================================================
-
-Phase or activity: Concept, Define, Ideate 
+<a id="phase-or-activity-concept-define-ideate">阶段或活动：概念、定义、构想 </a>
 ---------------
 _page 7 of 15_ 
 
 <table>
 <tr>
-<td width=34%><strong>Steps you can take to be open</strong></td>
-<td width=36%><strong>Questions to ask</strong></td>
-<td width=30%><strong>Common flamewar triggers</strong></td>
+<td width=34%><strong>你可以采取的开放步骤</strong></td>
+<td width=36%><strong>要提出的问题</strong></td>
+<td width=30%><strong>常见的口水战触发因素</strong></td>
 </tr>
 <tr valign="top">
 <td rowspan=3>
-<strong>Lead with transparency</strong><br/>
- • Publish a problem statement and possible approaches<br/><br/>
- • Identify any aspects of the project or decision that cannot be open<br/><br/>
- • Publish your ideation process<br/><br/>
+<strong>以透明度为导向</strong><br/>
+ • 发布问题陈述和可能的方法<br/><br/>
+ • 确定项目或决定中任何不能公开的方面<br/><br/>
+ • 发布你的构思过程<br/><br/>
 
-<strong>Build diversity of thought + an inclusive environment</strong><br/>
- • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/><br/>
- • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
+<strong>打造思想多样性 + 包容性环境</strong><br/>
+ • 尽早让内部客户和利益相关者参与进来，尤其是那些可能持有异议的人<br/><br/>
+ • 寻求多元化和代表性不足的观点（地理位置、种族、部门、职位级别、性别、年龄等）<br/><br/>
+ • 倡导协作并提供反馈渠道<br/><br/>
+ • 应对风险、局限性和潜在的文化影响，尤其是历史上有争议的问题<br/><br/>
 </td>
 <td>
- • What is the potential impact on the organization? On the culture?<br/><br/>
- • Who do we need to include in planning?<br/><br/>
- • Whose problem are we trying to solve?<br/><Br/>
- • Who will we need or want help from?<br/><br/>
- • Who else could be impacted?<br/><br/>
- • Who has solved a similar problem?<br/><br/>
- • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
+ • 对组织的潜在影响是什么？对文化有什么影响？<br/><br/>
+ • 我们需要让哪些人参与规划？<br/><br/>
+ • 我们要解决谁的问题？<br/><Br/>
+ • 我们需要或希望得到谁的帮助？<br/><br/>
+ • 还有谁会受到影响？<br/><br/>
+ • 谁解决过类似的问题？<br/><br/>
+ • 谁可能不同意、有异议、拒绝或选择退出？还有谁会关心？
 </td>
 <td rowspan=3>
-There are a handful of issues that often generate controversy and upset within Red Hat, including:<br/><br/>
- • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
- • Changes to associates' work environment<Br/><br/>
- • Implementation of proprietary technology<br/><br/>
- • Use of proprietary formats<Br/><br/>
- • Data privacy and sharing<br/><br/>
+有一些问题经常在红帽内部引起争议和不满，包括：<br/><br/>
+ • 影响员工的决策、政策或变更，例如奖励和健康计划<br/><br/>
+ • 员工工作环境的改变<Br/><br/>
+ • 专有技术的实施<br/><br/>
+ • 使用专有格式<Br/><br/>
+ • 数据隐私和共享<br/><br/>
 
-If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
+如果您的项目或决策涉及这些主题中的任何一个，请采取额外措施，使您的流程公开、包容和透明。
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>关键考虑因素</strong></td>
 </tr>
 <tr>
 <td>
- • Confidentiality, privacy, and regulatory requirements<br/><br/>
- • Potential to generate controversy<br/><br/>
- • Impact on Red Hat's culture and future decisions<br/><br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
- • Where to publish
+ • 保密、隐私和监管要求<br/><br/>
+ • 引发争议的可能性<br/><br/>
+ • 对红帽文化和未来决策的影响<br/><br/>
+ • 角色和责任 (OPT 模式： https://github.com/red-hat-people-team/opt-model/) <br/><br/>
+ • 发布地点
 </td>
 </tr>
 </table>
 
 
-阶段或活动：计划、研究
+<a id="phase-or-activity-plan-research">阶段或活动：计划、研究</a>
 ----------------------
 _page 8 of 15_
 
@@ -249,7 +246,7 @@ _page 8 of 15_
 </table>
 
 
-阶段或活动：设计、开发、测试
+<a id="phase-or-activity-design-develop-test">阶段或活动：设计、开发、测试</a>
 ----------------------------
 _page 9 of 15_ 
 
@@ -307,7 +304,7 @@ _page 9 of 15_
 </table>
 
 
-阶段或活动：启动、部署、关闭
+<a id="phase-or-activity-launch-deploy-close">阶段或活动：启动、部署、关闭</a>
 --------------
 _page 10 of 15_ 
 
@@ -352,45 +349,45 @@ _page 10 of 15_
 </table>
 
 
-资源 
+<a id="resources">资源 </a>
 ===========================================================================
 _page 12 of 15_ 
 
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier)—quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way guidebook](https://www.theopensourceway.org/)—a way of thinking about how people collaborate within a community to achieve common goals and interests
-  - [The Open Organization](https://theopenorganization.org/)—a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)—see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/)—A Red Hat-supported publication focused on how open source principles apply to business, education, government, and more
-  - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)—by Daniel Tenner
+  - [红帽乘数效应](https://github.com/red-hat-people-team/red-hat-multiplier)— 关于协作、透明度、信任、精英管理、连接的快速参考表
+  - [开源之道指南](https://www.theopensourceway.org/)— 一种思考人们如何在社区内协作以实现共同目标和利益的方法
+  - [开放式组织](https://theopenorganization.org/)— 一个由社区推动的项目，引领着一场关于开放原则如何改变人们的工作、管理和领导方式的全球对话
+  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)— 请参阅 Máirín Duffy 的“给开发人员的 5 个用户体验技巧”
+  - [Opensource.com](http://www.opensource.com/)— 红帽支持的出版物，重点介绍开源原则如何应用于商业、教育、政府等
+  - [咨询流程](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)— 作者： Daniel Tenner
 
 
-附录 
+<a id="appendix">附录 </a>
 ===========================================================================
 
-历史：开放决策框架的由来
+<a id="history-where-the-open-decision-framework-came-from">历史：开放决策框架的由来</a>
 ----------------------------------------------------
 _page 14 of 15_ 
 
-  - Based on principles practiced by open source communities
+  - 基于开源社区实践的原则
 
-    - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
+    - 杜克大学 Fuqua 商学院和 Diana Martin 的研究（2009 – 2010）；额外的社区资源
 
-  - Developed by the People team, with contributions from cross-functional focus group
+  - 由人事团队开发，并得到跨职能焦点小组的贡献
 
-    - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+    - 源于人事团队项目管理办公室创建开放式项目管理方法的努力（2012 – 2013）
+    - 谷歌日历备忘录列表对话是与所有同事分享草案并邀请他们参与的催化剂（2014 年）
+    - 由 IT 和工程部门在 Google 日历桥接工作组中进行测试（2014 年 - 2015 年）
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - 由 Rebecca Fernandez (rfernand@redhat.com) 更新和维护
 
 
-本框架为何而存在 
+<a id="why-the-framework-exists">本框架为何而存在</a>
 ------------------------
 _page 15 of 15_ 
 
-**A collection of proven practices that:**
+**一系列经过验证的实践：**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate "what good looks like" in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+  - 推动业务决策与公司战略、目标、文化、价值观和使命更好地保持一致
+  - 在决策和沟通中展示“优秀的典范”
+  - 为团队和领导者提供有关红帽文化期望的一致指导，平衡透明度和保密性
+  - 提高员工参与度，改善备忘录列表的信噪比
