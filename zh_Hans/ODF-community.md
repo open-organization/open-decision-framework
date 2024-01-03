@@ -4,7 +4,7 @@
 
 更新于 2020 年 9 月 14 日
 
-© 2014-2017 开放决策框架由红帽人团队创建，采用知识共享署名-相同方式共享 4.0 国际许可协议([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))。Red Hat 和 Shadowman 徽标是红帽公司在其他国家/地区注册的商标。修改后的版本必须去除所有红帽品牌标识。
+© 2014-2017 开放决策框架由红帽人事团队创建，采用知识共享署名-相同方式共享 4.0 国际许可协议([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))。Red Hat 和 Shadowman 徽标是红帽公司在其他国家/地区注册的商标。修改后的版本必须去除所有红帽品牌标识。
 
 注
 =========
@@ -199,48 +199,48 @@ _page 8 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>你可以采取的开放步骤</strong></td>
+<td><strong>要提出的问题</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
- • Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)<br/><br/>
- • Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.<br/><br/>
- • Remain open to new information and perspectives<Br/><br/>
- • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
+<td rowspan=3 width=33%><strong>客户参与 + 合作者</strong><br/>
+ • 收集内部客户和需要帮助者的意见（调查、访谈、焦点小组等）<br/><br/>
+ • 便于参与和管理。询问客户喜欢使用哪些协作工具。制定整合和发布反馈的计划。<br/><br/>
+ • 对新信息和新观点保持开放态度<Br/><br/>
+ • 除了正式渠道之外，还考虑点对点的反馈和交流方案<br/><br/>
 
-<strong>Set expectations upfront</strong><Br/>
- • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
- • Publish decision process and project plan, with roles, dates, constraints
+<strong>预先设定期望</strong><Br/>
+ • 具体说明您需要哪种类型的反馈 + 由谁来做出决定<Br/><Br/>
+ • 公布决策过程和项目计划，包括角色、日期和限制因素
 </td>
-<td rowspan=3 width=33%><strong>Explain the obvious</strong><Br/>
- • Publish the scope of the project or decision, and reiterate often<br/><br/>
- • Publish decision factors and their relative importance<Br/><Br/>
- • Publish your research, including difficult trade-offs, business requirements<br/><br/>
- • To the extent possible, publish any relevant legal, reporting, or confidentiality concerns<br/><br/>
+<td rowspan=3 width=33%><strong>解释显而易见的问题</strong><Br/>
+ • 公布项目或决定的范围，并经常重申<br/><br/>
+ • 公布决策因素及其相对重要性<Br/><Br/>
+ • 发布您的研究成果，包括困难权衡、业务要求<br/><br/>
+ • 尽可能公布任何相关的法律、报告或保密问题<br/><br/>
 
-<strong>Plan the transition</strong><br/><br/>
- • Develop and gather feedback on communication, change management, and adoption plans<br/><Br/>
- • Think through how you could respond to upset individuals (on memo-list and other channels)
+<strong>制定过渡计划</strong><br/><br/>
+ • 制定并收集有关沟通、变更管理和采用计划的反馈<br/><Br/>
+ • 考虑如何回应捣乱的人（在备忘录列表和其他渠道上）
 </td>
 <td>
- • How will we make decisions?<Br/><Br/>
- • What internal customers, stakeholders, and collaborators will we involve?<br/><br/>
- • How will we engage and communicate with them?<br/><br/>
- • What are the open source options?<br/><br/>
- • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
- • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with Red Hat's values and culture?
+ • 我们将如何做出决定？<Br/><Br/>
+ • 我们将涉及哪些内部客户、利益相关者和合作者？<br/><br/>
+ • 我们将如何与他们接触和沟通？<br/><br/>
+ • 有哪些开源选项？<br/><br/>
+ • 选择专有技术或格式会如何限制我们未来的选择？<br/><br/>
+ • 这如何与公司战略和使命保持一致？<br/><br/>
+ • 这可能与红帽的价值观和文化发生哪些冲突？
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>关键考虑因素</strong></td>
 </tr>
 <tr>
 <td>
- • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<Br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
+ • 影响 – 谁、多久 以及 意料之外的状况<br/>
+ • 合作地点和方式<Br/>
+ • 角色 + 职责 （OPT 模式： https://github.com/red-hat-people-team/opt-model/）
 </td>
 </tr>
 </table>
@@ -252,53 +252,53 @@ _page 9 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>你可以采取的开放步骤</strong></td>
+<td><strong>要提出的问题</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Build your community</strong><br/>
- • Ask departments who from their team can provide feedback<Br/><Br/>
- • Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts<br/><br/>
- • Investigate options and accommodations for negatively impacted customers<Br/><Br/>
+<td rowspan=3 width=33%><strong>建立你的社区</strong><br/>
+ • 询问部门团队中哪些人可以提供反馈<Br/><Br/>
+ • 与客户和利益相关者（尤其是那些可能更直言不讳地谈论影响的人）共同制定决策<br/><br/>
+ • 调查受到负面影响的客户的选择和设施<Br/><Br/>
 
-<strong>Promote open exchange</strong><br/>
- • Evaluate, acknowledge, and incorporate feedback<br/><br/>
- • Highlight changes made in response to feedback<br/><br/>
- • If a suggestion isn't feasible, explain why<br/><br/>
- • Publish progress in an open place<br/><br/>
- • Provide regular updates to sponsors, customers, and stakeholders
+<strong>促进开放交流</strong><br/>
+ • 评估、确认并纳入反馈<br/><br/>
+ • 突出显示根据反馈所做的更改<br/><br/>
+ • 如果建议不可行，请解释原因<br/><br/>
+ • 在公开场所公布进展<br/><br/>
+ • 向赞助商、客户和利益相关者提供定期更新
 </td>
 <td rowspan=3 width=33%>
-<strong>Make it safe to voice concerns</strong><br/>
- • Invite project team and collaborators to raise risks and concerns you've overlooked.<br/><br/>
- • Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?<br/><br/>
- • Publish risk and limitations uncovered along the way<br/><br/>
+<strong>确保安全地表达顾虑</strong><br/>
+ • 邀请项目团队和合作者提出您忽视的风险和担忧。<br/><br/>
+ • 请问：什么可能会阻碍这个项目的成功？您的团队会有什么顾虑？我们缺少什么？<br/><br/>
+ • 发布过程中发现的风险和限制<br/><br/>
 
-<strong>Conduct a premortem</strong><br/>
- • Pretend it's launch day, and people are surprised or upset. What triggered it?<br/><br/>
- • Identify changes you would make or points you might clarify in response, and make them proactively instead<br/><br/>
+<strong>进行事前推演</strong><br/>
+ • 假设今天是发布日，人们感到惊讶或不安。是什么引发了这种情况？<br/><br/>
+ • 确定您将做出的更改或您可能澄清的回应要点，并主动做出更改或澄清<br/><br/>
 
-<strong>Activate your ambassadors</strong><Br/>
- • Equip the community to help you clear up misinformation and misunderstandings
+<strong>激活你的大使</strong><Br/>
+ • 让社区帮助你澄清错误信息和误解
 </td>
 <td>
- • Can we pilot or release early to gather input?<br/><br/>
- • How will we test?<br/><Br/>
- • Which internal customers can help test?<br/><br/>
- • Does a cross-functional working group make sense?<br/><br/>
- • Can we build a community of passion around this project or decision?<br/><br/>
- • Have we engaged the people who will have to do the work?<br/><br/>
- • Who do we need more buy-in or support from?
+ • 我们能否进行试点或提前发布以收集意见？<br/><br/>
+ • 我们将如何测试？<br/><Br/>
+ • 哪些内部客户可以帮忙测试？<br/><br/>
+ • 跨职能工作组有意义吗？<br/><br/>
+ • 我们能否围绕这个项目或决定建立一个充满热情的社区？<br/><br/>
+ • 我们是否已经让那些必须从事这项工作的人参与进来？<br/><br/>
+ • 我们需要谁的更多支持？
 </td>
 </tr>
 <tr>
-<td><strong>Key considerations</strong></td>
+<td><strong>关键考虑因素</strong></td>
 </tr>
 <tr>
 <td>
- • Representation of different types of customers<br/>
- • Unexpected impacts and use cases<br/>
- • Unspoken risks and concerns
+ • 不同类型客户的代表<br/>
+ • 意外影响和案例<br/>
+ • 不为人知的风险和顾虑
 </td>
 </tr>
 </table>
@@ -310,40 +310,40 @@ _page 10 of 15_
 
 <table>
 <tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
+<td colspan=2 width="66%"><strong>你可以采取的开放步骤</strong></td>
+<td><strong>要提出的问题</strong></td>
 </tr>
 <tr valign="top">
-<td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with Red Hat's strategy, mission, culture, and values<br/><br/>
- • Outline the steps you've taken to make this decision openly<br/><br/>
- • Highlight use of this framework<br/><br/>
- • Tell associates where to find detailed information<br/><br/>
- • Show how feedback shaped the decision or project<br/><br/>
- • Explain how to provide input after launch<br/><br/>
- • Acknowledge when you're not fully satisfied with the decision or know that others will not be<br/><br/>
- • Share your timeline or criteria for revisiting the decision<br/><br/>
- • Stay engaged with those who reject the decision
+<td rowspan=3 width=33%><strong>以终为始</strong><br/>
+ • 展示与红帽的战略、使命、文化和价值观的一致性<br/><br/>
+ • 请简要说明您为做出这一决定所采取的步骤。<br/><br/>
+ • 突出本框架的使用<br/><br/>
+ • 告诉员工在哪里可以找到详细信息<br/><br/>
+ • 说明反馈意见对决策或项目的影响<br/><br/>
+ • 说明如何在启动后提供意见<br/><br/>
+ • 当你对决定不完全满意或知道其他人也不会满意时，请承认这一点<br/><br/>
+ • 分享您重新考虑决定的时间表或标准<br/><br/>
+ • 与拒绝接受决定的人保持接触
 </td>
 <td rowspan=3 width=33%>
-<strong>Default to open</strong><br/>
- • Reiterate relevant business requirements and constraints<br/><br/>
- • Share relevant legal, reporting, or confidentiality issues<br/><br/>
- • Communicate success criteria and publish relevant metrics<br/><br/>
+<strong>默认开放</strong><br/>
+ • 重申相关业务要求和约束<br/><br/>
+ • 分享相关的法律、报告或保密问题<br/><br/>
+ • 传达成功标准并公布相关指标<br/><br/>
 
-<strong>Contribute upstream</strong><br/>
- • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
- • Offer guidance to others on open decision making and choosing collaboration tools
+<strong>向上游贡献</strong><br/>
+ • 将您的方法、经验教训、沟通方式和决策标准公布到档案中，以便其他人可以回顾过去的决策，了解决策的原因，并了解领导者在过去是如何应对类似问题的<br/><br/>
+ • 在开放式决策和选择协作工具方面为他人提供指导
 </td>
 <td>
- • How will we monitor mailing lists and other feedback channels after the launch?<br/><br/>
- • If we have done early releases, will we continue to make incremental improvements based on feedback?<br/><br/>
- • How willing are we to make revisions based on feedback?<br/><br/>
- • What's a reasonable window of time for additional input and refinement?<br/><br/>
- • Did we overlook something important? How do we address it?<br/><br/>
- • Does the decision need to be revisited?<br/><br/>
- • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making at Red Hat?
+ • 发布后我们将如何监控邮件列表和其他反馈渠道？<br/><br/>
+ • 如果我们进行了早期发布，我们是否会继续根据反馈意见逐步改进？<br/><br/>
+ • 我们有多大程度愿意根据反馈意见进行修改？<br/><br/>
+ • 补充和完善的合理时间窗口是什么？<br/><br/>
+ • 我们是否忽略了重要的事情？我们该如何解决？<br/><br/>
+ • 是否需要重新考虑该决定？<br/><br/>
+ • 公开决策是否带来了预期的结果？<br/><br/>
+ • 我们如何在红帽分享经验教训并鼓励开放式决策？
 </td>
 </tr>
 </table>
