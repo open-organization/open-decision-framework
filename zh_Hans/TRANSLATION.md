@@ -21,7 +21,7 @@
 * **Open source principles**: “开源原则”
 * **Stakeholders**: “相关方” 
 * **Forking**: “分叉”
-* **Flamewar**: “口水战”，原文指的是决策过程中遇到的一些无谓的争吵。
+* **Flamewar**: “口水战”，原文指的是决策过程中遇到的一些激烈的无谓争吵。
 * **Upstream**: “上游”
 * **Feedback**: “反馈”
 * **markdown**: 保持原文，不翻译
