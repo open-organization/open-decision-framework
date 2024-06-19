@@ -120,7 +120,7 @@ _page 5 of 15_
 </table>
 
 
-Not every time you can please everyone.
+You can't please everyone.
 ----------------------------------------------------
 **But when you make open decisions, people feel...**  _page 6 of 15_ 
 
