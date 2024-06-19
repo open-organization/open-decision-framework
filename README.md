@@ -63,9 +63,10 @@ See how people apply the Open Decision Framework:
 * An open source start-up applies the Open Decision Framework - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [slides](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
 
 ## Credits
-**Maintainer**: Rebecca Fernandez @ruhbehka
+**Maintainer**: Jimmy Sjölund @jimmysjolund
 
 ### Red Hat contributors (2014 - 2017)
+* Rebecca Fernandez
 * DeLisa Alexander
 * Nick Coghlan @ncoghlan
 * Mairin Duffy @mairin
