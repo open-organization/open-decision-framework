@@ -126,5 +126,7 @@ See how people apply the Open Decision Framework:
 * Claire Jung
 * Edwin Noh
 * Sally HeeKyung Sung
+* Jaroslav Henner
+* Chris Yang
 
 ![link-check](https://github.com/jarovo/open-decision-framework/actions/workflows/link-check.yml/badge.svg)
