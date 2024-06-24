@@ -2,9 +2,9 @@ Open Decision Framework
 =======================
 Community Version 1.0.5
 
-Updated Sep 14, 2020
+Updated Jun 24, 2024
 
-© 2014-2017 Red Hat and contributors | The Open Decision Framework was created by the Red Hat People team and is available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). Red Hat and the Shadowman logo are trademarks of Red Hat, Inc. registered in other countries. Modified versions must remove all Red Hat branding.
+The Open Decision Framework was created by the Red Hat People team and is maintained by The Open Organization, available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
 Notes
 =========
@@ -379,7 +379,7 @@ _page 14 of 15_
     - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
     - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
 
-  - Updated and maintained by Rebecca Fernandez (rfernand@redhat.com)
+  - Updated and maintained by [The Open Organization](https://github.com/open-organization/)
 
 
 Why the framework exists 
