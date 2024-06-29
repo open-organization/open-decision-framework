@@ -1,6 +1,6 @@
 Open Decision Framework
 =======================
-Community Version 1.0.5
+Community Version 1.0.6
 
 Updated Jun 24, 2024
 
