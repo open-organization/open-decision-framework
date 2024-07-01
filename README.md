@@ -29,10 +29,12 @@ The Open Decision Framework is available in three different formats:
 The Open Decision Framework is also available in:
 
 * [Brazilian Portuguese](pt_BR)
+* [Czech](cs_CZ)
 * [French](fr_FR)
 * [German](de_DE)
-* [Korean](ko_KR)
 * [Italian](it_IT)
+* [Korean](ko_KR)
+* [Simplified Chinese](zh_Hans)
 
 ## Feedback
 Take a look, and let us know what you think. Feel free to remix it, and share it with project managers, team leaders, and decision-makers in your organization!
