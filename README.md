@@ -2,9 +2,9 @@
 A community version of the Open Decision Framework
 
 ## Background
-For the past few years at Red Hat, we’ve been grappling with the challenges of growing an open organization and sustaining our culture along the way. One tool we’ve been developing and testing is the Open Decision Framework, a collection of best practices for applying [open source principles](https://opensource.com/open-source-way) to business projects and decisions. 
+Many organizations grapple with the challenges of growing an open organization and sustaining their culture along the way. One tool the Open Organization community started developing and testing many years ago is the Open Decision Framework, a collection of best practices for applying [open source principles](https://theopenorganization.org/definition/open-organization-definition/) to business projects and decisions. 
 
-The Open Decision Framework contains the collective wisdom of Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions. 
+The Open Decision Framework contains the collective wisdom of Open Organization community members, including Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions. 
 
 ## Licensing
 The Open Decision Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
@@ -64,8 +64,44 @@ Promote your use of the Open Decision Framework with one of our [badges](/badges
 
 ![ODF badge](/badges/ODF_Badge_Mojo-sidebar_horizontal.jpg)
 
+## Real-world examples
+See how people apply the Open Decision Framework:
+
+* [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - article
+* Fedora logo redesign - [up/down vote](https://pagure.io/Fedora-Council/tickets/issue/248) | [sample blog post](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
+* [Planet4](https://medium.com/planet4/opening-up-comms-for-planet-4-a7ce68320f1e) - Greenpeace.org international website redesign project
+* [Lessons learned on the DevOps front](https://www.youtube.com/watch?v=vyirF0fYtEY) - YouTube video
+* An open source start-up applies the Open Decision Framework - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [slides](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
+
 ## Credits
 **Maintainer**: Jimmy Sjölund @jimmysjolund
+
+### Open Organization Contributors
+* Ben Cotton
+* Chad Whitacre 
+* Laura Hilliger
+* Bryan Behrenshausen
+* Jimmy Sjölund
+
+### Translation Contributors
+* Etienne Bersac etienne.bersac@dalibo.com
+* Damien Clochard damien.clochard@dalibo.com
+* Bruno Jean @brunojean
+* Michael Scherer @mscherer
+* Sanpii @sanpii
+* Pierre-Louis Bonicoli @pilou-
+* Antonella Iecle @antuz77
+* Paolo Bonzini @bonzini
+* Gian Luca Rivalta @grivalta
+* Guenter Herold @herold74
+* Joachim Schroeder @joschro
+* Camila Granella @camgranella
+* Alice Eunhyoo Lim
+* Claire Jung
+* Edwin Noh
+* Sally HeeKyung Sung
+* Jaroslav Henner
+* Chris Yang
 
 ### Red Hat contributors (2014 - 2017)
 * Rebecca Fernandez
@@ -106,29 +142,5 @@ Promote your use of the Open Decision Framework with one of our [badges](/badges
 * Chris Ward @kejbaly2
 * Ric Wheeler
 * Jackie Yeaney
-
-### Community Contributors
-* Ben Cotton
-* Chad Whitacre @whit537
-
-### Translation Contributors
-* Etienne Bersac etienne.bersac@dalibo.com
-* Damien Clochard damien.clochard@dalibo.com
-* Bruno Jean @brunojean
-* Michael Scherer @mscherer
-* Sanpii @sanpii
-* Pierre-Louis Bonicoli @pilou-
-* Antonella Iecle @antuz77
-* Paolo Bonzini @bonzini
-* Gian Luca Rivalta @grivalta
-* Guenter Herold @herold74
-* Joachim Schroeder @joschro
-* Camila Granella @camgranella
-* Alice Eunhyoo Lim
-* Claire Jung
-* Edwin Noh
-* Sally HeeKyung Sung
-* Jaroslav Henner
-* Chris Yang
 
 ![link-check](https://github.com/jarovo/open-decision-framework/actions/workflows/link-check.yml/badge.svg)
