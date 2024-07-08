@@ -9,12 +9,12 @@ The Open Decision Framework contains the collective wisdom of Red Hatters, compi
 ## Licensing
 The Open Decision Framework is available under a [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). The content reflects the internal version we use at Red Hat, minus a few links to content on our intranet or other internal websites. 
 
-### Contributing
+## Contributing
 
 All copyrightable contributions to the Open Decision Framework are accepted under the [Creative Commons CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/). 
 * [Learn more](CONTRIBUTING.md)
 
-### Modifying and forking
+## Modifying and forking
 
 Note: Modified versions must remove all Red Hat branding, unless you are creating an official translation, making a pull request, or offering a suggestion for improving the original.
 
@@ -25,7 +25,7 @@ The Open Decision Framework is available in three different formats:
 2. [LibreOffice Impress](ODF-community.odp) (.odp) - best for editing and remixing into your own presentation
 3. [Markdown](ODF-community.md) (.md) - best for tracking and submitting proposed changes, translations, etc.
 
-### Translations
+## Translations
 The Open Decision Framework is also available in:
 
 * [Brazilian Portuguese](pt_BR)
@@ -36,8 +36,9 @@ The Open Decision Framework is also available in:
 * [Korean](ko_KR)
 * [Simplified Chinese](zh_Hans)
 
-## Real-world examples ##
+## Real-world examples
 See how people apply the Open Decision Framework:
+
 * [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - article
 * Fedora logo redesign - [up/down vote](https://pagure.io/Fedora-Council/tickets/issue/248) | [sample blog post](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
 * [Planet4](https://wiki.greenpeace.org/Planet4) - Greenpeace.org international website redesign project
@@ -50,7 +51,6 @@ Take a look, and let us know what you think. Feel free to remix it, and share it
 If you'd like to submit an idea, please use the markdown version (.md) for easy change tracking.
 
 ## Related resources
-
 **Maturity model assessment**: 
 What does the Open Decision Framework look like, in action? What does it look like as you begin to adopt the practices... and later on, as you mature in your capabilities?
  * Download the [maturity model](maturity-model) and find out.
