@@ -18,9 +18,9 @@ Learn more in [CONTRIBUTING.md](`CONTRIBUTING.md`).
 ## Available formats
 The Open Decision Framework is available in three different formats:
 
-1. [Portable Document Format](ODF-community.pdf) (.pdf)--best for viewing, sharing, presenting as-is, and printing
-1. [LibreOffice Impress](ODF-community.odp) (.odp)--best for editing and remixing into your own presentation
-1. [Markdown](ODF-community.md) (.md)--best for tracking and submitting proposed changes, translations, etc.
+1. [Portable Document Format](ODF-community.pdf) (.pdf)—best for viewing, sharing, presenting as-is, and printing
+1. [LibreOffice Impress](ODF-community.odp) (.odp)—best for editing and remixing into your own presentation
+1. [Markdown](ODF-community.md) (.md)—best for tracking and submitting proposed changes, translations, etc.
 
 ## Translations
 The Open Decision Framework is also available in:
