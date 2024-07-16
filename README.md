@@ -65,15 +65,6 @@ Promote your use of the Open Decision Framework with one of our [badges](/badges
 
 ![ODF badge](/badges/ODF_Badge_Mojo-sidebar_horizontal.jpg)
 
-## Real-world examples
-See how people apply the Open Decision Framework:
-
-* [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - article
-* Fedora logo redesign - [up/down vote](https://pagure.io/Fedora-Council/tickets/issue/248) | [sample blog post](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
-* [Planet4](https://medium.com/planet4/opening-up-comms-for-planet-4-a7ce68320f1e) - Greenpeace.org international website redesign project
-* [Lessons learned on the DevOps front](https://www.youtube.com/watch?v=vyirF0fYtEY) - YouTube video
-* An open source start-up applies the Open Decision Framework - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [slides](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
-
 ## Credits
 **Maintainer**: Jimmy Sjölund @jimmysjolund
 
