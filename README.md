@@ -3,10 +3,6 @@ The Open Decision Framework is a tool for making collective decisions in a trans
 It is useful for [open leaders](https://theopenorganization.org/definition/open-leadership-definition/)  who seek to build [open organizations](https://theopenorganization.org/definition/open-organization-definition/).
 
 ## Background
-Many organizations grapple with the challenges of growing an open organization and sustaining their culture along the way. One tool the Open Organization community started developing and testing many years ago is the Open Decision Framework, a collection of best practices for applying [open source principles](https://theopenorganization.org/definition/open-organization-definition/) to business projects and decisions. 
-
-The Open Decision Framework contains the collective wisdom of Open Organization community members, including Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions. 
-=======
 Many organizations grapple with the challenges of fostering and maintaining an [open organizational culture](https://theopenorganization.org/definition/open-organization-definition/).
 To assist with this work in a practical, pragmatic way, the Open Organization community helped create and continues to maintain this flexible, iterative framework for applying open principles to organizational decision-making processes.
 It's designed to help decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas to facilitate better decisions.
