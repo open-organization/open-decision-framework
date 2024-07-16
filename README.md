@@ -3,6 +3,10 @@ The Open Decision Framework is a tool for making collective decisions in a trans
 It is useful for [open leaders](https://theopenorganization.org/definition/open-leadership-definition/)  who seek to build [open organizations](https://theopenorganization.org/definition/open-organization-definition/).
 
 ## Background
+Many organizations grapple with the challenges of growing an open organization and sustaining their culture along the way. One tool the Open Organization community started developing and testing many years ago is the Open Decision Framework, a collection of best practices for applying [open source principles](https://theopenorganization.org/definition/open-organization-definition/) to business projects and decisions. 
+
+The Open Decision Framework contains the collective wisdom of Open Organization community members, including Red Hatters, compiled into a flexible framework that helps decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas, to make better decisions. 
+=======
 Many organizations grapple with the challenges of fostering and maintaining an [open organizational culture](https://theopenorganization.org/definition/open-organization-definition/).
 To assist with this work in a practical, pragmatic way, the Open Organization community helped create and continues to maintain this flexible, iterative framework for applying open principles to organizational decision-making processes.
 It's designed to help decision makers and leaders seek out diverse perspectives and collaborate across teams and geographic areas to facilitate better decisions.
@@ -38,7 +42,7 @@ Review these examples to understand some of the ways people have applied the Ope
 
 * [Red Hat why statement project](https://www.linkedin.com/pulse/how-10000-people-helping-red-hat-rediscover-our-delisa-alexander/) - articl
 * Fedora logo redesign - [up/down vote](https://pagure.io/Fedora-Council/tickets/issue/248) | [sample blog post](https://blog.linuxgrrl.com/2019/02/06/fedora-logo-redesign-update/)
-* [Planet4](https://wiki.greenpeace.org/Planet4) - Greenpeace.org international website redesign project
+* [Planet4](https://opensource.com/tags/open-organization-greenpeace) - Greenpeace.org international website redesign project
 * [Lessons learned on the DevOps front](https://www.youtube.com/watch?v=vyirF0fYtEY) - YouTube video
 * An open source start-up applies the Open Decision Framework - FOSSDEM 2018 [YouTube](https://www.youtube.com/watch?v=JpMBZ8KQrbc) | [slides](https://public.dalibo.com/exports/conferences/20180204_open_decision_framework/presentation_fosdem_30min.html#/) 
 
@@ -72,6 +76,26 @@ Promote your use of the Open Decision Framework with one of our [badges](/badges
 * Laura Hilliger
 * Bryan Behrenshausen
 * Jimmy Sjölund
+
+### Translation Contributors
+* Etienne Bersac etienne.bersac@dalibo.com
+* Damien Clochard damien.clochard@dalibo.com
+* Bruno Jean @brunojean
+* Michael Scherer @mscherer
+* Sanpii @sanpii
+* Pierre-Louis Bonicoli @pilou-
+* Antonella Iecle @antuz77
+* Paolo Bonzini @bonzini
+* Gian Luca Rivalta @grivalta
+* Guenter Herold @herold74
+* Joachim Schroeder @joschro
+* Camila Granella @camgranella
+* Alice Eunhyoo Lim
+* Claire Jung
+* Edwin Noh
+* Sally HeeKyung Sung
+* Jaroslav Henner
+* Chris Yang
 
 ### Translation Contributors
 * Etienne Bersac etienne.bersac@dalibo.com
