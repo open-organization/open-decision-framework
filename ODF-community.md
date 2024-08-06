@@ -2,7 +2,7 @@ Open Decision Framework
 =======================
 Community Version 1.0.6
 
-Updated Jun 24, 2024
+Updated Aug 6, 2024
 
 The Open Decision Framework was created by the Red Hat People team and is maintained by The Open Organization, available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
@@ -124,11 +124,11 @@ You can't please everyone.
 ----------------------------------------------------
 **But when you make open decisions, people feel...**  _page 6 of 15_ 
 
-  - I understand why the decision was made and how it aligns with Red Hat's strategy, goals, and mission.
+  - I understand why the decision was made and how it aligns with our strategy, goals, and mission.
   - There was visibility to the business requirements, research, and evaluation criteria.
   - The decision-making process was inclusive and transparent.
   - Although I wasn't the decision-maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's clear that the decision-makers understand Red Hat's values and culture.
+  - I may not agree with the decision, but it's clear that the decision-makers understand our values and culture.
   - I might be disappointed, but I wasn't surprised.
   - My voice was heard and valued.
 
@@ -169,7 +169,7 @@ _page 7 of 15_
  • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
 </td>
 <td rowspan=3>
-There are a handful of issues that often generate controversy and upset within Red Hat, including:<br/><br/>
+There are a handful of issues that often generate controversy and upset within organizations, including:<br/><br/>
  • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
  • Changes to associates' work environment<Br/><br/>
  • Implementation of proprietary technology<br/><br/>
@@ -186,7 +186,7 @@ If your project or decision involves any of these themes, take extra steps to ma
 <td>
  • Confidentiality, privacy, and regulatory requirements<br/><br/>
  • Potential to generate controversy<br/><br/>
- • Impact on Red Hat's culture and future decisions<br/><br/>
+ • Impact on culture and future decisions<br/><br/>
  • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
  • Where to publish
 </td>
@@ -231,7 +231,7 @@ _page 8 of 15_
  • What are the open source options?<br/><br/>
  • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
  • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with Red Hat's values and culture?
+ • Where might this conflict with your values and culture?
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ _page 10 of 15_
 </tr>
 <tr valign="top">
 <td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with Red Hat's strategy, mission, culture, and values<br/><br/>
+ • Demonstrate alignment with strategy, mission, culture, and values<br/><br/>
  • Outline the steps you've taken to make this decision openly<br/><br/>
  • Highlight use of this framework<br/><br/>
  • Tell associates where to find detailed information<br/><br/>
@@ -344,7 +344,7 @@ _page 10 of 15_
  • Did we overlook something important? How do we address it?<br/><br/>
  • Does the decision need to be revisited?<br/><br/>
  • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making at Red Hat?
+ • How can we share our lessons learned and encourage open decision-making?
 </td>
 </tr>
 </table>
