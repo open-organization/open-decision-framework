@@ -360,7 +360,7 @@ _strana 12 of 15_
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier)—archy rychlých referencí o spolupráci, transparentnosti, důvěře, meritokracii a propojení.
   - [The Open Source Way guidebook](https://www.theopensourceway.org/)—způsob myšlení o tom jak lidé spolupracují v rámci komunity vedoucí k tomu aby dosáhli společných cílů a zájmů
   - [The Open Organization](https://theopenorganization.org/)—komunitou řízený projekt vedoucí ke globální konverzaci o tom jak otevřené principy mění to, jak lidé pracují, myslí a vedou
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)—viz mřížka v Máirín Duffy's "5 UX Tips for Developers"
+  - [Prioritizing by impact](https://developers.redhat.com/blog/2014/08/27/5-ux-tips-for-developers)—viz mřížka v Máirín Duffy's "5 UX Tips for Developers"
   - [Opensource.com](http://www.opensource.com/)—Publikace podporovaná Red Hattem o tom jak je možno aplikovat principy Open Source na obchod, vzdělávání atd.
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)—od Daniel Tenner
 
