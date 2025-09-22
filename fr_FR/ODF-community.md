@@ -471,7 +471,7 @@ et la connexion
 créer et entretenir une communauté de contributeurs
   - [The Open Organization](http://opensource.com/open-organization) (livre +
     communauté en ligne)
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/),
+  - [Prioritizing by impact](https://developers.redhat.com/blog/2014/08/27/5-ux-tips-for-developers),
 voir le tableau de Máirín Duffy : "5 UX Tips for Developers"
   - [Opensource.com](http://www.opensource.com/) – Une publication soutenue par
     Red Hat sur la manière dont les principes open source peuvent être
