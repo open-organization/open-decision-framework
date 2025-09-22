@@ -364,7 +364,7 @@ _Seite 12 von 15_
   - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier) – quick reference sheets on collaboration, transparency, trust, meritocracy, connection
   - [The Open Source Way handbook](https://www.theopensourceway.org/wiki/Introduction) –  guide to creating and nurturing communities of contributors
   - [The Open Organization](http://opensource.com/open-organization) (book + online community)
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/), see grid in Máirín Duffy's "5 UX Tips for Developers"
+  - [Prioritizing by impact](https://developers.redhat.com/blog/2014/08/27/5-ux-tips-for-developers), see grid in Máirín Duffy's "5 UX Tips for Developers"
   - [Opensource.com](http://www.opensource.com/) – A Red Hat supported publication focused on how open source principles can be applied to business, education, government, and more
   - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/) (Daniel Tenner)
 
